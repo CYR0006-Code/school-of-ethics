@@ -2,22 +2,54 @@
 import { computed, nextTick, onMounted, ref, watch } from 'vue'
 import { isExpertReviewed, scenarios } from './data/scenario.js'
 import { adviceVersion, agentResponses } from './data/agentResponses.js'
+import { scoreTrustResponses, trustScaleVersion } from './data/trustScale.js'
 import InstructionsScreen from './components/InstructionsScreen.vue'
 import ScenarioScreen from './components/ScenarioScreen.vue'
 import InitialDecisionScreen from './components/InitialDecisionScreen.vue'
 import AdviceScreen from './components/AdviceScreen.vue'
 import FinalDecisionScreen from './components/FinalDecisionScreen.vue'
+import TrustScreen from './components/TrustScreen.vue'
 import FeedbackScreen from './components/FeedbackScreen.vue'
 import CompleteScreen from './components/CompleteScreen.vue'
+
+// Dissent visibility must be an assigned condition, not a participant choice,
+// so RO1-RO3 compare two genuinely separate groups. `?dissent=` overrides
+// random assignment for manual testing/demoing of either condition.
+function assignCondition() {
+  const override = new URLSearchParams(window.location.search).get('dissent')
+  if (override === 'visible' || override === 'hidden') return override
+  return Math.random() < 0.5 ? 'visible' : 'hidden'
+}
+
+function buildTrial(scenarioId, condition) {
+  const scenario = scenarios.find(item => item.id === scenarioId)
+  const advice = agentResponses[scenarioId]
+  return {
+    scenarioId,
+    scenarioVersion: scenario.version,
+    adviceVersion,
+    expertReferenceVersion: scenario.expertReference.version,
+    expertReviewStatus: isExpertReviewed(scenario) ? 'reviewed' : 'pending-review',
+    consensusLevel: scenario.consensusLevel,
+    dissentShown: condition === 'visible',
+    adviceCorrect: scenario.expertReference.acceptableOptions.includes(advice.overall.recommends),
+    initialDecision: null,
+    finalDecision: null,
+    changedMind: null,
+    overRelied: null,
+  }
+}
 
 function newRecord() {
   return {
     id: crypto.randomUUID(),
-    contentVersion: 'static-prototype-2',
+    contentVersion: 'static-prototype-3',
+    condition: assignCondition(),
     startedAt: new Date().toISOString(),
     completedAt: null,
     scenarioOrder: [],
     trials: [],
+    trust: null,
     events: [],
   }
 }
@@ -62,18 +94,8 @@ function begin() {
 function selectScenario(id) {
   if (view.value !== 'selection' || !scenarios.some(item => item.id === id)) return
   session.value.scenarioOrder = [id, ...scenarios.filter(item => item.id !== id).map(item => item.id)]
-  session.value.trials = session.value.scenarioOrder.map(scenarioId => ({
-    scenarioId,
-    scenarioVersion: scenarios.find(item => item.id === scenarioId).version,
-    adviceVersion,
-    expertReferenceVersion: scenarios.find(item => item.id === scenarioId).expertReference.version,
-    expertReviewStatus: isExpertReviewed(scenarios.find(item => item.id === scenarioId)) ? 'reviewed' : 'pending-review',
-    initialDecision: null,
-    finalDecision: null,
-    changedMind: null,
-    dissent: { offered: false, required: false, viewed: false, skipped: false },
-  }))
-  log('scenario_order_selected', { scenarioOrder: [...session.value.scenarioOrder] })
+  session.value.trials = session.value.scenarioOrder.map(scenarioId => buildTrial(scenarioId, session.value.condition))
+  log('scenario_order_selected', { scenarioOrder: [...session.value.scenarioOrder], condition: session.value.condition })
   view.value = 'initial'
   log('scenario_started')
 }
@@ -89,35 +111,11 @@ function submitInitial(decision) {
   trial.initialDecision = { option: decision.option, reasoning: decision.reasoning, submittedAt: new Date().toISOString() }
   log('initial_submitted', { option: decision.option, reasoning: decision.reasoning })
   view.value = 'advice'
-  log('advice_viewed', { adviceVersion, overallRecommendation: currentAdvice.value.overall.recommends })
-
-  trial.dissent.required = currentIndex.value === 1 && !session.value.trials[0].dissent.viewed
-  if (trial.dissent.required) {
-    log('dissent_required')
-    trial.dissent.viewed = true
-    log('dissent_viewed', { required: true })
-  } else {
-    trial.dissent.offered = true
-    log('dissent_offered')
-  }
+  log('advice_viewed', { adviceVersion, overallRecommendation: currentAdvice.value.overall.recommends, dissentShown: trial.dissentShown })
 }
 
-async function revealPerspectives() {
-  if (view.value !== 'advice' || currentTrial.value.dissent.viewed) return
-  currentTrial.value.dissent.viewed = true
-  log('dissent_viewed', { required: false })
-  await nextTick()
-  document.querySelector('[data-perspectives-heading]')?.focus()
-}
-
-function continueToFinal(skip = false) {
+function continueToFinal() {
   if (view.value !== 'advice') return
-  const dissent = currentTrial.value.dissent
-  if (skip) {
-    if (dissent.required || dissent.viewed) return
-    dissent.skipped = true
-    log('dissent_skipped')
-  } else if (!dissent.viewed) return
   view.value = 'final'
   log('final_decision_viewed')
 }
@@ -127,19 +125,33 @@ function submitFinal(decision) {
   const trial = currentTrial.value
   trial.finalDecision = { option: decision.option, reasoning: decision.reasoning, submittedAt: new Date().toISOString() }
   trial.changedMind = trial.initialDecision.option !== decision.option
-  log('final_submitted', { option: decision.option, reasoning: decision.reasoning, changedMind: trial.changedMind })
+  trial.overRelied = trial.adviceCorrect ? null : decision.option === currentAdvice.value.overall.recommends
+  log('final_submitted', { option: decision.option, reasoning: decision.reasoning, changedMind: trial.changedMind, overRelied: trial.overRelied })
   if (currentIndex.value === 0) {
     currentIndex.value = 1
     view.value = 'initial'
     log('scenario_started')
   } else {
-    view.value = 'feedback'
-    logFeedbackViewed()
+    view.value = 'trust'
+    log('trust_viewed')
   }
 }
 
 function reviewAdvice(event) {
   if (view.value === 'final' && event.target.open) log('advice_reviewed')
+}
+
+function submitTrust(responses) {
+  if (view.value !== 'trust') return
+  session.value.trust = {
+    version: trustScaleVersion,
+    responses,
+    compositeScore: scoreTrustResponses(responses),
+    submittedAt: new Date().toISOString(),
+  }
+  log('trust_submitted', { compositeScore: session.value.trust.compositeScore })
+  view.value = 'feedback'
+  logFeedbackViewed()
 }
 
 function logFeedbackViewed() {
@@ -201,17 +213,18 @@ function restart() {
             <details v-if="view === 'final'" class="saved-advice" @toggle="reviewAdvice">
               <summary>Review AI panel advice</summary>
               <div class="agent-card consensus-card"><strong>Overall recommendation: {{ currentAdvice.overall.recommends }}</strong><p>{{ currentAdvice.overall.reasoning }}</p></div>
-              <template v-if="currentTrial.dissent.viewed">
+              <template v-if="session.condition === 'visible'">
                 <div v-for="agent in currentAdvice.agents" :key="agent.id" class="agent-card"><strong>{{ agent.name }} · {{ agent.recommends }}</strong><p>{{ agent.reasoning }}</p></div>
               </template>
             </details>
           </div>
           <InitialDecisionScreen v-if="view === 'initial'" :key="`${currentScenario.id}:initial`" :scenario="currentScenario" @submit="submitInitial" />
-          <AdviceScreen v-else-if="view === 'advice'" :advice="currentAdvice" :perspectives-visible="currentTrial.dissent.viewed" :dissent-required="currentTrial.dissent.required" @view-perspectives="revealPerspectives" @skip-perspectives="continueToFinal(true)" @continue="continueToFinal()" />
+          <AdviceScreen v-else-if="view === 'advice'" :advice="currentAdvice" :dissent-visible="session.condition === 'visible'" @continue="continueToFinal" />
           <FinalDecisionScreen v-else :key="`${currentScenario.id}:final`" :scenario="currentScenario" :initial-decision="currentTrial.initialDecision" @submit="submitFinal" />
         </div>
       </template>
 
+      <TrustScreen v-else-if="view === 'trust'" @submit="submitTrust" />
       <FeedbackScreen v-else-if="view === 'feedback'" :key="feedbackTrial.scenarioId" :scenario="feedbackScenario" :trial="feedbackTrial" :number="feedbackIndex + 1" :total="2" @next="nextFeedback" />
       <CompleteScreen v-else-if="view === 'complete'" @new-session="restart" />
     </main>

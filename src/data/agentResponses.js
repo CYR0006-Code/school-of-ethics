@@ -4,21 +4,21 @@ export const adviceVersion = 'static-advice-1'
 export const agentResponses = {
   'confidential-design-disclosure': {
     overall: {
-      recommends: 'A',
-      reasoning: 'Use the internal review and seek a controlled independent assessment. The thermal issue remains uncertain, and a review is offered in one week. This approach investigates possible harm while protecting confidential design information, although the community receives less immediate information.',
+      recommends: 'D',
+      reasoning: 'Keep this internal for now and stop further discussion until the issue is reproduced. The thermal problem has not been consistently reproduced and its severity remains uncertain, the engineering director has already offered a review in one week, and the design details are commercially confidential. Acting or disclosing anything before the issue is confirmed risks releasing sensitive information over an effect that may not even be real.',
     },
     agents: [
       {
         id: 'safety',
         name: 'Safety and Risk',
-        recommends: 'A',
-        reasoning: 'The tests have not consistently reproduced the thermal issue, so its severity remains uncertain. A controlled independent assessment can examine that uncertainty without publishing all design files. The review should address the concern promptly; confidentiality should not become a reason to leave it unexamined.',
+        recommends: 'D',
+        reasoning: 'The tests have not consistently reproduced the thermal issue, so its severity remains uncertain. Without a confirmed effect there is nothing concrete to assess or disclose yet. Holding the matter internally until the scheduled review avoids reacting to a problem that may not be reproducible.',
       },
       {
         id: 'ethics',
         name: 'Professional Ethics',
-        recommends: 'A',
-        reasoning: 'The decision involves both responsible investigation and confidentiality. Internal review combined with independent assessment provides a way to examine the concern while protecting sensitive information. Its limitation is that the community must wait for more information.',
+        recommends: 'D',
+        reasoning: 'Commercially confidential design information should not be shared, even partially, while the underlying issue remains unconfirmed. The internal review in one week is a reasonable, already-scheduled path. Pausing discussion until then avoids overstating an uncertain risk to the community.',
       },
       {
         id: 'stakeholder',

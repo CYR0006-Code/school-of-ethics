@@ -10,6 +10,7 @@ export const scenarios = [
       { id: 'D', label: 'Keep all information internal and stop further discussion until the issue is reproduced.' },
     ],
     version: 'development-1',
+    consensusLevel: 'contested',
     expertReference: {
       version: 'expert-reference-1',
       scenarioVersion: 'development-1',
@@ -44,6 +45,7 @@ export const scenarios = [
       { id: 'D', label: 'Proceed immediately without responding to residents because the technical limits are met.' },
     ],
     version: 'development-1',
+    consensusLevel: 'high-consensus',
     expertReference: {
       version: 'expert-reference-1',
       scenarioVersion: 'development-1',

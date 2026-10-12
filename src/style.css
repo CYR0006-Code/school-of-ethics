@@ -64,4 +64,10 @@ a { color: #244b86; text-underline-offset: 0.15em; overflow-wrap: anywhere; }
 :focus-visible { outline: 3px solid #184c9e; outline-offset: 3px; }
 [data-stage-heading], [data-perspectives-heading] { scroll-margin-top: 1rem; }
 .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; border: 0; }
+.likert-item { padding-bottom: 0.75rem; border-bottom: 1px solid #eee; }
+.likert-scale { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem; }
+.likert-option { display: flex; flex-direction: column; align-items: center; gap: 0.2rem; font-size: 0.85rem; cursor: pointer; }
+.likert-endpoint { font-size: 0.8rem; color: #4c5663; }
+.likert-endpoint:first-of-type { margin-right: 0.3rem; }
+.likert-endpoint:last-of-type { margin-left: 0.3rem; }
 @media (max-width: 760px) { .round-layout { grid-template-columns: 1fr; } .screen { padding: 1.4rem; } }
