@@ -1,0 +1,1131 @@
+[Russel ABM Russel] 10:17:37
+Uh, section, right? So that's, that's the one. Now, uh, results section, of course, we don't have anything, but anticipated results are preliminary. Also, preliminary results will be better titled.
+
+[Russel ABM Russel] 10:17:50
+The preliminary results will be, uh…
+
+[Russel ABM Russel] 10:17:55
+Uh, so, what do you have? So, we have Persona…
+
+[Russel ABM Russel] 10:18:01
+What, what do you have there? Personas? We have, uh…
+
+[Russel ABM Russel] 10:18:06
+Mockups?
+
+[Russel ABM Russel] 10:18:09
+Okay, so those are the… there you describe the method, what you're going to do, how it is going to be designed, what design principle you're doing, and so on, but here is mainly the artifacts you have there, preliminary data, what have you done, what have you achieved there, right?
+
+[Russel ABM Russel] 10:18:25
+So, mock-ups, and what do you have right now? Some preliminary data?
+
+[Aryan] 10:18:29
+Prototype.
+
+[Aryan] 10:18:31
+working prototype.
+
+[Russel ABM Russel] 10:18:34
+Uh, not necessarily working prototype, really minority data.
+
+[Russel ABM Russel] 10:18:39
+So, that will be your, uh, what is included in this preliminary.
+
+[Russel ABM Russel] 10:18:50
+What is included in the preliminary data?
+
+[Russel ABM Russel] 10:18:56
+What do you have?
+
+[Aryan] 10:18:56
+Are there the findings of the lit review maybe or?
+
+[Russel ABM Russel] 10:19:00
+You have already reviewed sections, you have done it already. What is there? You tell me. What do you think?
+
+[Aryan] 10:19:07
+Yeah.
+
+[Russel ABM Russel] 10:19:10
+You're missing the… scenarios, right?
+
+[Russel ABM Russel] 10:19:20
+What else?
+
+[Russel ABM Russel] 10:19:22
+What else is there? So you have to gather scenarios. So maybe in that, uh…
+
+[Russel ABM Russel] 10:19:28
+uh, methodology section, you need to include the shortlisting scenarios, right? So you are not just randomly picking anything. And then, two more steps, actually, you need it before you do the implementation. And which could be part of your design section, so let me just…
+
+[Russel ABM Russel] 10:19:45
+And this first, so here…
+
+[Russel ABM Russel] 10:19:48
+So, within the design sections, you need design the prototype.
+
+[Russel ABM Russel] 10:19:52
+This will also require the, um, personal design.
+
+[Russel ABM Russel] 10:19:59
+And, uh, I think under this one, you can put it there. What, what, what you can put?
+
+[Russel ABM Russel] 10:20:07
+Hold a second.
+
+[Russel ABM Russel] 10:20:10
+uh… design the prototype. There, that will require subsections of short…
+
+[Russel ABM Russel] 10:20:18
+Short…
+
+[Russel ABM Russel] 10:20:19
+listing…
+
+[Russel ABM Russel] 10:20:23
+In, uh, the US. Remember, with 10 different domains, have you got that?
+
+[Russel ABM Russel] 10:20:28
+Shortlisting scenarios. You describe the methodology, what have you done? So, it could be just a developer selected. We have some criteria to select this one, because we want to select some complex, ambiguous scenarios, right, for the training purpose itself.
+
+[Russel ABM Russel] 10:20:45
+The short lexis scenarios, and that will be part of the methodology as well, as part of the designing the prototype, okay?
+
+[Russel ABM Russel] 10:20:54
+The other design are the threat-related approaches, and then shortlisting scenario, what have we done. And also, we need to do one more thing. You need to do the validation, you said, expert.
+
+[Russel ABM Russel] 10:21:10
+Expert validation. So that's part of your methodology, right?
+
+[Russel ABM Russel] 10:21:14
+So here, in the result, let's put it there. In the result, um… sorry, I didn't realize that it was ready for review, but it is very early, so nothing is there.
+
+[Russel ABM Russel] 10:21:25
+The result scenarios include that what scenarios you have, um, finalized, which one is going to be part of this prototype.
+
+[Russel ABM Russel] 10:21:34
+There, after shortlisting, right?
+
+[Russel ABM Russel] 10:21:37
+And, uh, these scenarios remind me, are they going to be refined by AI?
+
+[Aryan] 10:21:46
+Uh, maybe it would be good to run them by AI and get recommendations, but we won't let AI directly.
+
+[Aryan] 10:21:55
+Edit the scenarios.
+
+[Russel ABM Russel] 10:21:58
+Now, you're going to define the scenario by AI or not? Scenarios by AI?
+
+[Aryan] 10:22:03
+Oh. So, so yeah, so.
+
+[Russel ABM Russel] 10:22:05
+Yes, okay, just put it there, refine scenario.
+
+[Aryan] 10:22:05
+But we will choose the scenario, give it to AI.
+
+[Russel ABM Russel] 10:22:09
+Yep, yep, that's right, so refined by AI. So these are the actually refined scenarios we are looking at. So that means you need to preliminary data, so you need to include the prompts. What prompts?
+
+[Russel ABM Russel] 10:22:21
+have you used?
+
+[Russel ABM Russel] 10:22:24
+Okay, so that's what we're looking at. And then other… other items you're looking at in the… the anticipated results there. Conclusion feature is mainly one or two statements there. There's nothing to be concluded, it's more about what you're going to do in…
+
+[Russel ABM Russel] 10:22:40
+in the second semester. Okay, please show your wins.
+
+[Russel ABM Russel] 10:22:47
+what needs to be done in S2, or FYPP. That's better.
+
+[Russel ABM Russel] 10:22:55
+Does it make sense? So that's what we're going to say. So say that we're going to complete the prototype.
+
+[Russel ABM Russel] 10:23:01
+and making sure the bug-free, and then we're going to conduct the survey, and evaluate, and then refine the prototype, and so on. So that's the next semester work. And you can put a Gantt chart here. Probably you'll be using, um…
+
+[Russel ABM Russel] 10:23:16
+in future as well. So, what is the plan next?
+
+[Russel ABM Russel] 10:23:21
+Next, uh, next step plan.
+
+[Russel ABM Russel] 10:23:23
+Okay, so other thing I wanted to add here, in terms of the methodology, so these will be the sections, subsections, you need to include that. Uh, what else we need to do? Oh, okay. Uh, design the prototype, design. Design part is very critical, so before even implementing, implementation is straightforward, what you're going to do, how, what.
+
+[Russel ABM Russel] 10:23:43
+Uh, stack you're going to use, and so on.
+
+[Russel ABM Russel] 10:23:45
+The design part, expert validation, we also need the role, right? Role…
+
+[Russel ABM Russel] 10:23:53
+Rolls there, because we said that there are 5 rolls there.
+
+[Russel ABM Russel] 10:23:56
+Right?
+
+[Russel ABM Russel] 10:23:58
+5 years old.
+
+[Russel ABM Russel] 10:23:59
+So, my question is there…
+
+[Aryan] 10:24:00
+I think that's… I think that's outdated. This was done.
+
+[Aryan] 10:24:04
+many weeks back. There are now, I think, 3 roles, 3 main roles.
+
+[Aryan] 10:24:11
+Because the lit review said that after 3 3 different agents.
+
+[Russel ABM Russel] 10:24:11
+Why 3 main rules? How to justify that?
+
+[Russel ABM Russel] 10:24:18
+Yep.
+
+[Aryan] 10:24:19
+the gains diminution.
+
+[Russel ABM Russel] 10:24:22
+Okay, so we have some data to be, uh, to accept this one. Okay, so we can do the three rolls, and remind me, these are fixed rolls, right? For all the scenarios we have described?
+
+[Aryan] 10:24:32
+It's a fixed row sensor.
+
+[Russel ABM Russel] 10:24:32
+Yeah, that's right. And then, in the survey design, conduct survey, there's a survey design, what questions you're going to ask.
+
+[Russel ABM Russel] 10:24:41
+Okay, and what's the… what's the approach, right?
+
+[Russel ABM Russel] 10:24:46
+So, uh, this is, like, a task to be done.
+
+[Russel ABM Russel] 10:24:52
+to be…
+
+[Russel ABM Russel] 10:24:53
+What tasks to be done? So, for example, step, uh, phase one, they'll go there. Phase two, which is like screenshots you have, they'll just describe those, right? Methodology. And survey questions. What questions you're going to ask? Which is part of the ethics applications anyway.
+
+[Russel ABM Russel] 10:25:11
+Um, but we're going to look at those two now. Uh, then Project Editor just briefly mentioned that we have submitted that, pending approval at this stage, that should be fine.
+
+[Russel ABM Russel] 10:25:22
+Uh, or if you can submit by tomorrow, um, we can look at it today as well. I think that should be enough. So get started and refine this.
+
+[Russel ABM Russel] 10:25:33
+No need to, oh, spend more time here. Uh, experimental control, yeah, these are fine, I can review all this here, scenario agent design. So you got quite a couple of sections already, just here and there, just need to make sure. What is this one about?
+
+[Russel ABM Russel] 10:25:49
+Example of columns of… no, it's just… you haven't done.
+
+[Aryan] 10:25:52
+All right.
+
+[Russel ABM Russel] 10:25:52
+This is a draft, right? Okay. Uh, yeah, it's not even ready. I mean, it's got a pass quality at this stage. Uh, so fix that. Um…
+
+[Russel ABM Russel] 10:26:04
+Then, abstract, of course, you write it at the end. So, this one, what we're looking for, you start with the purpose there. What is the bigger purpose of this? Why are you doing this? Why do I care? Okay, engineering students and professional engineers consulted in the year. That's good background.
+
+[Russel ABM Russel] 10:26:18
+But what is the purpose, uh, there? Uh, the judgment, the critical education aims to develop. Okay, so…
+
+[Russel ABM Russel] 10:26:27
+It's not a clear purpose.
+
+[Russel ABM Russel] 10:26:30
+confidently wrong, and uh…
+
+[Russel ABM Russel] 10:26:33
+You can directly jump into the problem there.
+
+[Aryan] 10:26:38
+So what do you mean by purpose? Don't you have to determine the problem, then define the purpose?
+
+[Russel ABM Russel] 10:26:44
+That's the next step. Probably the next statement. First statement is the purpose. Why should I care about that?
+
+[Russel ABM Russel] 10:26:53
+Uh, so… I mean, up to this point, it's fine. It's a purple there.
+
+[Russel ABM Russel] 10:27:00
+Consult a system for what? For when making decision?
+
+[Russel ABM Russel] 10:27:13
+Yeah, maybe divide into two shorter statements. What sort of decisions? Making what decisions? Is this for every decision? I'm going to take a public transport today, or I'm going to eat something else?
+
+[Russel ABM Russel] 10:27:27
+Does it make sense? So, you just need to stop here with a critical decision, or software engineering development decision.
+
+[Aryan] 10:27:30
+Yep.
+
+[Russel ABM Russel] 10:27:36
+Focus, is missing. I'll review this. This is the last thing you do. You have written for us
+
+[Russel ABM Russel] 10:27:43
+This is based on whatever you have written, the whole thing, okay? So that's the purpose, you got this. After purpose, so let's put
+
+[Russel ABM Russel] 10:27:53
+Put some comments there that you'll understand this one. Uh, so, start with the purpose.
+
+[Russel ABM Russel] 10:27:59
+Okay. Then, uh, you do, uh…
+
+[Russel ABM Russel] 10:28:06
+Problem. What is the problem here?
+
+[Russel ABM Russel] 10:28:10
+Do what?
+
+[Russel ABM Russel] 10:28:12
+So…
+
+[Russel ABM Russel] 10:28:15
+The problem is, uh, the confidence is clearly wrong. I mean, that's both extreme, big statement.
+
+[Russel ABM Russel] 10:28:23
+And critically acceptance, and their advice.
+
+[Russel ABM Russel] 10:28:27
+Overrelate. I think this is better. Maybe exclude that part.
+
+[Russel ABM Russel] 10:28:31
+I mean, you can't just say suspect or confidently wrong, because that could be the system's limitation. We can't just generalize that.
+
+[Aryan] 10:28:36
+You have to. Thank you. So.
+
+[Russel ABM Russel] 10:28:41
+So maybe just say that over-reliance is the main problem.
+
+[Aryan] 10:28:47
+Yeah, so I'm not understanding. So isn't a problem with AI that it can be wrong?
+
+[Aryan] 10:28:51
+Isn't that one of the problems?
+
+[Russel ABM Russel] 10:28:52
+Yeah, but your statement is problematic. So, in a research, you need to make a hypothesis which is provable.
+
+[Russel ABM Russel] 10:29:01
+You can't just make a generalized statement. When you say this, it's mainly you're saying that unless you specifically system such as XYZ.
+
+[Aryan] 10:29:04
+Sorry. I mean, it's…
+
+[Russel ABM Russel] 10:29:16
+are wrong.
+
+[Aryan] 10:29:17
+Okay, so I can say, like, I can say large language models can be wrong.
+
+[Russel ABM Russel] 10:29:18
+On some places. Yeah.
+
+[Aryan] 10:29:23
+Or something like that.
+
+[Russel ABM Russel] 10:29:25
+I mean, yeah, I mean, don't say about the wrong, you haven't proven anything, so I would say, just skip this part only, keep the second part only, because this is your focus.
+
+[Aryan] 10:29:30
+Oh, okay.
+
+[Russel ABM Russel] 10:29:36
+Over-reliance is a mixture. We're not proving and disproving anything is wrong or right, because in ethics as well, there's no wrong and right, right? It's more about over-reliance is the issue.
+
+[Aryan] 10:29:41
+Yeah. Okay.
+
+[Aryan] 10:29:47
+Understood. Yep. I'll remove that in focus tomorrow. Yep.
+
+[Russel ABM Russel] 10:29:47
+Yeah, I hope that makes sense. So, we'll define this one, okay. Problem. So, after the problem, you discuss method. What have you done to…
+
+[Russel ABM Russel] 10:29:57
+to do this. So, existing, yeah, I think I'll let you…
+
+[Russel ABM Russel] 10:30:03
+This one went to the background again, so it should be method, okay? So…
+
+[Russel ABM Russel] 10:30:08
+Yeah, probably we don't need this. This will be coming to the background section.
+
+[Russel ABM Russel] 10:30:14
+In the abstract, you don't need that detailed background there, hope that makes sense, okay?
+
+[Aryan] 10:30:18
+Yep.
+
+[Russel ABM Russel] 10:30:20
+And then it directly comes to the method itself. This project investigates whether making disabilities reliable and affects the quality of the ethical decision in the mountainous areas.
+
+[Russel ABM Russel] 10:30:31
+training platform. Okay, so this is the AIM you're referring to.
+
+[Russel ABM Russel] 10:30:36
+Uh, yeah, I think that's kind of overlapping with the methods there, so this will investigate a… yeah, we can simplify this one, okay?
+
+[Russel ABM Russel] 10:30:46
+And then you've got the… what have you done? The experiments. After methods, you have results.
+
+[Russel ABM Russel] 10:30:52
+Our preliminary results, uh, show that something… in this case, FYPA, you don't have detailed results.
+
+[Russel ABM Russel] 10:31:01
+Uh, we don't have any internal data set, so you need to include the internal data capture, um, when, uh, the participant is participating or interacting with the prototype, right? So you are capturing some internal things as well.
+
+[Russel ABM Russel] 10:31:16
+Like, we can see somebody's making decisions, what they're making decisions, and so on, right? Uh, so results will be, for FYP A, will be preliminary. We, we create it, um, so you're thinking about the next semester, end of the year.
+
+[Russel ABM Russel] 10:31:32
+Uh, project.
+
+[Russel ABM Russel] 10:31:34
+Now it is… the abstract is mainly about this paper, 4-page paper, what you're presenting. Does it make sense? So you say that, okay, our preliminary results found that, uh, that personas are important, and we have developed those.
+
+[Aryan] 10:31:38
+Hmm, I see.
+
+[Aryan] 10:31:40
+That's it. Yep. Yep. Please.
+
+[Russel ABM Russel] 10:31:49
+And, uh, we have produced the survey, and, uh… but we could… we haven't conducted the survey yet. And also, previous results from the literature, we've identified certain functional and non-functional requirements, okay?
+
+[Russel ABM Russel] 10:32:03
+So, after results, um, it's not a conclusion. You can't… we haven't… you haven't started the project yet, if that makes sense. So, agent responses are pre-generated and presented. This is a methodology, I can see that, okay? Outcomes are behavioral, over-reliance on incorrect advice, direct circumstances on the…
+
+[Russel ABM Russel] 10:32:24
+uh… cases and stuff, I don't know what does it mean, this part itself.
+
+[Russel ABM Russel] 10:32:30
+This statement doesn't make any sense. Outcomes are behavioral, over-reliance on incorrect advice.
+
+[Russel ABM Russel] 10:32:37
+agreement. This is something you're planning to achieve at the end of the semester? Next semester?
+
+[Aryan] 10:32:43
+So, yeah, essentially, it lists the potential outcomes of…
+
+[Russel ABM Russel] 10:32:48
+Potential outcome, okay, you just said so, that's it, that's what we need. So, this potential outcome, uh, so let's look at that, where is it, uh…
+
+[Russel ABM Russel] 10:32:56
+Yeah, so this one, um…
+
+[Russel ABM Russel] 10:33:03
+And the two future.
+
+[Russel ABM Russel] 10:33:08
+A Y P B Y.
+
+[Russel ABM Russel] 10:33:14
+Does it make sense? So this will be the end.
+
+[Russel ABM Russel] 10:33:17
+So, confirm RQ first, the results… I wouldn't need to include RQ in the, uh, in the abstract, it will be under the introduction there, what is the glance? So, now, introduction, um, yeah, I haven't reviewed this part. Okay, so I need to review this.
+
+[Russel ABM Russel] 10:33:34
+This one… So, what you do is, at the end of the introduction, you have to identify the gap there.
+
+[Russel ABM Russel] 10:33:44
+So there is a clear gap, so missing, missing. Before this one.
+
+[Russel ABM Russel] 10:33:50
+You need to… you need to have one more paragraph.
+
+[Russel ABM Russel] 10:33:57
+One more, Tara.
+
+[Russel ABM Russel] 10:33:59
+Or, if you want to use the project background… not project background, um, it's literature review we're referring to, right?
+
+[Russel ABM Russel] 10:34:08
+And so, in that case, we can put it in this literature review.
+
+[Russel ABM Russel] 10:34:16
+And that's more of a… I think put it in the introduction, that's the best thing to do.
+
+[Russel ABM Russel] 10:34:21
+So, what I do is… this section, right?
+
+[Russel ABM Russel] 10:34:26
+I'll just add it there.
+
+[Russel ABM Russel] 10:34:28
+This is the outline, which is good. Uh, you end up introduction with the outline. Add, uh, one more…
+
+[Russel ABM Russel] 10:34:37
+Error.
+
+[Russel ABM Russel] 10:34:39
+Go ahead.
+
+[Russel ABM Russel] 10:34:41
+Before this, to, uh, uh, and it…
+
+[Aryan] 10:34:47
+So, sorry, do we not, excuse me, do we not include the, uh, the gap in the introduction? Because I've included the gap in the introduction as part of the problem statement.
+
+[Russel ABM Russel] 10:34:48
+And…
+
+[Russel ABM Russel] 10:34:49
+the… yield gap.
+
+[Russel ABM Russel] 10:34:57
+Yeah, that's what I'm saying, so Glad Gap from…
+
+[Russel ABM Russel] 10:35:03
+Uh, literature.
+
+[Russel ABM Russel] 10:35:07
+Followed by RQ.
+
+[Russel ABM Russel] 10:35:14
+That's what we need here.
+
+[Russel ABM Russel] 10:35:17
+Oh, that is…
+
+[Aryan] 10:35:21
+Okay.
+
+[Russel ABM Russel] 10:35:26
+So, what I need to do is just add one more paragraph before the… clearly stating the specific gap.
+
+[Russel ABM Russel] 10:35:34
+And therefore, we have identified in the argues
+
+[Russel ABM Russel] 10:35:38
+Yeah
+
+[Russel ABM Russel] 10:35:39
+And then include the research questions there, okay? That's what I'm looking at.
+
+[Russel ABM Russel] 10:35:44
+And then you go to the problem, and I said the literature review, that's it, unrelated work, the literature review is fine.
+
+[Russel ABM Russel] 10:35:51
+And then you go subsection-wise, based on the literature. So you start with the bigger picture, which is the bigger picture will be like this.
+
+[Russel ABM Russel] 10:36:03
+AI.
+
+[Russel ABM Russel] 10:36:04
+They're consulting AI?
+
+[Russel ABM Russel] 10:36:06
+So it needs to be some sort of order is maintained, like chronological or thematic and so on. Thematic is easier to do. So you start with the bigger AI reliance there, and then you come to your problem, you mentioned that, so some of the AIs are making mistakes.
+
+[Russel ABM Russel] 10:36:22
+prove with the literature, then come up with, okay, there is a growing interest in this multi-roles based AI.
+
+[Russel ABM Russel] 10:36:30
+Then the fourth one would be roles. Even though you have roles, there are literature suggests that more than three is not useful.
+
+[Russel ABM Russel] 10:36:39
+Then the fifth one, but before that, I think we missed one more literature, is the scenarios, why scenarios, general scenarios are problematic, why they need it.
+
+[Russel ABM Russel] 10:36:49
+They like certain scenarios and so on. Uh, particularly decision-making is a problem, um, nowadays. It's challenging because of AI, uh, as a team member, right?
+
+[Russel ABM Russel] 10:37:02
+So that needs to be there. So you need to just structure this one based on… I mean, you have this research on decision-making, so you have to start with decision-making.
+
+[Russel ABM Russel] 10:37:13
+Uh, you started the AI education first. Okay, this lens is also good.
+
+[Russel ABM Russel] 10:37:19
+And then engineering ethics within that, and uh…
+
+[Russel ABM Russel] 10:37:24
+Okay, then you go to the agent there.
+
+[Russel ABM Russel] 10:37:29
+Yeah, so then you move on the remaining parts we discussed, the areas you need to cover there. Of course, this part will be going as part of the introduction part itself, right? The gap and things. I can see that it's there.
+
+[Russel ABM Russel] 10:37:45
+Yeah, that should be in there.
+
+[Aryan] 10:37:45
+So the problem statement, just to be clear, we take it out of this section and put it in. Introduction, correct?
+
+[Russel ABM Russel] 10:37:54
+At the end of this. So that's the gap part I was referring to, yep. That's the clear gap there.
+
+[Aryan] 10:37:58
+Doesn't the gap… I'm a bit confused because doesn't the gap…
+
+[Aryan] 10:38:03
+emerge from the studies that we've read? Don't you carve the gap out of the cells? She's in Hawaii.
+
+[Russel ABM Russel] 10:38:11
+Yeah, yeah, so that's… that's kind of the literature section itself.
+
+[Russel ABM Russel] 10:38:17
+Uh, so that will be doing, related to section itself.
+
+[Russel ABM Russel] 10:38:22
+Just to prove that the gap exists here. But the introduction is more about the overall part itself, okay?
+
+[Aryan] 10:38:25
+Oh, okay. Yes, that makes sense. Yep, yep, yep.
+
+[Aryan] 10:38:28
+Yep, that makes perfect sense. Thank you.
+
+[Russel ABM Russel] 10:38:33
+Okay, so then, what else is there? So, you fix that related section, after that, uh… yeah, so I will review those ones. I mean, it is… I mean, it doesn't look like even it was ready, so I had a quick look yesterday, and then…
+
+[Russel ABM Russel] 10:38:48
+then maybe you haven't done this, but I'll wait for it. Uh, so work on it, maybe tomorrow I can… just shoot me an email, it's ready now, I have… we have fixed this, and then we can… I can review those tomorrow. Do you… today is on, uh, Friday, right?
+
+[Russel ABM Russel] 10:39:04
+Should be fine, then Thursday and Friday you can work on it, yeah.
+
+[Aryan] 10:39:06
+It has. Yep.
+
+[Aryan] 10:39:07
+For sure. And something that…
+
+[Russel ABM Russel] 10:39:08
+Okay, uh…
+
+[Aryan] 10:39:10
+I wanna rise just quickly. Abad asked me this as well before the work before the session.
+
+[Russel ABM Russel] 10:39:10
+Yep.
+
+[Aryan] 10:39:16
+The template that you provided for the consent form asks for the user's name, but then we also state that we're not going to collect any identifiable information, so do we respect the template, or do we not?
+
+[Russel ABM Russel] 10:39:28
+Uh… wait, wait, wait, wait, wait, what are you talking about? In the…
+
+[Aryan] 10:39:32
+Consent form. The consent form.
+
+[Russel ABM Russel] 10:39:34
+Uh, okay, so let's move on then. Leave that. This part is clear, right? So, now quickly look for that. Uh, I haven't added new one, of course, that's the template only.
+
+[Russel ABM Russel] 10:39:44
+So, I will fix that one. I haven't… I haven't looked at this yet. Have you added some more?
+
+[Aryan] 10:39:51
+Well, last week, all of the three forms were basically done.
+
+[Russel ABM Russel] 10:39:52
+Information… have you edited some of the parts? Um…
+
+[Aryan] 10:40:02
+By last week, everything was done, ready for review.
+
+[Russel ABM Russel] 10:40:04
+Uh, advertisement…
+
+[Russel ABM Russel] 10:40:06
+Okay, let's look at that. Um…
+
+[Russel ABM Russel] 10:40:10
+Ah, advertisement, okay. That needs to be…
+
+[Russel ABM Russel] 10:40:15
+picked…
+
+[Russel ABM Russel] 10:40:17
+Okay, so you put the poster up there. This is the URL to the survey. Have you created the survey?
+
+[Aryan] 10:40:25
+The Google Google form or the actual link to our to our platform.
+
+[Russel ABM Russel] 10:40:32
+Uh, form, form. Form will link to the platform.
+
+[Russel ABM Russel] 10:40:34
+So you have the form?
+
+[Russel ABM Russel] 10:40:37
+And I think I shared the last study.
+
+[Russel ABM Russel] 10:40:42
+one of the students, she was doing. So, just follow the same approach. So, you go to the form.
+
+[Aryan] 10:40:42
+Yeah, talk. That's it.
+
+[Russel ABM Russel] 10:40:48
+And then there. Now, accelerated statement should be linkable, so probably… this is good. I mean, this is very good. I don't think anything needs to be changed. Do we need this one? Probably…
+
+[Aryan] 10:41:00
+Probably not. I thought maybe to attract attention.
+
+[Russel ABM Russel] 10:41:02
+It's… it's not… it's… it's not that, it's just too… yeah, it's not… it's irrelevant. It's not… yeah…
+
+[Ubaid Irfan] 10:41:08
+It also says read four short engineering ethics scenarios, so I think it needs to be updated to two.
+
+[Aryan] 10:41:09
+Yep.
+
+[Aryan] 10:41:14
+Yeah, this was… I made this 2 weeks ago.
+
+[Russel ABM Russel] 10:41:15
+You have to fix those, fix those. I haven't, I haven't, I haven't read, sorry, I overlooked this part. So, yeah, just take this out, because this is not AI decision making. Uh, I know it's a general ethics, but it's not, uh, it's not relevant.
+
+[Aryan] 10:41:20
+Okay.
+
+[Aryan] 10:41:28
+Yep.
+
+[Aryan] 10:41:30
+I'll remove that.
+
+[Russel ABM Russel] 10:41:30
+Yeah, I don't think the picture is required. Um, yeah, I'll put a comment. I haven't looked at it, apologies for this. I wasn't sure whether this is ready. Um, then the advertisement part is the generic part.
+
+[Aryan] 10:41:43
+That one's… it's the same thing, but I decided to not use it, and just use Overleaf to make the ad, because it was more…
+
+[Aryan] 10:41:49
+It looks better, so I'm not using this template.
+
+[Russel ABM Russel] 10:41:52
+Oh, okay, okay, sorry, yeah, I don't know how this template is, but okay, that's fine. There's an advertisement statement I need to put that, so I will do that, actually. I didn't get a chance to look at this, but sorry, I had to do 3 other FYPB in parallel.
+
+[Aryan] 10:41:54
+Necessarily, but.
+
+[Russel ABM Russel] 10:42:08
+And last night was the submission. So we managed to submit that, and the one yet to be approved, the ethics approval, because that's an industry project, and uh, yeah, it's just, uh, they haven't approved it yet. I don't know what to do in this case.
+
+[Aryan] 10:42:12
+Oh, I didn't think it well. Thank you.
+
+[Aryan] 10:42:19
+Thank you.
+
+[Russel ABM Russel] 10:42:26
+Anyway, so what I will do is, today, the whole day will be busy
+
+[Russel ABM Russel] 10:42:35
+In the afternoon, I won't be able to work before, evening, so I will start, with this application. Don't worry, I'll work on that. I have done, like, 6 applications approved already from the ethics, so accept the
+
+[Russel ABM Russel] 10:42:52
+The latest one is still waiting, because there's an external, it's a Linux medical, so that's a big, you know, issues going on in terms of the ethics approval, and it's with the aged care facilities as well, so it's very complex right now
+
+[Russel ABM Russel] 10:43:04
+But we'll see how it is going. But other two, I got that approval, and they submitted yesterday, all good. It should be fine. I will do that today, okay?
+
+[Russel ABM Russel] 10:43:13
+I could have done it last week, but I could not. Sorry, it's just too many things going on. Um, so our target is to submit this one, and normally it takes a day or two.
+
+[Aryan] 10:43:13
+Cool.
+
+[Aryan] 10:43:16
+That's okay. That's all right. Just a question on.
+
+[Russel ABM Russel] 10:43:24
+Okay, and…
+
+[Russel ABM Russel] 10:43:27
+It should be fine. Even though you didn't get it before week 12, we just mentioned that this application ID we have submitted, it's in progress. It's not part of your assessment anyway, just include that one, uh, paragraph, mainly.
+
+[Aryan] 10:43:38
+Yep.
+
+[Aryan] 10:43:42
+Cool. Yeah. Thank you.
+
+[Russel ABM Russel] 10:43:44
+That's what we need to do for the report, and once it is approved, week 13 to week 18, before the next semester, uh, you can start promoting, that's fine, once it is approved. Should be fine.
+
+[Russel ABM Russel] 10:43:58
+Okay.
+
+[Russel ABM Russel] 10:44:01
+Uh, what is the other exploratory statement? Did you update this one, according to our project?
+
+[Aryan] 10:44:04
+Yeah, I just want to… all the docs are done, everything is done. Obviously, I need to update the information, because we've made some changes to the RQs and our design, but the actual core is done.
+
+[Russel ABM Russel] 10:44:07
+Okay.
+
+[Russel ABM Russel] 10:44:13
+Okay, so why don't you have…
+
+[Ubaid Irfan] 10:44:13
+I did update it this morning.
+
+[Aryan] 10:44:16
+Oh, oh, thanks so bad. Thanks for doing that.
+
+[Russel ABM Russel] 10:44:16
+You did update? Okay, so did you add…
+
+[Ubaid Irfan] 10:44:16
+Yeah, but I haven't finished updating the explanatory statement yet.
+
+[Ubaid Irfan] 10:44:22
+Like, fully.
+
+[Russel ABM Russel] 10:44:22
+Oh, okay.
+
+[Russel ABM Russel] 10:44:23
+Okay, okay.
+
+[Ubaid Irfan] 10:44:23
+But it's almost done.
+
+[Russel ABM Russel] 10:44:25
+Okay, just put it whatever you can. I will look at it, uh, after 6 PM tonight. How about that? Let's put a deadline. If you can do whatever you can, but I will… I'll make a new one, and take it from… information from me, or whatever you have right now, and…
+
+[Ubaid Irfan] 10:44:33
+Sure.
+
+[Aryan] 10:44:33
+No, no rush. Yep.
+
+[Aryan] 10:44:41
+Mmhm.
+
+[Russel ABM Russel] 10:44:42
+If that makes sense or not. I know what they pick, and what they, um, you know, uh, cancel, and they… because one project, they had to go, like, 10 different back-and-forth updates, and this wording, that wording…
+
+[Russel ABM Russel] 10:44:55
+And the one you have raised, it's actually a valid reason, Arian. Uh, you know, that consent form, I had that named there based on the template, and then because anonymous, they… they… it was two days for that back and forth, because we had to update that and remove that from our.
+
+[Aryan] 10:45:11
+Thank you.
+
+[Russel ABM Russel] 10:45:12
+Uh, form. Now, the other thing I wanted to do is the form itself. Um, did you start creating… no, no form. Where is the form? So, create a new form.
+
+[Russel ABM Russel] 10:45:23
+Google Forms. Yeah, that's it.
+
+[Russel ABM Russel] 10:45:25
+So we need to add the question.
+
+[Aryan] 10:45:25
+Nothing yet. We have the questions, but not the actual form, because the questions we went through last week, if you remember.
+
+[Russel ABM Russel] 10:45:29
+Okay.
+
+[Russel ABM Russel] 10:45:31
+Yeah. Okay, so this will be the final form, and this will remain exactly the same, okay? And we will add the consent tick from here. The user will not be able to go to the first question without ticking that.
+
+[Russel ABM Russel] 10:45:47
+So, this is the form we're looking for, AI agent.
+
+[Russel ABM Russel] 10:45:54
+platform.
+
+[Russel ABM Russel] 10:45:56
+Evaluation. Something like this. We will… evaluation. And, uh, I think somebody would require this access to this form as well, and then you'd export this as well. So you can't do submit without completing this. So if you can do… if you're free today, by 6…
+
+[Russel ABM Russel] 10:46:12
+PM. Update this, I will… I'll start working on this, uh, after 6 PM tonight, okay? Anything else you need there? No need to publish right now, just, uh, keep working, and I will make sure it is exportable as well.
+
+[Russel ABM Russel] 10:46:27
+Any other thing we need to do?
+
+[Aryan] 10:46:33
+Nope. Okay.
+
+[Russel ABM Russel] 10:46:34
+Okay, so work on the draft, uh, that's fine, just include that, but in the ethics application, there were three questions.
+
+[Russel ABM Russel] 10:46:42
+Did you update those questions?
+
+[Russel ABM Russel] 10:46:46
+Uh, wait a second, uh…
+
+[Russel ABM Russel] 10:46:50
+Uh, there were 3 questions… questions, I think, was it in the meeting minutes I put it there?
+
+[Russel ABM Russel] 10:46:55
+And then at today's meeting, Minister…
+
+[Russel ABM Russel] 10:47:02
+There are 3 questions, ethics questions.
+
+[Russel ABM Russel] 10:47:08
+So, we did the draft, uh, ethics application that started already.
+
+[Russel ABM Russel] 10:47:14
+Uh, so at the survey, it's to do, right? This is to do.
+
+[Russel ABM Russel] 10:47:20
+Might be slow today.
+
+[Russel ABM Russel] 10:47:22
+Okay, so this is to do…
+
+[Russel ABM Russel] 10:47:26
+Uh, review criteria for evaluation, that's, uh, review criteria… oh, we need to put that review criteria for evaluation. This is to do… this can go into your, uh, paper, right?
+
+[Russel ABM Russel] 10:47:39
+Uh, this is to do. Prepare that information, this is I'm working on. Uh, AR will…
+
+[Russel ABM Russel] 10:47:45
+work…
+
+[Russel ABM Russel] 10:47:49
+Around 6 PM, eh?
+
+[Russel ABM Russel] 10:47:51
+That's what they need. Review draft, so if you can update, uh, add…
+
+[Russel ABM Russel] 10:47:58
+Uh, to draft, okay?
+
+[Russel ABM Russel] 10:47:59
+So this is actually October 21, so today is 28th, right?
+
+[Aryan] 10:48:04
+Sorry, just a link to the draft and a live link to the prototype.
+
+[Russel ABM Russel] 10:48:05
+Added to the 20.
+
+[Russel ABM Russel] 10:48:11
+No, no, no, you, uh, work on the draft question. Have you logged into the ethics part?
+
+[Aryan] 10:48:16
+Yeah, yeah, I'm in, I'm in the, like, the…
+
+[Russel ABM Russel] 10:48:19
+There are 3 questions, uh, in the project details.
+
+[Aryan] 10:48:20
+No, thanks, Patrick.
+
+[Russel ABM Russel] 10:48:23
+I will add it there, sorry, wrong one.
+
+[Aryan] 10:48:30
+Should be. Yeah, for sure. Yeah, I know.
+
+[Russel ABM Russel] 10:48:37
+Okay, so let's copy that, so we know that this is what needs to be done. So, now, additional thing…
+
+[Russel ABM Russel] 10:48:47
+Is the ethics approval you have… sorry, ethics…
+
+[Russel ABM Russel] 10:48:53
+E-R-M…
+
+[Russel ABM Russel] 10:48:55
+There are 3 questions. I think we shared long ago, no? Let me get to that. So, if you go to this application… we started the application, right? Yeah.
+
+[Aryan] 10:48:59
+Got it.
+
+[Aryan] 10:49:00
+Awesome. But I think, yeah, everything.
+
+[Aryan] 10:49:06
+Yeah, of course. I mean, most of it is done except for the documentation, so little things.
+
+[Russel ABM Russel] 10:49:11
+That's right, because without that, I can't say. That's why I'm going to work on it tonight, and um…
+
+[Russel ABM Russel] 10:49:17
+We can probably briefly catch up, maybe 5-10 minutes or two before we submit.
+
+[Russel ABM Russel] 10:49:22
+Uh, or I should be able to submit it straight away, um, if I'm happy with the documentation. So, multi-agent platform, yeah, that's the one. So, what I do… oh, sorry, I'll share.
+
+[Russel ABM Russel] 10:49:36
+Okay. So, project details. Did you add those three questions?
+
+[Aryan] 10:49:42
+Yeah, that would be my take.
+
+[Russel ABM Russel] 10:49:43
+That's my question, I'm asking.
+
+[Aryan] 10:49:45
+Yeah, angel notes, we should have that.
+
+[Russel ABM Russel] 10:49:45
+Uh, not this one, next one. If you go to the next one…
+
+[Aryan] 10:49:49
+Yeah, that's what I'm worried about.
+
+[Russel ABM Russel] 10:49:51
+Oh yeah, we did, we did. Uh, I think I… see, it's TBD, it's not done yet, so… do you mind, uh, drafting this? Because this is… you need to draft.
+
+[Russel ABM Russel] 10:50:03
+Okay, so I'm going to put it there. Okay, meeting.
+
+[Aryan] 10:50:05
+So overview of research design, how, how long?
+
+[Aryan] 10:50:09
+Yeah. How long does it need to be?
+
+[Russel ABM Russel] 10:50:11
+It's a summary. So, yeah, this size is fine. I'll just put whatever, whoever wrote this part.
+
+[Aryan] 10:50:15
+Yes.
+
+[Russel ABM Russel] 10:50:19
+I can't remember. Let's put it there.
+
+[Russel ABM Russel] 10:50:22
+And put that what you have.
+
+[Russel ABM Russel] 10:50:24
+So, 200 watts? Maximum?
+
+[Russel ABM Russel] 10:50:29
+Um, 300 words, something, maximum, 2 to 300 words, that's what I'm looking at. So, this is your current draft, and the last one you haven't actually edited. So, this is the research design we're talking about.
+
+[Russel ABM Russel] 10:50:42
+you know, the other sections, the step-by-step process, what you're going to do, and this is showing that how the survey will be conducted. So, the participant will go to the link, survey link, they will accept the, you know, the consent.
+
+[Aryan] 10:50:46
+Yep. Yeah. Oh.
+
+[Russel ABM Russel] 10:50:58
+And… and so on. So what I can do is… wait a second, let me help you. That might be easier, maybe. I will revise this one. I'll just accept the… the one I shared recently, so I can just copy and paste that one. I was reviewing…
+
+[Russel ABM Russel] 10:51:15
+That. Or maybe you get started one, then I will review that. I'll give you an idea. So what's the size you're looking for? Just this basic size you're looking at. This part, what is the aim and hypothesis? You got it, everything there, and then this part.
+
+[Russel ABM Russel] 10:51:28
+So, I'll just share with there, so that you can, um…
+
+[Russel ABM Russel] 10:51:35
+FYP B exam
+
+[Russel ABM Russel] 10:51:39
+Example. And for the Ubaid, you should get the email as well for this project, the women health project she's working on.
+
+[Russel ABM Russel] 10:51:49
+Uh, refer to the… go to the email, and then this is the second section.
+
+[Russel ABM Russel] 10:51:55
+And they refer to, um…
+
+[Russel ABM Russel] 10:51:57
+what do you call it? This is just for your example, okay?
+
+[Russel ABM Russel] 10:52:02
+And refer to, um, the exploratory statement, and you can copy and paste from there. That's what I have written already. She was updating a few things there, okay?
+
+[Russel ABM Russel] 10:52:15
+Is that clear? So you should have access to that, because it's the public information, and just click on the accelerated statement, copy and paste the paragraph by paragraph. Of course, you need to tailor the research goals and sections will be different, but the rest of the parts will be exactly the same.
+
+[Ubaid Irfan] 10:52:16
+Yeah.
+
+[Russel ABM Russel] 10:52:29
+Okay? That is an approved one, so you understand that what the ethics committee will be looking for. Okay? So in that case, you'll save time. So make sure that you update those, and these are the samples.
+
+[Russel ABM Russel] 10:52:41
+So I will just highlight this.
+
+[Russel ABM Russel] 10:52:46
+Yeah, oh, okay, it's a screenshot. I was copying the whole thing, that's okay. So, I'll just highlight this one, this is sample, yeah.
+
+[Russel ABM Russel] 10:52:56
+Example, right? Example.
+
+[Russel ABM Russel] 10:52:59
+We use the same… same approach, because this is after refinement, so that if you do this in one shot, it might be one day we'll get the approval, okay? If you submit on Wednesday or Thursday, by Friday should be ready, okay? So, uh, refer to this one…
+
+[Russel ABM Russel] 10:53:14
+How do you describe your product? What they look for, okay?
+
+[Aryan] 10:53:15
+Yeah?
+
+[Russel ABM Russel] 10:53:19
+Um, other than that, the rest of the section will be straightforward, uh, you don't need to worry about. I will review that tonight, one by one. I think we have done most of it, but I will review those.
+
+[Russel ABM Russel] 10:53:29
+But it requires all the, you know, sections and so on. Even for the form also, guys, the same approach. So you have to go there, she did the same way, right? So you go to the form.
+
+[Russel ABM Russel] 10:53:39
+Then you accept the consent, and then you get a link to the prototype, and she deployed it somewhere else, and that link will be clicking there. And look at the post that she did, the same way. So, two links. One link is that everybody should read.
+
+[Russel ABM Russel] 10:53:55
+the exploratory statements, maybe a small QR code, and the main QR code will be, take this out of here, just point out that that's it. Okay, the rest of the sections, I can see that it's good. Just keep it simple, it's absolutely fine, it doesn't have to be, you know.
+
+[Russel ABM Russel] 10:54:12
+complicated, and so on, right? Otherwise, sometimes if people see that, okay, I have seen this before, then no need to worry about this, yet another thing. We're not doing yet another thing, right?
+
+[Russel ABM Russel] 10:54:23
+Think about how to present AI agents in a diagram format or something. Like, you know, some AI is part of the team. It's a teamwork, anyway, decision you're making, right? So you're making different roles part of your decision, right?
+
+[Russel ABM Russel] 10:54:38
+Maybe something like that, if you want to add some picture.
+
+[Russel ABM Russel] 10:54:41
+Go for it. Um, other than that, any question, anything? All good?
+
+[Aryan] 10:54:48
+Sounds good. Yeah.
+
+[Ubaid Irfan] 10:54:48
+Oh, good.
+
+[Russel ABM Russel] 10:54:48
+Okay, so 6pm is the time. Before that, I won't be able to look at it, so I have head-to-head things coming up today. Uh, and also assessments, 4002, then I have another meeting, then I have…
+
+[Russel ABM Russel] 10:55:04
+Uh, departmental updates… oh gosh.
+
+[Russel ABM Russel] 10:55:08
+another new unit development thing, yeah, I won't be able to make it if… oh, there is another…
+
+[Russel ABM Russel] 10:55:15
+Okay, let me check what time exactly I can look at it so that you know that you can keep updating till then. Um…
+
+[Russel ABM Russel] 10:55:22
+Yes, 6 o'clock, yeah, 5.30.
+
+[Russel ABM Russel] 10:55:27
+Uh, oh, hang on, there was a meeting, uh…
+
+[Russel ABM Russel] 10:55:32
+With 3 o'clock, and it's okay.
+
+[Russel ABM Russel] 10:55:36
+Yeah, 6 o'clock is the best time today.
+
+[Russel ABM Russel] 10:55:39
+Yeah, should be fine. And tomorrow I have some time, I should be able to help more as well, and we'll submit it by tomorrow, that's our target, okay? Thank you very much, I will talk to you soon. We'll take it as inform us after this week
+
+[Russel ABM Russel] 10:55:51
+Thank you
+
+[Ubaid Irfan] 10:55:51
+Thank you.
+

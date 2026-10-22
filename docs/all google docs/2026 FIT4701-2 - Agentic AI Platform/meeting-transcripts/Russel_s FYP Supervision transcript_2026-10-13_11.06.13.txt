@@ -1,0 +1,2073 @@
+[Russel ABM Russel] 10:03:51
+Um, and then some will be, like, principle, like, belief, and so on.
+
+[Russel ABM Russel] 10:03:57
+uh, might affect, uh, how they perceive the help from AI, uh, agents, right?
+
+[Russel ABM Russel] 10:04:05
+Uh, that… I think it's an interesting… this is anonymous, and you can have a category, and then you'll have more data to collect and present there, right? Variation. Age is good, experience is good. Uh, so these are demographic questions. How often do you use… that's a good one, actually. Yeah, you can ask that.
+
+[Russel ABM Russel] 10:04:27
+Maybe work or study? Do you want to say any work or study, or…
+
+[Russel ABM Russel] 10:04:33
+decision making.
+
+[Cyrus] 10:04:35
+I think you're right. It's better to narrow it down to decision making.
+
+[Cyrus] 10:04:40
+In fact, I looked at… because last time you said, look at studies for, you know, how often engineers use, or how engineers use AI.
+
+[Cyrus] 10:04:48
+I couldn't really find anything that could answer that question well.
+
+[Cyrus] 10:04:53
+So that could be…
+
+[Cyrus] 10:04:55
+A way for us to find out how engineers use.
+
+[Russel ABM Russel] 10:05:01
+That's right, yeah. Yeah, exactly, definitely, keep that there. And decision-making, it's quite broad, which is good.
+
+[Cyrus] 10:05:01
+AI tools.
+
+[Russel ABM Russel] 10:05:11
+Yeah, I mean, we do not… we can make it ethical decision making.
+
+[Russel ABM Russel] 10:05:16
+But we don't have to do that in this stage, in the survey, just decision-making, general decision-making.
+
+[Russel ABM Russel] 10:05:23
+Yeah, because they can be using AI for entertainment, we don't want to know that, right? Or something else. Uh, it's mainly we're focusing on whether this is overreliance and not.
+
+[Russel ABM Russel] 10:05:35
+happening. Okay, and what, if anything, made you keep or change your decision after seeing the AICBC? That's actually, um, yeah, so then actually it is related to this question as well.
+
+[Russel ABM Russel] 10:05:52
+Uh, did anyone about the AI advise?
+
+[Russel ABM Russel] 10:05:59
+make you more or less willing to… it's too many, um, conditions there. Can I simplify these two? So, I would put simplify, yeah.
+
+[Cyrus] 10:06:11
+So make them one or simplify each one, keep both.
+
+[Russel ABM Russel] 10:06:16
+It's simply for each one. If required, break it down further, and so on. What, if anything, may keep change of decision?
+
+[Russel ABM Russel] 10:06:25
+Simple, like, after using AI, did you change your decision? But why are you asking this one? This one is already captured in the
+
+[Cyrus] 10:06:35
+Yeah, but that's the key point, and that's one of the things that I raised below as well.
+
+[Russel ABM Russel] 10:06:36
+In the system, right?
+
+[Cyrus] 10:06:40
+what they say could be very different to what they actually do, what the data says, so that's why I included that.
+
+[Cyrus] 10:06:46
+We can change it, but I wanted to compare what they say they do versus what we've actually measured on our system.
+
+[Russel ABM Russel] 10:06:55
+Oh, okay. Uh, but how are we going to track? Uh, I mean, we can track based on the participant's ID.
+
+[Cyrus] 10:07:03
+So we can just track how often they changed their answers in reality versus…
+
+[Cyrus] 10:07:09
+Um, I suppose… I don't know.
+
+[Cyrus] 10:07:13
+It's hard to track, as you say.
+
+[Russel ABM Russel] 10:07:13
+Yeah, I know, but this is… this is… it is a separate, uh, survey.
+
+[Russel ABM Russel] 10:07:19
+It's anonymous.
+
+[Cyrus] 10:07:22
+Oh, so we can't connect this with…
+
+[Russel ABM Russel] 10:07:23
+Not necessarily, they are synchronized, that's right, you can't, actually. So, you can ask them
+
+[Cyrus] 10:07:27
+brought in…
+
+[Cyrus] 10:07:28
+Interesting.
+
+[Russel ABM Russel] 10:07:34
+maybe did AI help you to change your decision?
+
+[Russel ABM Russel] 10:07:41
+Something like that.
+
+[Russel ABM Russel] 10:07:43
+Do you think that helped you to change your decision?
+
+[Russel ABM Russel] 10:07:46
+Yes. It will.
+
+[Russel ABM Russel] 10:07:49
+Uh, no. Then you can ask why, right? Something like that.
+
+[Russel ABM Russel] 10:07:56
+was it helpful, or something like that. I mean, we can simplify the… just put something there, so that we know that what we're looking at.
+
+[Russel ABM Russel] 10:08:20
+And at the same time, this could be…
+
+[Russel ABM Russel] 10:08:26
+And at the same time, this could be, like, if somebody didn't use the AI…
+
+[Russel ABM Russel] 10:08:35
+Yeah, let's, uh, let's find a clear pathway, like…
+
+[Russel ABM Russel] 10:08:51
+I mean, let's keep it there and see. Did any… anything about the AI advice make you more or less willing? Yeah, so other than this, um…
+
+[Russel ABM Russel] 10:09:05
+Uh, something like… what are you trying to achieve here, Talas?
+
+[Russel ABM Russel] 10:09:09
+The second question.
+
+[Russel ABM Russel] 10:09:11
+What are you trying to get answer? What type of answer you're expecting?
+
+[Cyrus] 10:09:17
+Well, maybe
+
+[Cyrus] 10:09:20
+vectors for…
+
+[Cyrus] 10:09:24
+Um, lack of trust. So what things in AI make people rely on them less?
+
+[Russel ABM Russel] 10:09:29
+Yeah, it's at Ask Directly.
+
+[Cyrus] 10:09:32
+Is it multiple agents? Is it, you know, ask them directly?
+
+[Russel ABM Russel] 10:09:36
+Yeah, so did you…
+
+[Russel ABM Russel] 10:09:38
+Do you trust her?
+
+[Cyrus] 10:09:42
+Yeah, well, so the trust, we actually measure as well, so, but this question is more…
+
+[Cyrus] 10:09:49
+What characteristics or what factors make the.
+
+[Cyrus] 10:09:54
+AI less.
+
+[Russel ABM Russel] 10:09:56
+The aspect, uh… yeah, aspect directly, uh… what…
+
+[Cyrus] 10:09:56
+Transferring.
+
+[Cyrus] 10:09:58
+And that's not going to be a problem asking them directly?
+
+[Russel ABM Russel] 10:10:01
+Yeah, you can ask, it's an open-ended question.
+
+[Cyrus] 10:10:03
+Oh, okay.
+
+[Russel ABM Russel] 10:10:05
+One, two, three…
+
+[Russel ABM Russel] 10:10:07
+make the AI agent…
+
+[Russel ABM Russel] 10:10:26
+Something like that, yeah? So, that sounds great.
+
+[Russel ABM Russel] 10:10:32
+And then they can say, okay, if this is this template, then I would probably trust more, right?
+
+[Russel ABM Russel] 10:10:39
+And what we are going to make them, these answers, we can make some categories, because these are qualitative data, okay? So the qualitative data, I'll write it down.
+
+[Russel ABM Russel] 10:10:50
+Egypt.
+
+[Russel ABM Russel] 10:10:52
+Validate…
+
+[Russel ABM Russel] 10:10:58
+Uh, what you need is, is the theme.
+
+[Russel ABM Russel] 10:11:07
+You need a theme and categories, okay? So, this type of…
+
+[Russel ABM Russel] 10:11:14
+Uh, yeah, a research, so when you have a mixed method, so you're doing a mixed method approach, right?
+
+[Russel ABM Russel] 10:11:21
+that becoming your, um, I would say you will have your, um…
+
+[Russel ABM Russel] 10:11:29
+Canada?
+
+[Russel ABM Russel] 10:11:32
+We call it, um…
+
+[Russel ABM Russel] 10:11:34
+Categories and theme.
+
+[Russel ABM Russel] 10:11:37
+How do you call it? Code? Or…
+
+[Russel ABM Russel] 10:11:45
+Got that.
+
+[Russel ABM Russel] 10:11:46
+Okay, so we'll start thinking about this as well. So, when we do the results and analysis next semester, we'll be having categories of those among all the responses.
+
+[Russel ABM Russel] 10:11:58
+And there will be themes of code identified there. And we will, um… we will do some qualitative data analysis there.
+
+[Russel ABM Russel] 10:12:08
+Yeah, so that could be something we're looking for. What other things we are looking at? The first one is influence and help. Um, yeah, I mean, we need to make this as a single thing, something like this. So maybe think about…
+
+[Russel ABM Russel] 10:12:49
+Maybe decent visibility, um, you bring it here.
+
+[Russel ABM Russel] 10:12:55
+Rather than directly with it, yeah.
+
+[Cyrus] 10:12:56
+So…
+
+[Russel ABM Russel] 10:12:59
+So…
+
+[Cyrus] 10:12:59
+We just ask if AI disagreement.
+
+[Cyrus] 10:13:02
+Helped you make the decision?
+
+[Russel ABM Russel] 10:13:04
+That's the thing, yeah, so that's the thing, so…
+
+[Russel ABM Russel] 10:13:10
+Uh, we…
+
+[Russel ABM Russel] 10:13:13
+the…
+
+[Russel ABM Russel] 10:13:20
+And we…
+
+[Russel ABM Russel] 10:13:34
+Mm… with it.
+
+[Russel ABM Russel] 10:13:45
+Or, I'm just thinking what, uh, how we can ask this, uh, to make it open-ended as well, rather than yes, no type answer.
+
+[Russel ABM Russel] 10:13:59
+Okay, let's keep this, and then we'll come back to this, maybe. This is better, actually, what could be this is, that they can give some ideas.
+
+[Russel ABM Russel] 10:14:12
+How realistic is the scenario field compared to the situation one year? I mean, this is the relevant one, right?
+
+[Russel ABM Russel] 10:14:22
+What will be realistic?
+
+[Cyrus] 10:14:24
+Yeah, it points to relevance in terms of, do you think you would encounter this in industry? Is it realistic? Is it current? Is it that sort of stuff?
+
+[Russel ABM Russel] 10:14:37
+Let me ask, uh, relevance directly, right? Relevance with the criteria.
+
+[Russel ABM Russel] 10:14:41
+This realistic, you can't measure, uh, relevancy. It's relevant, it's relevant, and so on.
+
+[Russel ABM Russel] 10:14:51
+Yeah.
+
+[Cyrus] 10:14:58
+Or maybe…
+
+[Cyrus] 10:15:02
+I'm saying compared to situations you've encountered, so maybe we change that to…
+
+[Cyrus] 10:15:09
+to possible or.
+
+[Cyrus] 10:15:13
+Probably.
+
+[Russel ABM Russel] 10:15:13
+I want to go, uh…
+
+[Russel ABM Russel] 10:15:16
+How relevant it is in a real, uh…
+
+[Russel ABM Russel] 10:15:21
+The situations we have encountered…
+
+[Russel ABM Russel] 10:15:24
+Oh, we can say actual or perceived situation we have encountered, that's it.
+
+[Cyrus] 10:15:37
+expect.
+
+[Cyrus] 10:15:38
+Okay, I know that club. Yeah.
+
+[Russel ABM Russel] 10:15:39
+Actually…
+
+[Russel ABM Russel] 10:15:41
+Uh, but the…
+
+[Cyrus] 10:15:46
+Good.
+
+[Russel ABM Russel] 10:15:59
+Were the scenarios and the AI advice easy to understand? That's straightforward and clear. And…
+
+[Russel ABM Russel] 10:16:08
+I mean, do you need the scenario?
+
+[Russel ABM Russel] 10:16:11
+There are two different things.
+
+[Russel ABM Russel] 10:16:13
+Do you need to know the scenario? Are you doing anything with the scenario?
+
+[Cyrus] 10:16:19
+I mean…
+
+[Russel ABM Russel] 10:16:25
+What are you measuring?
+
+[Cyrus] 10:16:25
+I guess not. Yeah, I mean, we're measuring the clarity of the whole thing. Yeah, of the AI advice, but also the scenarios. I think maybe you're right. Maybe we should focus more on the AI advice.
+
+[Russel ABM Russel] 10:16:27
+This is the clarity. Clarity?
+
+[Russel ABM Russel] 10:16:39
+Okay.
+
+[Cyrus] 10:16:40
+Because if they're not understanding the AI advice, it is very…
+
+[Cyrus] 10:16:45
+unlikely that I will rely on it.
+
+[Russel ABM Russel] 10:16:47
+Yeah, so that's… that's good.
+
+[Cyrus] 10:16:47
+That will affect our results.
+
+[Cyrus] 10:16:53
+But same with the scenarios. Let's say that I didn't understand the scenarios.
+
+[Cyrus] 10:16:57
+It's less likely that I'll be able to make it to Japan.
+
+[Russel ABM Russel] 10:16:57
+Maybe you add more, um, clarity… what other instrument we could use? You can actually make it multiple, so that you have more data. So, clarity, completeness…
+
+[Russel ABM Russel] 10:17:13
+Which is, like, an ambiguous, uh, comprehensive…
+
+[Russel ABM Russel] 10:17:24
+What do you think?
+
+[Russel ABM Russel] 10:17:25
+What other criteria? Think about what other criteria you can use, and we'll be having three questions according to this.
+
+[Russel ABM Russel] 10:17:33
+So, scenarios are also AI-generated, or these are published scenarios?
+
+[Russel ABM Russel] 10:17:41
+What are you taking?
+
+[Cyrus] 10:17:42
+I think, at the moment, just for testing, they are generated, but there are, for example, the American Association of something, of ethics, of something. They've got case studies that we can…
+
+[Cyrus] 10:17:55
+Um, either use or…
+
+[Russel ABM Russel] 10:17:56
+Okay.
+
+[Cyrus] 10:17:58
+get ideas from. I've got that in the actual Overleaf, I've said that.
+
+[Cyrus] 10:18:03
+It's called the NRPE something, but they have case studies that we can use, or scenarios.
+
+[Russel ABM Russel] 10:18:11
+Okay, so we have a scenario-based one, then we have three subcategories, clarity, completeness, and comprehensiveness.
+
+[Russel ABM Russel] 10:18:19
+Uh, comprehensiveness…
+
+[Russel ABM Russel] 10:18:24
+Uh, charity…
+
+[Russel ABM Russel] 10:18:26
+I mean, we don't need this one, we can actually divide this clarity…
+
+[Russel ABM Russel] 10:18:31
+Complete… completeness?
+
+[Russel ABM Russel] 10:18:34
+comprehensiveness and relevance.
+
+[Russel ABM Russel] 10:18:38
+So, I'm going to put the criterias of evaluation, right? For each criteria, we'll be asking, uh, like, a chart 1 to 5 score.
+
+[Russel ABM Russel] 10:18:46
+What else we can do?
+
+[Russel ABM Russel] 10:18:50
+Uh, clarity… what do you want to know there?
+
+[Russel ABM Russel] 10:18:54
+Uh, completeness, comprehensiveness, maybe, you know, that the agent is a specific role, of course.
+
+[Russel ABM Russel] 10:19:02
+And giving some information, but that's not relevant.
+
+[Russel ABM Russel] 10:19:08
+Is there a possibility of Israel even… I mean, the…
+
+[Cyrus] 10:19:12
+Like their advice doesn't match their role, is that what you're saying?
+
+[Russel ABM Russel] 10:19:17
+Uh, that will definitely match, no question, but it's more about what, um… yeah, maybe relevance is an interesting one.
+
+[Russel ABM Russel] 10:19:27
+Yeah, we'll keep the scenarios there, maybe.
+
+[Cyrus] 10:19:32
+So, in this case, I'm a bit confused. Are we…
+
+[Russel ABM Russel] 10:19:33
+Maybe we don't need a… we don't need… we don't need the relevancy, so we just keep it, uh…
+
+[Russel ABM Russel] 10:19:42
+Just the EA.
+
+[Cyrus] 10:19:44
+Okay, so for AI, clarity, completeness, and comprehensiveness, we ask about each of these.
+
+[Russel ABM Russel] 10:19:44
+Okay.
+
+[Russel ABM Russel] 10:19:50
+Correct, yes.
+
+[Cyrus] 10:19:50
+In separate questions. Okay.
+
+[Russel ABM Russel] 10:19:52
+I mean, I'm just putting some ideas there, uh, because relevance, it is… it will be always role-based, and we have already defined that, right? We don't need to ask the end user whether relevant or not.
+
+[Russel ABM Russel] 10:20:05
+Comprehensive, whether they understand or not. Complete, yeah, that could be a problem. When the role was giving some advice, it might not be complete.
+
+[Russel ABM Russel] 10:20:15
+Clarity is a good one. I mean, clarity also overlaps with the comprehensiveness, but it could be, like, it's good enough for that particular, uh…
+
+[Russel ABM Russel] 10:20:26
+Type of our experience, uh, but yeah, it's good to measure that one.
+
+[Russel ABM Russel] 10:20:30
+Clarity, comprehensiveness, uh… trust only, should you bring that?
+
+[Cyrus] 10:20:41
+I mean, we kind of touched on it in the previous section, though, about…
+
+[Cyrus] 10:20:48
+Trust.
+
+[Cyrus] 10:20:49
+No?
+
+[Cyrus] 10:20:51
+In the previous section, we said what could make the agent more trustworthy, but maybe this is more to the point.
+
+[Russel ABM Russel] 10:20:57
+Yeah, we can skip that one, because it's already there.
+
+[Russel ABM Russel] 10:21:01
+As an open-ended question. So, in terms of measurements…
+
+[Russel ABM Russel] 10:21:07
+Should you, uh, should you put straight?
+
+[Russel ABM Russel] 10:21:11
+Do you need to measure that?
+
+[Cyrus] 10:21:14
+Sorry, what?
+
+[Russel ABM Russel] 10:21:15
+stress.
+
+[Cyrus] 10:21:17
+Stress.
+
+[Cyrus] 10:21:19
+Oh, okay.
+
+[Cyrus] 10:21:29
+What would be an example of a stress-related question? Did you feel stressed?
+
+[Russel ABM Russel] 10:21:34
+I mean, other than here, we can, uh…
+
+[Russel ABM Russel] 10:21:39
+early, um…
+
+[Russel ABM Russel] 10:21:49
+Yeah, I'm trying to find out some…
+
+[Russel ABM Russel] 10:21:54
+criteria for evaluating.
+
+[Russel ABM Russel] 10:21:57
+the EA…
+
+[Russel ABM Russel] 10:21:59
+advice. They're all specific.
+
+[Russel ABM Russel] 10:22:08
+Uh, in this prototype, do you have…
+
+[Russel ABM Russel] 10:22:12
+Specific role, right? It's not random. It's a fixed set of roles.
+
+[Cyrus] 10:22:17
+It's fixed.
+
+[Cyrus] 10:22:18
+For the most part, yes, it's fixed.
+
+[Russel ABM Russel] 10:22:19
+So, this advice, should we make it generalized or specific rule?
+
+[Cyrus] 10:22:30
+I don't understand that quite… so each… each role, each agent gives advice based on their role.
+
+[Russel ABM Russel] 10:22:39
+Yeah, so these criterias are based on that role, or combined, all roles you're asking?
+
+[Cyrus] 10:22:51
+I'm not sure. I was initially thinking combined is the overall system
+
+[Russel ABM Russel] 10:22:58
+It's overall… okay, so overall… yeah, we can keep it, so we don't need to…
+
+[Russel ABM Russel] 10:23:03
+Uh, wouldn't need to do that.
+
+[Cyrus] 10:23:04
+Because they're very similar, like, they're not that different, that one role would be super complete, and the other role would be very incomplete. They're very similar.
+
+[Russel ABM Russel] 10:23:13
+Right, yeah, okay.
+
+[Russel ABM Russel] 10:23:17
+So then we, yeah, generalize here.
+
+[Russel ABM Russel] 10:23:21
+Yeah, I think that's fine. Oh, in the stress one, I was thinking about…
+
+[Russel ABM Russel] 10:23:33
+any advice on the road? Because there is a…
+
+[Russel ABM Russel] 10:23:38
+contradiction going on.
+
+[Russel ABM Russel] 10:23:43
+And whether it is increasing the stress.
+
+[Russel ABM Russel] 10:23:52
+Are influencing the decision.
+
+[Russel ABM Russel] 10:23:57
+Probably wouldn't measure that.
+
+[Russel ABM Russel] 10:23:59
+Mainly the overall length we're looking at.
+
+[Russel ABM Russel] 10:24:11
+We didn't start with the reflection question on the over-reliance, right?
+
+[Cyrus] 10:24:19
+No.
+
+[Russel ABM Russel] 10:24:33
+We'll come back to that, it's something. Do you have any concern about this study was conducted? Uh, that's too open-ended.
+
+[Russel ABM Russel] 10:24:42
+You can… it'll be too many…
+
+[Russel ABM Russel] 10:24:45
+Hi, Tim. Uh, what are you trying to ask here? This is about the tool, or… there are two things going on. One is the tool itself.
+
+[Russel ABM Russel] 10:24:58
+And the other is about the process.
+
+[Russel ABM Russel] 10:25:01
+How the decisions are made.
+
+[Russel ABM Russel] 10:25:04
+all the scenarios and so on. So…
+
+[Cyrus] 10:25:05
+Yeah, I mean, I put that in as sort of open-ended where…
+
+[Cyrus] 10:25:11
+I said miscellaneous, it's a miscellaneous question in the sense that…
+
+[Cyrus] 10:25:14
+It's not really going to be used.
+
+[Cyrus] 10:25:17
+To prove something, it's more feedback on our…
+
+[Cyrus] 10:25:21
+On our system, overall.
+
+[Cyrus] 10:25:26
+But you're right, it's very broad.
+
+[Russel ABM Russel] 10:25:28
+Hmm.
+
+[Cyrus] 10:25:29
+And people might get confused as to what it means.
+
+[Russel ABM Russel] 10:25:30
+So maybe ask the workflow. Ask about the workflow, maybe.
+
+[Russel ABM Russel] 10:25:35
+Maybe the question will be for Phil.
+
+[Cyrus] 10:25:36
+Sure.
+
+[Russel ABM Russel] 10:25:39
+That's the one thing. Second one will be… will you receive the…
+
+[Russel ABM Russel] 10:25:48
+You're actually summarizing. Summary…
+
+[Russel ABM Russel] 10:25:52
+And at the end…
+
+[Russel ABM Russel] 10:25:59
+Okay. So…
+
+[Russel ABM Russel] 10:26:02
+Did you, um… we do provide the summary at the end, right?
+
+[Russel ABM Russel] 10:26:06
+So whatever the election they have done.
+
+[Cyrus] 10:26:08
+Yeah, and I think about… yes, that's right, and about has updated the summary to be of higher quality, as per your…
+
+[Russel ABM Russel] 10:26:09
+Right?
+
+[Cyrus] 10:26:16
+Advice? Awesome.
+
+[Russel ABM Russel] 10:26:19
+Yeah, yeah, of course, yeah.
+
+[Russel ABM Russel] 10:26:21
+That's good.
+
+[Russel ABM Russel] 10:26:42
+So, what do you want to ask about the workflow? Workflow means the sequence of the tips.
+
+[Russel ABM Russel] 10:26:48
+What do you end up with the study design? Do you remember that?
+
+[Russel ABM Russel] 10:26:52
+Last week, like, how the participants are doing, so we had something like…
+
+[Russel ABM Russel] 10:26:59
+If they select yes, uh…
+
+[Russel ABM Russel] 10:27:02
+It'll be invisible, then the second scenario will be without that, right? We'll flip that, right?
+
+[Russel ABM Russel] 10:27:10
+So, this is the workflow, um…
+
+[Cyrus] 10:27:41
+Although, um, I… and this is up for debate, but I also made a separate branch where I've also made a copy of our prototype where the condition is assigned.
+
+[Cyrus] 10:27:53
+And not rent at not and not.
+
+[Cyrus] 10:27:57
+You know.
+
+[Cyrus] 10:28:00
+So we assign half the participants to one.
+
+[Cyrus] 10:28:04
+condition.
+
+[Cyrus] 10:28:05
+And the other, to…
+
+[Cyrus] 10:28:08
+The other condition.
+
+[Russel ABM Russel] 10:28:09
+Oh, okay, okay.
+
+[Cyrus] 10:28:11
+That's one example. I just thought I'd make one just to test out both.
+
+[Russel ABM Russel] 10:28:11
+I mean, you can't…
+
+[Russel ABM Russel] 10:28:16
+So…
+
+[Russel ABM Russel] 10:28:19
+But that's randomly, right?
+
+[Cyrus] 10:28:22
+Random, yes, but just for testing, the plan would be to get half of the participants.
+
+[Russel ABM Russel] 10:28:32
+But they're not doing it at the same time.
+
+[Cyrus] 10:28:32
+Do one half?
+
+[Cyrus] 10:28:34
+Yeah, that's right, so let's say… you keep… you keep tally, so let's say you've already had 3 participants do…
+
+[Cyrus] 10:28:41
+one condition, the next three, we'll do the other condition. It's very easy to police.
+
+[Russel ABM Russel] 10:28:43
+Yep.
+
+[Russel ABM Russel] 10:28:46
+Oh, okay, so that's the control. You can, you can do, uh, alternative based on the participant's ID.
+
+[Russel ABM Russel] 10:28:54
+The first participant will even it out, that's it.
+
+[Russel ABM Russel] 10:28:57
+The first participant will get always with the descent visible.
+
+[Cyrus] 10:28:58
+Mmhm.
+
+[Russel ABM Russel] 10:29:03
+Uh, the second participant will always be the opposite, that's it.
+
+[Cyrus] 10:29:08
+Yeah, yeah. Again, because it's hosted on an online platform, it's easy to keep track of who's done it, what their condition was.
+
+[Russel ABM Russel] 10:29:09
+Okay, so then let me…
+
+[Cyrus] 10:29:18
+And what the next participant's conditions should be.
+
+[Cyrus] 10:29:21
+Worst comes to worst, it's an odd number of participants, and you get, like.
+
+[Cyrus] 10:29:26
+four of one condition and three of the other, but that's still…
+
+[Cyrus] 10:29:30
+Probably okay.
+
+[Russel ABM Russel] 10:29:31
+No, that's fine, that's comparison, uh…
+
+[Russel ABM Russel] 10:29:37
+Yeah, then you can control, uh, who is getting… I mean, at least equal number of… almost equal number of participants will have.
+
+[Russel ABM Russel] 10:29:46
+Okay, so we can… we can… we can do that. Of course, it will be toggled in between
+
+[Russel ABM Russel] 10:29:54
+Depends on whichever sequence, yeah.
+
+[Russel ABM Russel] 10:29:59
+Okay, that's, that should be good, and what else do you need?
+
+[Cyrus] 10:30:01
+Yeah, the ROs we sort of slept on earlier, but basically I went through each one and devised essentially a plan of how to measure each one.
+
+[Russel ABM Russel] 10:30:06
+The arrow… have we…
+
+[Russel ABM Russel] 10:30:10
+Yeah
+
+[Russel ABM Russel] 10:30:11
+Okay, good, good.
+
+[Russel ABM Russel] 10:30:29
+Okay, that's fine. The second one for scenarios without this…
+
+[Russel ABM Russel] 10:30:47
+I think this one is a tricky one. How do you actually quantify whether it's better or not?
+
+[Cyrus] 10:30:54
+And that's sort of what I was going to ask you, because what's better?
+
+[Russel ABM Russel] 10:30:58
+Yeah, that's, that's quite, quite open-ended. Uh, maybe this one we need to…
+
+[Russel ABM Russel] 10:31:05
+change it to…
+
+[Cyrus] 10:31:09
+I was thinking like.
+
+[Cyrus] 10:31:11
+For… if the scenario is very ambiguous.
+
+[Cyrus] 10:31:15
+We just go with what the majority of experts say.
+
+[Cyrus] 10:31:20
+As a preferred or better answer.
+
+[Russel ABM Russel] 10:31:33
+I mean, why do you need to measure the final answer here?
+
+[Cyrus] 10:31:38
+Because one of the research objectives is.
+
+[Russel ABM Russel] 10:31:40
+I don't think… I don't think… I don't think focusing on…
+
+[Russel ABM Russel] 10:31:45
+In this case…
+
+[Russel ABM Russel] 10:31:47
+The decision-making process, rather than the answer itself…
+
+[Cyrus] 10:31:57
+The the reason is because that particular research objective.
+
+[Cyrus] 10:32:02
+goes something like, does December improve the quality of decision-making or something?
+
+[Russel ABM Russel] 10:32:02
+Yeah.
+
+[Russel ABM Russel] 10:32:10
+Okay, so the quality you're looking at…
+
+[Cyrus] 10:32:15
+Let me bring up the actual.
+
+[Russel ABM Russel] 10:32:17
+Yeah, maybe we need to refine this one, because it's going…
+
+[Russel ABM Russel] 10:32:22
+Quite open-ended, and it's hard to…
+
+[Russel ABM Russel] 10:32:40
+Can you also make people's final answer? Not the final answer, not the answer itself, um…
+
+[Russel ABM Russel] 10:32:49
+Yeah, when you're there…
+
+[Cyrus] 10:32:52
+Sorry. Accuracy of decision-making is final.
+
+[Cyrus] 10:32:57
+Decisions. Sorry.
+
+[Russel ABM Russel] 10:32:58
+Accuracy, okay. So, does it make the people…
+
+[Cyrus] 10:32:59
+We can…
+
+[Russel ABM Russel] 10:33:55
+Okay. Does it also make the final decision more accurate?
+
+[Russel ABM Russel] 10:34:01
+Because we can then measure that.
+
+[Russel ABM Russel] 10:34:03
+Accuracy rate, and so on.
+
+[Cyrus] 10:34:08
+Yeah, so that then becomes more measurable.
+
+[Russel ABM Russel] 10:34:14
+Because we have questions about that goal today, so we can…
+
+[Cyrus] 10:34:18
+Yeah, of course.
+
+[Russel ABM Russel] 10:34:20
+Examine whether the effect of the distribution is better, high consistency, and bigger consistency, so that you can leave…
+
+[Russel ABM Russel] 10:34:28
+Okay, third one we need to define now, uh…
+
+[Russel ABM Russel] 10:34:32
+If septal density is between high concentration, ambiguous.
+
+[Russel ABM Russel] 10:34:37
+contested epidemic scenario.
+
+[Russel ABM Russel] 10:34:44
+So, if we are giving two scenarios…
+
+[Russel ABM Russel] 10:34:50
+Are we going to measure the… each scenario in terms of the effect of this invisibility? Do you have any survey question about that? We need to now relate to this, right?
+
+[Russel ABM Russel] 10:35:01
+Which question is actually answering this part?
+
+[Cyrus] 10:35:05
+Same with the disability.
+
+[Cyrus] 10:35:12
+I don't think we really addressed that in the survey, to be honest.
+
+[Russel ABM Russel] 10:35:14
+Yeah, we need to add that.
+
+[Russel ABM Russel] 10:35:19
+So maybe here, it'll be…
+
+[Russel ABM Russel] 10:35:25
+You can ask an open question. How did…
+
+[Russel ABM Russel] 10:35:33
+Different A, B, C, D, E…
+
+[Russel ABM Russel] 10:35:38
+And…
+
+[Russel ABM Russel] 10:35:46
+too many…
+
+[Russel ABM Russel] 10:35:49
+Better.
+
+[Russel ABM Russel] 10:35:53
+Right?
+
+[Russel ABM Russel] 10:36:03
+So, the date of birth, um…
+
+[Cyrus] 10:36:14
+Isn't that kind of a leading question? Like you're asking them, how did it help you make a better decision? You know, it's sort of influencing them to say, yeah, it helped.
+
+[Russel ABM Russel] 10:36:31
+Yeah, it is, indeed.
+
+[Russel ABM Russel] 10:36:46
+Maybe more open-ended.
+
+[Russel ABM Russel] 10:37:07
+Yeah, that's kind of this one, right? So let's bring it up there.
+
+[Russel ABM Russel] 10:37:16
+Intermediate.
+
+[Russel ABM Russel] 10:37:19
+What do you think?
+
+[Russel ABM Russel] 10:37:21
+It is kind of a…
+
+[Russel ABM Russel] 10:37:22
+influence that will help you to change your decision, or will help you to make an effective decision. Yeah, I think that could be there.
+
+[Cyrus] 10:37:23
+Yeah.
+
+[Cyrus] 10:37:34
+So then do you suggest?
+
+[Cyrus] 10:37:36
+All three of those being asked, or we just pick one?
+
+[Cyrus] 10:37:43
+So did AI influence, if yes or no, and then…
+
+[Russel ABM Russel] 10:37:43
+Pick one.
+
+[Cyrus] 10:37:46
+What would help you make an effective decision?
+
+[Russel ABM Russel] 10:37:48
+I think directly jump into this alternative 1 and 2, that's it. Yeah, I think this should be quite open-ended, it's not leading…
+
+[Cyrus] 10:37:51
+Mm-hmm. Sure.
+
+[Cyrus] 10:37:52
+Yep.
+
+[Russel ABM Russel] 10:37:57
+a bias or anything, it's openly asking that. What will help you to make an effective decision? And say that, okay, I might need…
+
+[Russel ABM Russel] 10:38:04
+more, um, yeah. Let's see that…
+
+[Cyrus] 10:38:07
+So do we not even mention AI disagreements here at all?
+
+[Cyrus] 10:38:14
+Because the point earlier was about including the whole AI disagreement aspect of it in our survey.
+
+[Russel ABM Russel] 10:38:18
+Yes, yes, that's how I'm going to bring that, because this has been…
+
+[Russel ABM Russel] 10:38:24
+What will help you to make an effective decision after, um, visible decision?
+
+[Russel ABM Russel] 10:38:37
+So they're still asking, because everyone, I'm thinking about the flow of the study, everyone will be, uh, having this option, right?
+
+[Russel ABM Russel] 10:38:46
+one scenario without, one scenario with, right? So, they will get one option. Yeah, so that's what we are asking, reflection, what will help you to make an effective decision after.
+
+[Cyrus] 10:38:51
+I would think so. Yeah, at the moment.
+
+[Russel ABM Russel] 10:38:57
+visibility center, right?
+
+[Cyrus] 10:38:59
+Yep.
+
+[Russel ABM Russel] 10:39:00
+But this has an assumption, like, visualization actually helped them to make decisions.
+
+[Russel ABM Russel] 10:39:06
+Right?
+
+[Russel ABM Russel] 10:39:13
+Maybe you can ask a leading question.
+
+[Cyrus] 10:39:28
+Was it helpful?
+
+[Cyrus] 10:39:32
+Did it affect how you made your decision?
+
+[Russel ABM Russel] 10:39:35
+Yeah, you can take it from here.
+
+[Cyrus] 10:39:40
+And then once they answer that?
+
+[Cyrus] 10:39:47
+Then we go to the one below?
+
+[Russel ABM Russel] 10:39:57
+Yes.
+
+[Russel ABM Russel] 10:39:59
+I mean, this could be a separate question.
+
+[Russel ABM Russel] 10:40:01
+The first one could be, like, why…
+
+[Russel ABM Russel] 10:40:05
+That was helpful.
+
+[Cyrus] 10:40:07
+So what are we measuring with the alternative one, then? Because it says, what would help you make an effective decision after disability? What are they supposed to say?
+
+[Russel ABM Russel] 10:40:16
+This will contain something else we're looking at.
+
+[Cyrus] 10:40:20
+Yep.
+
+[Russel ABM Russel] 10:40:21
+Just for example…
+
+[Cyrus] 10:40:21
+Oh, so what do you want in addition?
+
+[Russel ABM Russel] 10:40:23
+In addition to this, isn't…
+
+[Russel ABM Russel] 10:40:27
+Yeah, visibility. Yeah, anything else, we don't know yet. I mean, we are assuming that this is the only case.
+
+[Cyrus] 10:40:30
+To. Okay.
+
+[Russel ABM Russel] 10:40:35
+Um, maybe this will be yes. If it is yes, why? Otherwise, they'll say, no, this actually didn't help, right?
+
+[Russel ABM Russel] 10:40:44
+And then, it's mainly for the why not cases, or even at the why, anything else, so it could be…
+
+[Russel ABM Russel] 10:40:55
+It could be just without this event, right? Then it is generic to the first…
+
+[Russel ABM Russel] 10:41:00
+Primal question.
+
+[Russel ABM Russel] 10:41:02
+Right, so this is year one.
+
+[Russel ABM Russel] 10:41:06
+This will be year 2, right?
+
+[Russel ABM Russel] 10:41:11
+Two questions there, and this is our…
+
+[Russel ABM Russel] 10:41:16
+Okay, great.
+
+[Russel ABM Russel] 10:41:19
+What could make them more trustworthy?
+
+[Russel ABM Russel] 10:42:03
+Yeah, that's more about if they have used…
+
+[Russel ABM Russel] 10:42:07
+There is, right?
+
+[Russel ABM Russel] 10:42:11
+I think that's, that's fine, that's, that's fine. This is more about the question relating to that, um…
+
+[Russel ABM Russel] 10:42:18
+Yeah, yeah, yeah. I think you can start with this one first.
+
+[Russel ABM Russel] 10:42:22
+Then go to this, too.
+
+[Russel ABM Russel] 10:42:25
+I will make this one as a first.
+
+[Cyrus] 10:42:33
+So, put that…
+
+[Cyrus] 10:42:36
+before everything else.
+
+[Russel ABM Russel] 10:42:37
+Correct.
+
+[Russel ABM Russel] 10:42:39
+So, yeah, that's right, if you can bring it up.
+
+[Russel ABM Russel] 10:42:42
+That's right.
+
+[Russel ABM Russel] 10:42:45
+And we just get it… ah, sorry, yeah.
+
+[Russel ABM Russel] 10:42:51
+Because we start with that.
+
+[Russel ABM Russel] 10:42:53
+What could make there any more traffic to direct? That's one thing.
+
+[Russel ABM Russel] 10:43:01
+That's one thing…
+
+[Russel ABM Russel] 10:43:08
+And then…
+
+[Russel ABM Russel] 10:43:28
+Um, why my network would help you to make decisions? Yeah, so what would you listen to?
+
+[Russel ABM Russel] 10:43:34
+Why not? Yeah, I think that should be better, right? Then you go to the tool…
+
+[Russel ABM Russel] 10:43:40
+Then you go to the 3. Let's put it there. The first one is more about that, um…
+
+[Russel ABM Russel] 10:43:55
+I mean, why do you need this one? Would it help you to make an effective decision?
+
+[Cyrus] 10:44:03
+I mean, that was there from before. I think the questions that we've just added.
+
+[Russel ABM Russel] 10:44:07
+Okay.
+
+[Cyrus] 10:44:08
+would cover that slightly.
+
+[Russel ABM Russel] 10:44:14
+Uh, what will help you to…
+
+[Cyrus] 10:44:22
+Because we asked that a number 4. We don't really need that, do we?
+
+[Russel ABM Russel] 10:44:26
+Oh, right, yeah, that's the same question, yeah, that's right, yeah. Let's check it out.
+
+[Russel ABM Russel] 10:44:32
+So, first we start with the AI trustworthiness, then we go to that, okay, within the AI.
+
+[Russel ABM Russel] 10:44:39
+This individual was helpful or not, and then what would help to make an effective decision?
+
+[Russel ABM Russel] 10:44:49
+Wanted to help you to make that.
+
+[Russel ABM Russel] 10:44:57
+Yeah, I think we can keep that for today, at this moment.
+
+[Russel ABM Russel] 10:45:01
+it open. Okay, so that's all good. Um, then the last one… so this is the three ROs, right? We don't have fourth RO.
+
+[Cyrus] 10:45:10
+We have, in the presentation, we had four.
+
+[Russel ABM Russel] 10:45:12
+Does it fit?
+
+[Russel ABM Russel] 10:45:14
+Okay. Uh, what is this one, then? Why out of 3 out of 3? Why? That's the same question.
+
+[Cyrus] 10:45:18
+Oh, sorry, sorry. Yeah, yeah. Yeah, no, no. For each research objective?
+
+[Cyrus] 10:45:24
+I pasted, at the top of each one, the actual thing we had in our presentation, so…
+
+[Russel ABM Russel] 10:45:28
+Right. Oh, this is our thing, okay, yeah. Does they feel different from the tricky… the scenario? This is more of the scenario one.
+
+[Cyrus] 10:45:30
+This is the actual thing we have the presentation.
+
+[Russel ABM Russel] 10:45:37
+The scenario one is more about this one, right?
+
+[Russel ABM Russel] 10:45:41
+So, this one is, uh… tricky, the scenario is…
+
+[Russel ABM Russel] 10:45:49
+Yeah, this is the quality of the scenario we're looking at.
+
+[Russel ABM Russel] 10:45:58
+What were you thinking about the effect of the different… Okay, we already covered this one.
+
+[Russel ABM Russel] 10:46:04
+Right?
+
+[Russel ABM Russel] 10:46:07
+Or maybe you can ask that was the scenario ambiguous or something.
+
+[Cyrus] 10:46:14
+But whether they think the scenario was ambiguous?
+
+[Russel ABM Russel] 10:46:17
+Yeah, do you need to measure that? Um…
+
+[Russel ABM Russel] 10:46:20
+I've…
+
+[Russel ABM Russel] 10:46:21
+I know, a bit of a direction we have changed, right? So, in terms of the, uh… so, this one is more about that scenario was generated, and we asked them whether the scenario is good enough or not.
+
+[Cyrus] 10:46:25
+Yeah, it.
+
+[Russel ABM Russel] 10:46:34
+But this is coming under relevance, isn't it?
+
+[Cyrus] 10:46:35
+Yeah, yeah.
+
+[Cyrus] 10:46:37
+A little bit. And something important is last session, we said we should just focus on very ambiguous scenarios.
+
+[Cyrus] 10:46:45
+But then…
+
+[Russel ABM Russel] 10:46:45
+Oh, yeah, that's right, yeah.
+
+[Cyrus] 10:46:47
+Our research objectives mention.
+
+[Cyrus] 10:46:50
+ambiguous and high consensus scenario. So.
+
+[Cyrus] 10:46:54
+If we were to keep these same objectives, we can't exclude one.
+
+[Russel ABM Russel] 10:46:57
+So, maybe ask a quality… quantity question, um…
+
+[Russel ABM Russel] 10:47:07
+There, how relevant is this one?
+
+[Russel ABM Russel] 10:47:10
+So, ambiguity, in terms of the ambiguity…
+
+[Russel ABM Russel] 10:47:13
+So, let's find that few. Relevance, how do you measure relevance?
+
+[Russel ABM Russel] 10:47:19
+Uh, M… B… T?
+
+[Russel ABM Russel] 10:47:22
+And… what else?
+
+[Cyrus] 10:47:28
+Likelihood, probability of it happening.
+
+[Russel ABM Russel] 10:47:34
+But we're selecting the scenario. They are good.
+
+[Russel ABM Russel] 10:47:40
+They are probably happening, that's why we gave them scenario, right?
+
+[Russel ABM Russel] 10:47:47
+conflicting, so that's time to duty as well. Um…
+
+[Cyrus] 10:47:51
+It's obviously every year.
+
+[Russel ABM Russel] 10:47:53
+Misleading? Biased?
+
+[Cyrus] 10:47:57
+Well, this could be interesting.
+
+[Russel ABM Russel] 10:47:57
+Right.
+
+[Russel ABM Russel] 10:47:59
+But…
+
+[Russel ABM Russel] 10:48:01
+Uh… and what else?
+
+[Russel ABM Russel] 10:48:05
+What else? What could go wrong with the scenario? What it use? Complex?
+
+[Russel ABM Russel] 10:48:17
+So now it could be complex, because that could have multiple dependencies.
+
+[Cyrus] 10:48:20
+Mm-hmm.
+
+[Russel ABM Russel] 10:48:20
+So, again, similar to those criteria we were discussing, you know, the quality, completeness, and the clarity, completeness.
+
+[Russel ABM Russel] 10:48:31
+What is the other thing?
+
+[Russel ABM Russel] 10:48:34
+We're discussing…
+
+[Russel ABM Russel] 10:48:37
+Yeah, so… clarity of AI advice, clarity, completeness, and comprehensiveness?
+
+[Russel ABM Russel] 10:48:45
+I mean, we can use the same for the scenario as well, but I think it'll be good to have.
+
+[Russel ABM Russel] 10:48:51
+Different measurements for this?
+
+[Russel ABM Russel] 10:48:55
+If there's a different measurement, what it would be…
+
+[Russel ABM Russel] 10:49:01
+Um, so, let's go back, what were we, uh…
+
+[Russel ABM Russel] 10:49:19
+Creepy scenario.
+
+[Russel ABM Russel] 10:49:23
+Ambiguity, bias, complex?
+
+[Russel ABM Russel] 10:49:27
+I mean, this will be good, actually.
+
+[Russel ABM Russel] 10:49:32
+I mean, ambiguity…
+
+[Russel ABM Russel] 10:49:34
+It's different from bias, definitely. Complex and ambiguity might be overlapping.
+
+[Cyrus] 10:49:39
+A little bit.
+
+[Cyrus] 10:49:43
+Are we talking complex as an ethically complex or technically complex?
+
+[Russel ABM Russel] 10:49:48
+What will be technically complex in a scenario?
+
+[Cyrus] 10:49:52
+Like, if it's technically complex, it means…
+
+[Cyrus] 10:49:54
+It is a hard problem, like a, like a very hard maths problem, but if it's ethically complex.
+
+[Russel ABM Russel] 10:50:00
+But a kinetic scenario, it can happen.
+
+[Cyrus] 10:50:01
+Yeah, that's what I'm saying. So if it's ethically complex, it means that it's ethically ambiguous. Therefore, complex and ambiguous are the same thing.
+
+[Cyrus] 10:50:11
+No?
+
+[Russel ABM Russel] 10:50:12
+Oh, okay, yeah, you know. Or maybe we can bring the…
+
+[Russel ABM Russel] 10:50:19
+ethical issues, cultural…
+
+[Russel ABM Russel] 10:50:26
+complexity.
+
+[Cyrus] 10:50:28
+I'm glad to hear it. So…
+
+[Russel ABM Russel] 10:50:32
+Does it make sense? The cultural complexity is a very interesting ethical dilemma. Think about one of the ethical dilemmas you had. Uh, ambiguity, bias…
+
+[Russel ABM Russel] 10:50:45
+Cultural complexity, let's put some ideas together, then we can review this next week. So, how do you measure this? So that we have that each, um, each scenario, then we have two scenarios, right?
+
+[Cyrus] 10:50:50
+Hmmm.
+
+[Russel ABM Russel] 10:50:58
+the two scenarios, and this one is more about the AI advice in general, right?
+
+[Russel ABM Russel] 10:51:04
+Because this one needs to be separately measured, first scenario and second scenario, right?
+
+[Russel ABM Russel] 10:51:10
+I do want to measure just one scenario.
+
+[Cyrus] 10:51:16
+Oh, I don't know, a bad kid maybe.
+
+[Cyrus] 10:51:19
+Wayne on this, but I think maybe both?
+
+[Russel ABM Russel] 10:51:24
+Right, each scenario. In scenario 1.
+
+[Russel ABM Russel] 10:51:27
+Something like that. So it will be scenario 1 with… yeah, that should be better, yeah.
+
+[Russel ABM Russel] 10:51:34
+And then, AIA advice… are you getting AIA… okay, yeah, that's fine, yeah.
+
+[Russel ABM Russel] 10:51:41
+So…
+
+[Russel ABM Russel] 10:51:44
+So this AI advice will be width, descent, visible, right?
+
+[Russel ABM Russel] 10:51:53
+That's what you're asking, right? Not the without case itself, okay. Yep. Bye.
+
+[Cyrus] 10:51:56
+Yeah, I mean, it's both AI advice, just one with dissent visibility.
+
+[Cyrus] 10:52:01
+go on with our set of them.
+
+[Russel ABM Russel] 10:52:01
+Yeah.
+
+[Russel ABM Russel] 10:52:03
+Okay, so let's look at this, what are the measures we can collect data. So, in terms of the ambiguity of the scenario, we've got this data, we can present it, like, professional found it more ambiguous, or less ambiguous, and so on. So, think about the end…
+
+[Russel ABM Russel] 10:52:19
+Um, results in submitting, uh, collecting and analyzing, so that, that, that'll help.
+
+[Russel ABM Russel] 10:52:24
+Uh, I think that's good enough. Let's look at the last arrow. Uh, do people stated trust? So, we have the trust question already. Actual behavior match up.
+
+[Russel ABM Russel] 10:52:36
+Um, yeah, it's quite broad.
+
+[Russel ABM Russel] 10:52:39
+stated trust, and actually… so, what does it mean, actually? Uh…
+
+[Cyrus] 10:52:46
+Essentially, we're saying…
+
+[Cyrus] 10:52:50
+There's our actual data.
+
+[Cyrus] 10:52:53
+On how often they change and trust.
+
+[Cyrus] 10:52:55
+the our advice actually match.
+
+[Cyrus] 10:52:57
+what they say. Because they could say, no, I don't trust the AI at all.
+
+[Cyrus] 10:53:01
+But in reality, I could be just picking all the AI answers.
+
+[Cyrus] 10:53:05
+100%.
+
+[Cyrus] 10:53:09
+That was my thinking.
+
+[Russel ABM Russel] 10:53:09
+But we… but we didn't give any, uh, option to them right now. It's actually… we are mandating them.
+
+[Russel ABM Russel] 10:53:17
+They have to go through the one scenario with AI advice, right?
+
+[Cyrus] 10:53:21
+Yeah, I mean, but yeah, but it's their choice if they pick the AI advice, so…
+
+[Russel ABM Russel] 10:53:23
+I'm in both scenarios, actually.
+
+[Russel ABM Russel] 10:53:26
+Now, do they have any… because we changed the direction, they don't have any option of selecting without AI, right?
+
+[Cyrus] 10:53:35
+Yeah, so the AI is always there, but it's their choice if they actually pay attention to the AI advice.
+
+[Russel ABM Russel] 10:53:47
+Oh, okay.
+
+[Russel ABM Russel] 10:53:51
+Yeah, I think… yeah, we can take this out, probably.
+
+[Russel ABM Russel] 10:53:56
+What do you think? Because we had the trust already, trust on the questions we asked, right?
+
+[Cyrus] 10:54:04
+Yeah. Okay.
+
+[Russel ABM Russel] 10:54:04
+The first thing, yeah? What could it be?
+
+[Cyrus] 10:54:07
+Like take out the research objective.
+
+[Cyrus] 10:54:10
+Altogether.
+
+[Russel ABM Russel] 10:54:12
+How do you think?
+
+[Cyrus] 10:54:12
+Or just that.
+
+[Cyrus] 10:54:15
+Because before…
+
+[Cyrus] 10:54:15
+It was a bit more… a bit less polished, but now that we've polished the first three questions.
+
+[Russel ABM Russel] 10:54:20
+Hmm.
+
+[Russel ABM Russel] 10:54:22
+Yeah, yeah.
+
+[Cyrus] 10:54:22
+we've kind of.
+
+[Cyrus] 10:54:24
+ruled out number four. We've kind of already addressed that because we've polished the three questions.
+
+[Russel ABM Russel] 10:54:31
+Yeah…
+
+[Cyrus] 10:54:32
+I'm open to removing it, but.
+
+[Cyrus] 10:54:35
+Bye-bye.
+
+[Russel ABM Russel] 10:54:46
+And how much, uh, they trust the AI?
+
+[Russel ABM Russel] 10:54:52
+Um, this one is also…
+
+[Russel ABM Russel] 10:54:55
+Coming to the relevance, um, okay.
+
+[Russel ABM Russel] 10:55:04
+Let's keep it, we'll see whether we need to change more there. Let's keep for…
+
+[Russel ABM Russel] 10:55:16
+Yeah, you can't measure it once… until they actually complete that.
+
+[Russel ABM Russel] 10:55:31
+It's… yeah, I mean, this question is coming up to the participant's evaluation rather than the system evaluation. Does it make sense?
+
+[Russel ABM Russel] 10:55:41
+Do people… yeah, so whoever the participant, you are actually evaluating them.
+
+[Cyrus] 10:55:47
+Yep.
+
+[Russel ABM Russel] 10:55:48
+Rather than the system.
+
+[Russel ABM Russel] 10:55:51
+So, how trustworthy is the system, what we're looking at in the survey question?
+
+[Cyrus] 10:55:56
+Mmhm.
+
+[Russel ABM Russel] 10:55:58
+What is this agent more trustworthy? Uh, and this is more about whether the participants are actually telling.
+
+[Russel ABM Russel] 10:56:05
+So this is the participant, uh, evaluation survey.
+
+[Russel ABM Russel] 10:56:11
+So they can do whatever they'd like to do. Um, it's mainly we're asking that whether they believe that this AI agent is trustworthy or not.
+
+[Cyrus] 10:56:16
+Yep.
+
+[Russel ABM Russel] 10:56:25
+And what could make it?
+
+[Russel ABM Russel] 10:56:27
+So, the answer, what we're looking here, is more about if the AI is giving more facts.
+
+[Russel ABM Russel] 10:56:34
+more, uh, clearer, you know, logical arguments, then we'll trust more, something like that. That's what we're looking at. Rather than we're…
+
+[Russel ABM Russel] 10:56:47
+Not checking if somebody did something and they defend, it's not actually helpful.
+
+[Russel ABM Russel] 10:56:52
+In this one, so maybe take the park it, also this one, park it.
+
+[Russel ABM Russel] 10:57:03
+Okay, so we can come back, or we can embed this into, uh, into one of these three questions. I think these three questions are really good. It's quite… it can be expanded now with this new, um, uh, the criterias we have there.
+
+[Russel ABM Russel] 10:57:19
+Another thing I would say, trustworthy… do you have any other question relevant to the trustworthiness?
+
+[Russel ABM Russel] 10:57:27
+Trusting VCA agents.
+
+[Cyrus] 10:57:30
+No, but I have, like…
+
+[Cyrus] 10:57:32
+about 7 or 8 questions in my version that I made my prototype. Um, at the end of the process.
+
+[Cyrus] 10:57:40
+It goes through several questions on, was this agent deceptive?
+
+[Cyrus] 10:57:47
+was this agent trustworthy? And I picked that system up from one of the studies that I read.
+
+[Russel ABM Russel] 10:57:49
+That's right.
+
+[Cyrus] 10:57:57
+So, sorry, it's easier to maybe show you. One second.
+
+[Russel ABM Russel] 10:58:02
+Okay, yeah, of course.
+
+[Cyrus] 10:58:21
+Okay.
+
+[Russel ABM Russel] 10:58:38
+Okay, and in the meantime, what's the status of the draft? Have you updated anything?
+
+[Russel ABM Russel] 10:58:49
+If not, maybe, yeah, draft the initial version, then I can review it later this week.
+
+[Cyrus] 10:58:57
+Yeah, well, there's… I think we have an introduction, a background, methodology.
+
+[Russel ABM Russel] 10:59:01
+That's good. Okay.
+
+[Cyrus] 10:59:05
+A few other things.
+
+[Russel ABM Russel] 10:59:08
+Preliminary results, and so on.
+
+[Russel ABM Russel] 10:59:09
+Yeah, okay, that… yeah, that's okay, I can… yeah, I can review that one, that should be fine.
+
+[Cyrus] 10:59:10
+Pre-lim a little bit, I think.
+
+[Russel ABM Russel] 10:59:17
+And, uh, yeah, that's fine. I can review that one. That can be done offline. Um, okay, so let's have a look. So this is the participation survey, right?
+
+[Cyrus] 10:59:30
+Yeah.
+
+[Russel ABM Russel] 10:59:30
+Uh, it will turn the message away, okay, then…
+
+[Cyrus] 10:59:34
+Because Obeid made some improvements, and then I went and branched off from his improvements and made a few extra things as ideas.
+
+[Russel ABM Russel] 10:59:39
+Right. That's good, that's good.
+
+[Russel ABM Russel] 10:59:41
+Okay.
+
+[Cyrus] 10:59:45
+So, obviously, you have two scenarios, but…
+
+[Cyrus] 10:59:49
+You pick.
+
+[Cyrus] 10:59:53
+Submit.
+
+[Cyrus] 10:59:54
+You notice here there is no descent visibility.
+
+[Russel ABM Russel] 10:59:58
+Right.
+
+[Cyrus] 10:59:58
+Just an overall recommendation. This was…
+
+[Russel ABM Russel] 10:59:59
+Is it common for the first scenario? Always the first scenario with this invisibility, right?
+
+[Cyrus] 11:00:05
+No. No, not always. Depends on if…
+
+[Russel ABM Russel] 11:00:08
+Then how are we going to control the data?
+
+[Cyrus] 11:00:11
+Yeah, well, once the user joins, we check how many.
+
+[Cyrus] 11:00:17
+descent visibility sessions we've had and how many non-descent visibility sessions we've had.
+
+[Cyrus] 11:00:22
+Based on that, we decide. Does the current user go to descent, the descent side, or do they go to the…
+
+[Cyrus] 11:00:30
+No, it doesn't sound so.
+
+[Russel ABM Russel] 11:00:36
+So, so each scenario has the two options, right?
+
+[Cyrus] 11:00:36
+But…
+
+[Cyrus] 11:00:42
+Yeah, so all the, yeah, that's it.
+
+[Russel ABM Russel] 11:00:42
+one is with decent visible, and the other one is without decent visible. But that… isn't it random?
+
+[Russel ABM Russel] 11:00:51
+Going on…
+
+[Cyrus] 11:00:52
+I mean, again, it wouldn't be…
+
+[Russel ABM Russel] 11:00:53
+Shouldn't it be make it… shouldn't we make it, uh… yeah… I'm just thinking the controlling the experiment.
+
+[Russel ABM Russel] 11:01:02
+You know, that one scenario is always decent visible, and the other scenario is always…
+
+[Cyrus] 11:01:08
+Mmhm.
+
+[Russel ABM Russel] 11:01:08
+Not visible, and we give them whichever they choose first.
+
+[Cyrus] 11:01:14
+Okay, so whatever they choose first is descend visible.
+
+[Russel ABM Russel] 11:01:14
+Right? So if they choose any…
+
+[Russel ABM Russel] 11:01:17
+Yep.
+
+[Russel ABM Russel] 11:01:19
+I mean, it can be, yeah. Or maybe, yeah. Whatever they choose first, it will be always disinvisible, right?
+
+[Cyrus] 11:01:28
+Yeah, we could change that. That could be.
+
+[Cyrus] 11:01:31
+So it's the same for everyone.
+
+[Russel ABM Russel] 11:01:32
+I think last time we discussed that this invisible as the first one is a better thing to do.
+
+[Russel ABM Russel] 11:01:40
+Right, uh, and then, yeah, there is your control, yeah.
+
+[Cyrus] 11:01:40
+Yeah, so that's…
+
+[Cyrus] 11:01:43
+Yeah, I think that's… we could do that.
+
+[Russel ABM Russel] 11:01:45
+Okay, and then after that, it goes to this survey, right?
+
+[Cyrus] 11:01:49
+Yeah, it's kind of like a… because, again, I copied it from one of the…
+
+[Russel ABM Russel] 11:01:55
+instruments there. Yeah, yeah, okay, okay, that's good, no, that's good.
+
+[Cyrus] 11:01:55
+One of the studies.
+
+[Cyrus] 11:01:57
+That's… this is how they measure. So, do we include this in our survey, or is it okay to include it in the platform itself?
+
+[Cyrus] 11:02:05
+Because regardless, the answers are recorded.
+
+[Cyrus] 11:02:07
+We will know either way, but…
+
+[Russel ABM Russel] 11:02:11
+If it is part of the system, put it in the platform. If you think that that's independent of the system, so they can do it at the end of the survey.
+
+[Cyrus] 11:02:23
+I think it's best if this was in the survey, though, because it's not really relevant. It is relevant, but it's more about trust.
+
+[Russel ABM Russel] 11:02:24
+Um, but…
+
+[Russel ABM Russel] 11:02:30
+Yeah, I… yeah, it's not… I don't think we need it in the platform. So, platform will be… once they submit it, then they get the answers there, and they have the clarity. Your first scenario, you had the decent visible, and this is your score, relevant score.
+
+[Cyrus] 11:02:35
+Yeah. Okay.
+
+[Cyrus] 11:02:39
+Yeah, exactly.
+
+[Cyrus] 11:02:46
+Yep.
+
+[Russel ABM Russel] 11:02:46
+And the second scenario, there was no decision review, but this is your relevant score.
+
+[Russel ABM Russel] 11:02:51
+For some sort of aggregated score, we can show that, or something like that, or feedback. Yeah, that's it, that should go there. No need for survey inside. This is not about the survey, this is more about the… you try the scenario, and then you answer the… take the survey separately.
+
+[Cyrus] 11:02:59
+Yep, yep, yep.
+
+[Cyrus] 11:03:02
+That's it.
+
+[Russel ABM Russel] 11:03:06
+Yep.
+
+[Cyrus] 11:03:07
+But yeah, so that's the first scenario. Second scenario, your decision.
+
+[Russel ABM Russel] 11:03:08
+Okay.
+
+[Cyrus] 11:03:12
+You kept your initial choice.
+
+[Russel ABM Russel] 11:03:13
+Yeah.
+
+[Russel ABM Russel] 11:03:14
+Yep.
+
+[Cyrus] 11:03:15
+Point to consider.
+
+[Russel ABM Russel] 11:03:17
+Good, good. So, anything else we need to discuss? I think that's all good. I will look at the draft, that's the important thing.
+
+[Russel ABM Russel] 11:03:25
+And, uh, anything else we need today?
+
+[Cyrus] 11:03:28
+Oh, and if you have the chance, please have a look at the ethics documents, so the poster.
+
+[Cyrus] 11:03:37
+the consent form and the other one, the description.
+
+[Russel ABM Russel] 11:03:37
+Oh, yes, yes, uh, yeah.
+
+[Russel ABM Russel] 11:03:41
+Of course, of course. I will…
+
+[Cyrus] 11:03:42
+Because they're kind of done, but maybe have a look because I don't know if they're good.
+
+[Russel ABM Russel] 11:03:47
+Yep. Okay, thank you. That sounds good.
+
+[Russel ABM Russel] 11:03:52
+I just put these notes as well.
+
+[Russel ABM Russel] 11:04:03
+Let me just put the action items quickly. Uh, so this is 13…
+
+[Russel ABM Russel] 11:04:10
+So, was it mainly a review draft?
+
+[Russel ABM Russel] 11:04:14
+And then…
+
+[Russel ABM Russel] 11:04:17
+Prepare…
+
+[Russel ABM Russel] 11:04:20
+Let's take application…
+
+[Russel ABM Russel] 11:04:22
+And then, um…
+
+[Russel ABM Russel] 11:04:28
+um, add a survey. The survey, you need to Google Form.
+
+[Cyrus] 11:04:31
+Mmhm.
+
+[Russel ABM Russel] 11:04:33
+Uh, within… do you have an ethics folder there?
+
+[Russel ABM Russel] 11:04:38
+Uh, we haven't added that one, so let me add an…
+
+[Cyrus] 11:04:38
+Yep, we did.
+
+[Russel ABM Russel] 11:04:41
+Ethics and templates, yeah. So, within that, ethics and templates.
+
+[Russel ABM Russel] 11:04:45
+Okay.
+
+[Russel ABM Russel] 11:04:46
+So, within that, create a… create a folder, Google Forms, so that the data can be here, because I need to retain this for 5 years.
+
+[Cyrus] 11:04:46
+Not a Google phone.
+
+[Russel ABM Russel] 11:04:54
+As part of the ethics requirement, okay? Within the…
+
+[Russel ABM Russel] 11:04:59
+Ethics.
+
+[Russel ABM Russel] 11:05:02
+F6 folder, that's it you need, right? And the view…
+
+[Russel ABM Russel] 11:05:08
+review, um…
+
+[Russel ABM Russel] 11:05:11
+Right to the end.
+
+[Russel ABM Russel] 11:05:13
+So…
+
+[Russel ABM Russel] 11:05:15
+evaluation.
+
+[Russel ABM Russel] 11:05:16
+two criterias we have looked at, right? So those that we're looking for. Um…
+
+[Russel ABM Russel] 11:05:24
+That's the main thing. Anything else we need?
+
+[Cyrus] 11:05:27
+Just two more points.
+
+[Cyrus] 11:05:29
+When you look at the consent form or the.
+
+[Cyrus] 11:05:34
+Description, whatever.
+
+[Russel ABM Russel] 11:05:35
+ethics…
+
+[Russel ABM Russel] 11:05:36
+Yes?
+
+[Cyrus] 11:05:37
+That's perfect stuff. Usually the first page is just the template that you gave us, but the second page, the second tab is actually what I've done. So keep that in mind. It's not incomplete.
+
+[Russel ABM Russel] 11:05:45
+Yeah, yeah, I'll, I'll fix, I'll let you fix those, yeah. Give me 20 minutes, yeah, that'.
+
+[Cyrus] 11:05:47
+And in the survey, there are places where I've written in brackets ref
+
+[Cyrus] 11:05:53
+That's for me to later go in and find supporting studies, so just keep that in mind
+
+[Russel ABM Russel] 11:05:54
+Yep.
+
+[Russel ABM Russel] 11:05:57
+Okay. No, no problem, we'll fix that one, and review category for evaluation, that's it. So, yeah, I think that's main, main target there. Any other questions you need? Any other things?
+
+[Russel ABM Russel] 11:06:11
+Okay, I'll go there. Thank you very much there.
+
