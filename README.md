@@ -20,15 +20,20 @@ This repository currently contains a proof of concept only, built to test one th
 - Vite
 - Plain CSS, no UI framework
 - No router, no state management library
+- Firebase Hosting for deployment (Firebase Analytics is initialized in `src/firebase/firebase.js` but not yet wired into the app)
 
 ## Project structure
 
 ```
 index.html
+firebase.json          Firebase Hosting config (serves dist/, SPA rewrite)
+.firebaserc             points the Firebase CLI at the schoolofethics-73280 project
 src/
   main.js              app entry point
   App.vue              flow orchestration and screen state
   style.css            shared styles
+  firebase/
+    firebase.js        Firebase app initialization (config + Analytics)
   data/
     scenario.js        the hardcoded scenario and options
     agentResponses.js  the two hardcoded agent response sets
@@ -66,6 +71,22 @@ The dissent visibility condition is set in `src/App.vue` via the `DEFAULT_CONDIT
 http://localhost:5173/?dissent=visible
 http://localhost:5173/?dissent=hidden
 ```
+
+## Deployment
+
+The app is deployed to Firebase Hosting:
+
+- **Live URL:** https://schoolofethics-73280.web.app
+- **Firebase console:** https://console.firebase.google.com/project/schoolofethics-73280/overview
+
+To redeploy after making changes:
+
+```
+npm run build
+npx firebase-tools deploy --only hosting
+```
+
+This requires being logged in to the Firebase CLI with an account that has access to the `schoolofethics-73280` project (`npx firebase-tools login`). `firebase.json` and `.firebaserc` configure the deploy — Hosting serves the Vite build output in `dist/`, with a catch-all rewrite to `index.html` so the `?dissent=visible` / `?dissent=hidden` query-param routing works on any URL.
 
 ## Out of scope for this proof of concept
 
