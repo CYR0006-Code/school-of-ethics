@@ -2,21 +2,20 @@
 defineProps({
   scenario: { type: Object, required: true },
 })
-defineEmits(['continue'])
 </script>
 
 <template>
-  <section class="screen">
-    <h1>{{ scenario.title }}</h1>
+  <section class="scenario-context" aria-label="Scenario facts and options">
+    <p class="eyebrow">Scenario facts</p>
+    <h2>{{ scenario.title }}</h2>
     <p class="description">{{ scenario.description }}</p>
 
-    <h2>Options</h2>
+    <h3>Available options</h3>
     <ul class="options-preview">
       <li v-for="opt in scenario.options" :key="opt.id">
         <strong>{{ opt.id }}.</strong> {{ opt.label }}
       </li>
     </ul>
 
-    <button @click="$emit('continue')">Continue</button>
   </section>
 </template>

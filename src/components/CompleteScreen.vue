@@ -1,16 +1,11 @@
 <script setup>
-defineProps({
-  condition: { type: String, required: true },
-})
+defineEmits(['new-session'])
 </script>
 
 <template>
   <section class="screen">
-    <h1>Thanks — your responses have been recorded.</h1>
-    <p class="description">
-      This is a proof of concept, so nothing was actually submitted anywhere. Open the browser
-      console to see the captured data logged as JSON.
-    </p>
-    <p class="condition-note">Condition shown: <strong>dissent {{ condition }}</strong></p>
+    <h1 tabindex="-1" data-stage-heading>Thank you</h1>
+    <p class="description">You have completed both scenarios and reviewed the feedback. You can return to the survey or close this window.</p>
+    <button class="secondary" @click="$emit('new-session')">Start again</button>
   </section>
 </template>

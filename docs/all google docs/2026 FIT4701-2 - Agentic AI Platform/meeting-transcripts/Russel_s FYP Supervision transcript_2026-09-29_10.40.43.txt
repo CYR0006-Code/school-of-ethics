@@ -1,0 +1,888 @@
+[Russel ABM Russel] 10:08:14
+Uh, we need it for the next semester, I mean, not for this semester, of course. Um…
+
+[Russel ABM Russel] 10:08:21
+I don't know whether prototype will be ready by week 12, and, uh, you… I don't think so you can include, um…
+
+[Russel ABM Russel] 10:08:33
+any user survey before with Twilio. It's, it's only with 9.
+
+[Russel ABM Russel] 10:08:38
+Um, we can submit it by end of, uh…
+
+[Russel ABM Russel] 10:08:44
+Next… this week or next week?
+
+[Russel ABM Russel] 10:08:47
+But, uh, because the prototype is not ready, so probably it's not ideal to go ahead with. Um, it also requires the… the measurement criteria.
+
+[Russel ABM Russel] 10:09:00
+What you're going to evaluate, and how… what will be the benchmark, and so on, okay?
+
+[Russel ABM Russel] 10:09:08
+Um, let me have a think whether we need the ethics approval in this semester, or we'll postpone to the next semester. I mean, we'll do it at the end of the semester, so that it can… we can get approval. But that requires also, you know, defining all the criteria, um…
+
+[Russel ABM Russel] 10:09:26
+Survey questionnaires, uh, and so on. So, have we, have we, uh, started, uh, survey questionnaires?
+
+[Russel ABM Russel] 10:09:33
+Uh, for the S6, of course? Not yet, right?
+
+[Cyrus] 10:09:36
+Not yet, no.
+
+[Russel ABM Russel] 10:09:37
+Like, what we're asking users to do, because we haven't defined and locked down the three areas of this research, it's still…
+
+[Russel ABM Russel] 10:09:44
+Okay, so we will do that, that's one action item in future, so we need to, uh, get started.
+
+[Russel ABM Russel] 10:09:52
+Okay, so that's there. Just put some notes there, get the…
+
+[Russel ABM Russel] 10:09:58
+With Epic.
+
+[Russel ABM Russel] 10:10:02
+Uh, but it will be for… for F2.
+
+[Russel ABM Russel] 10:10:06
+Or before it, too.
+
+[Russel ABM Russel] 10:10:10
+And, um…
+
+[Russel ABM Russel] 10:10:13
+before, uh, before it's too late. That's what we're looking for. Um, or in it to, uh, do the…
+
+[Russel ABM Russel] 10:10:25
+Or we'll call it FYPB. Okay, um, so that's one thing we need to do. Uh, I will get started with those processes, because only staff can submit that, rather than students.
+
+[Russel ABM Russel] 10:10:39
+But I think we have already started the application process. Um, okay, so…
+
+[Russel ABM Russel] 10:10:47
+Okay, that's good. Have you started, uh, drafting your, uh, first deliverable?
+
+[Russel ABM Russel] 10:10:55
+You have access to the overlay, right?
+
+[Cyrus] 10:10:56
+Yeah, nothing much. A couple of days back, I went through and added our sources in the bibliography so that they're ready and accessible. So there's that, but nothing major.
+
+[Russel ABM Russel] 10:11:06
+Yes, you can refer to that, okay.
+
+[Cyrus] 10:11:08
+I just had a few questions about that. Is that supposed to be… the format of that supposed to be similar to how our presentation is laid out? So, first we break down what we've researched.
+
+[Russel ABM Russel] 10:11:08
+Okay.
+
+[Cyrus] 10:11:19
+our abstract.
+
+[Russel ABM Russel] 10:11:20
+Oh, okay, so it needs to be introduction…
+
+[Russel ABM Russel] 10:11:27
+Then, followed by, um, background.
+
+[Russel ABM Russel] 10:11:31
+I mean, the sequences are similar, the background then, um, which is the lit review inclusive.
+
+[Russel ABM Russel] 10:11:40
+Review, right? And then you have methodology?
+
+[Russel ABM Russel] 10:11:46
+And for this paper will be preliminary result.
+
+[Russel ABM Russel] 10:11:52
+Right? And then it will be more… not a conclusion, rather than conclusion, it will be future work.
+
+[Russel ABM Russel] 10:12:00
+there, what, what are you planning to do in, in, in F2, so it will be clear about that, what, what else to be done.
+
+[Russel ABM Russel] 10:12:10
+So, what I wanted to focus on is methodology, we have defined that, right? For the presentation?
+
+[Cyrus] 10:12:21
+Yep.
+
+[Russel ABM Russel] 10:12:22
+Okay, so we have defined that. So what I want to focus on, uh, is the preliminary results, what we're expecting there.
+
+[Russel ABM Russel] 10:12:33
+So, uh, for this paper, it's only 4-page, uh, paper, um, so what sort of results we, uh, we can get it ready?
+
+[Russel ABM Russel] 10:12:43
+So, one thing is the persona.
+
+[Russel ABM Russel] 10:12:45
+Right? This is a preliminary result.
+
+[Cyrus] 10:12:48
+Mmhm.
+
+[Russel ABM Russel] 10:12:49
+Survey design, right?
+
+[Russel ABM Russel] 10:12:52
+That's another thing we can do. Um, what else is, uh, FR and NFR?
+
+[Russel ABM Russel] 10:13:03
+Uh, in the book, right? Um, we can say mock-up.
+
+[Russel ABM Russel] 10:13:09
+Okay, so what does it look like? So you've already done that. Mostly, mostly done. So what is missing is some sort of, um…
+
+[Russel ABM Russel] 10:13:18
+results there. So, results could be, um…
+
+[Russel ABM Russel] 10:13:22
+some preliminary, uh, data, the survey design, but it's not about the user data. There's some data.
+
+[Russel ABM Russel] 10:13:32
+The, the, um, back, uh, matched with…
+
+[Russel ABM Russel] 10:13:38
+Without queues.
+
+[Russel ABM Russel] 10:13:39
+So that's what we need to do, is define the RQs first, clear, clear, clear RQs, and then hook up on the methodology.
+
+[Russel ABM Russel] 10:13:50
+And then we focus on the preliminary results there, and preliminary results, this should be fine for the… only 4 pages there, and that includes your, uh, references, okay?
+
+[Russel ABM Russel] 10:14:03
+Okay, um, so, um…
+
+[Russel ABM Russel] 10:14:07
+What I wanted to do, if by end… let's put a timeline there, what you need here. This is week 9, week by week, so you have already identified those, but I wanted to focus on…
+
+[Russel ABM Russel] 10:14:20
+Uh, for this deliverable output, right? So this is, like, the submit, you do that. The week 9, I want you to focus on intro…
+
+[Russel ABM Russel] 10:14:32
+Introduction…
+
+[Russel ABM Russel] 10:14:34
+Last bag of literature review section.
+
+[Russel ABM Russel] 10:14:38
+Okay.
+
+[Russel ABM Russel] 10:14:40
+And then week 10, we will focus on…
+
+[Russel ABM Russel] 10:14:46
+Uh… this, too.
+
+[Russel ABM Russel] 10:14:48
+So this is your ultimate goal. That means you're complete, you're done, okay? And I need maybe a day or two to review this, or we can do it during this meeting as well. So probably, if you send me early, then I can review it, uh…
+
+[Russel ABM Russel] 10:15:05
+offline, okay? So, this is our target, and then we… we finalize everything, okay? So, the final…
+
+[Cyrus] 10:15:07
+Yep.
+
+[Russel ABM Russel] 10:15:17
+final draft. That's what we're looking at. There's a timeline there, and we'll just polish that as much as possible. Um, and, uh, yeah, this will also include, um.
+
+[Russel ABM Russel] 10:15:31
+Survey design. Uh, what else we need? Uh…
+
+[Russel ABM Russel] 10:15:37
+Data, matched with specific data, uh, queues, and also, uh, constraints.
+
+[Russel ABM Russel] 10:15:45
+Okay, clearly identified.
+
+[Russel ABM Russel] 10:15:48
+Identified all constraints, right? Um, and also benchmark.
+
+[Russel ABM Russel] 10:15:58
+Okay, so benchmark could be you do your own.
+
+[Russel ABM Russel] 10:16:03
+Plus, um… Literally, it's good.
+
+[Russel ABM Russel] 10:16:06
+Does it make sense? Has anyone done this in the similar space? What's their benchmark? What's the…
+
+[Russel ABM Russel] 10:16:14
+F1 score, for example. So, uh, this needs to be matched with, um, a backed bike.
+
+[Russel ABM Russel] 10:16:22
+Back by step.
+
+[Russel ABM Russel] 10:16:24
+Okay? So, find out what you're going to use to do the benchmark, um, whether this is accurate or not.
+
+[Russel ABM Russel] 10:16:34
+percentage is not good enough, I mean, you know? So, is this an F1 score we're looking for, or some other criteria, okay? Other thing, uh, was part of the methodology, um, uh…
+
+[Russel ABM Russel] 10:16:49
+We spoke about some sort of, uh, equation or something, such as the calculator.
+
+[Russel ABM Russel] 10:16:57
+calculation. Um, speaking about that one, um.
+
+[Russel ABM Russel] 10:17:03
+Have you identified or locked down those?
+
+[Cyrus] 10:17:07
+Yeah, I mean, that's remained pretty much the same throughout the process. We do have an equation to calculate.
+
+[Russel ABM Russel] 10:17:08
+Uh, in terms of…
+
+[Cyrus] 10:17:16
+over-reliance, the index of over-reliance.
+
+[Russel ABM Russel] 10:17:18
+Yeah, that's what I'm saying. So, is this a question we are defining, or it's coming from the literature?
+
+[Cyrus] 10:17:26
+This is coming from the literature because they use the same equation.
+
+[Russel ABM Russel] 10:17:28
+Okay.
+
+[Russel ABM Russel] 10:17:31
+Okay, so that could be another thing. Why this…
+
+[Russel ABM Russel] 10:17:40
+equation…
+
+[Cyrus] 10:17:41
+Mmhm.
+
+[Russel ABM Russel] 10:17:43
+should remain…
+
+[Russel ABM Russel] 10:17:46
+been in our.
+
+[Russel ABM Russel] 10:17:48
+So that doesn't make sense. So you need to justify there as well, or does it require to include any coefficient?
+
+[Russel ABM Russel] 10:17:55
+or anything else to be considered, because the technology is changing, and so on, to reduce uncertainty, and so on. And that, we can prove it as well. Okay, so include that. Um, that I'll extend in the presentation, of course.
+
+[Russel ABM Russel] 10:18:13
+Uh, yeah. Um, other than that, let's quickly look at, uh, the feedback. RQs, we spoke about that. How will your response be standardized to avoid same-agent giving?
+
+[Russel ABM Russel] 10:18:25
+different answers every time. Yeah, that's one thing you need to, uh, definitely address there. Um, I know one thing that you're referring to during the presentation.
+
+[Russel ABM Russel] 10:18:41
+Um… we will just pre-run everything, but that will get outdated, you know, very quickly, and then you still need human to review those.
+
+[Russel ABM Russel] 10:18:50
+The idea is to make sure these, um, AI agents.
+
+[Russel ABM Russel] 10:18:57
+I'll, uh, I'll put a note there to make, make, make AI agents dynamic.
+
+[Russel ABM Russel] 10:19:07
+Because static is coming back to the, um…
+
+[Russel ABM Russel] 10:19:11
+existing approaches there, so it is not any differentiated. You have…
+
+[Cyrus] 10:19:14
+Hmm.
+
+[Cyrus] 10:19:16
+Yep.
+
+[Russel ABM Russel] 10:19:17
+Three different skills, um…
+
+[Russel ABM Russel] 10:19:20
+I mean, of course, it will be multi skills for human case. And then get the response there. You ask that. I mean, this is a traditional approach. Then it doesn't make any sense if you do the same approach there. It needs to be dynamic. Now, when it is dynamic, that comes this bigger issue there. How do you control that?
+
+[Russel ABM Russel] 10:19:42
+And the only way to control and add constraint, so that's the constraint is very important, the need to control.
+
+[Russel ABM Russel] 10:19:53
+the outcome, right? And plus constraint
+
+[Russel ABM Russel] 10:19:58
+Right? So you need to define those there, what needs to be done so that it doesn't, uh, uh, make any mistakes within some boundaries, uh, guardrails, we call it, right?
+
+[Russel ABM Russel] 10:20:11
+Got it. So, that could be using the prompts. Simple, as simple as that. The U3 gives enough prompts there, it knows that it should not go beyond that boundary, or some other approaches. I'll just give you an example of that.
+
+[Russel ABM Russel] 10:20:27
+Does it make sense? And those must be defined there, so whenever this role is there, this role is not going beyond certain boundaries with certain things.
+
+[Russel ABM Russel] 10:20:37
+And that's why the research is all about, uh, anything relevant to the Agentic AI. And we have a context, of course. It can be applicable to anything, anyway. Um, that's one thing. Mockups, it's not, uh, immediately clear that user is getting AI advice.
+
+[Cyrus] 10:20:49
+Cool.
+
+[Russel ABM Russel] 10:20:55
+Uh, yeah, I mean, of course, we put them together there, even, um, psychologically or subconsciously. Um, maybe, uh…
+
+[Russel ABM Russel] 10:21:05
+Okay, yeah, maybe… let's define that. We need to define the mock-ups there, and implement the prototype, start implementing the prototype. That's absolutely fine.
+
+[Russel ABM Russel] 10:21:19
+Um, and we won't be able to include all the mock-ups, but more of…
+
+[Russel ABM Russel] 10:21:23
+more, uh, we'll focus on the implementation of the product itself. Preliminary, it could be one or two main, main, uh, parts of that. How does it work?
+
+[Cyrus] 10:21:29
+Hmm.
+
+[Russel ABM Russel] 10:21:33
+And then progressively improve the next, uh… before we do the ethics approval process, okay? Now, the food product is not required for ethics approval. It's only a prototype we should be able to deploy somewhere.
+
+[Russel ABM Russel] 10:21:49
+Um, and then, uh, we'll think about that what the user will be doing, maybe one or two scenarios, and so on. Um, and also, it could be, um… it could be our…
+
+[Russel ABM Russel] 10:22:03
+One of the criteria for evaluation, uh, static versus dynamic, um, agents as well.
+
+[Russel ABM Russel] 10:22:11
+Okay.
+
+[Cyrus] 10:22:13
+Yep.
+
+[Russel ABM Russel] 10:22:14
+Any question? Everyone is clear what needs to be done?
+
+[Cyrus] 10:22:17
+Sure, just to confirm…
+
+[Cyrus] 10:22:20
+To put in the ethics approval, to get the ethics approval, do we need a small mock-up?
+
+[Cyrus] 10:22:26
+Do they require small mockup or a small prototype? Okay.
+
+[Russel ABM Russel] 10:22:27
+Yes, yes.
+
+[Russel ABM Russel] 10:22:31
+need, uh, working through to… I'll travel there for… for a week.
+
+[Cyrus] 10:22:33
+Prototype
+
+[Cyrus] 10:22:35
+And ideally, when would, obviously as soon as possible, but ideally, when would you like this prototype to be implemented? Just so that I can plan it.
+
+[Russel ABM Russel] 10:22:45
+Um, I mean, should we aim for this semester?
+
+[Cyrus] 10:22:52
+I think it's better to aim for this semester as soon as possible, really, I think.
+
+[Russel ABM Russel] 10:22:56
+And then we should get together. So, there are two ways you can, uh, do, uh, the survey. One is, uh, requirements gathering, okay?
+
+[Russel ABM Russel] 10:23:08
+So this could be, like, a trick, where then…
+
+[Russel ABM Russel] 10:23:16
+And the second one is evaluation.
+
+[Russel ABM Russel] 10:23:21
+Or intervention, we call it. The requirement gathering is you don't know what this system looks like.
+
+[Russel ABM Russel] 10:23:27
+to engage people and gather requirements. So, do you think this is important? Yes. What do you think it should have? Tell us.
+
+[Russel ABM Russel] 10:23:40
+this button, that button, yes, I faced this issue, and so on, and so on. Does it make sense that you gather requirements? So that's one type of survey. That could be one of the areas within your final output.
+
+[Russel ABM Russel] 10:23:53
+And the other approach is more about, okay, we have built something.
+
+[Russel ABM Russel] 10:23:58
+Based on the requirements, um, uh, collected from…
+
+[Russel ABM Russel] 10:24:05
+Uh, your, uh, literature?
+
+[Russel ABM Russel] 10:24:07
+And experts in the field there, and developers, of course.
+
+[Russel ABM Russel] 10:24:14
+Uh, and then we come up with this product. Let's evaluate. What do you think about this? We want you to just evaluate.
+
+[Russel ABM Russel] 10:24:21
+That's mostly, uh, very good for end-user evaluation, like human-centric evaluation.
+
+[Russel ABM Russel] 10:24:32
+um, their system evaluation, uh, product evaluation. That's the most common one as well. But, uh, we…
+
+[Russel ABM Russel] 10:24:39
+If you want the requirement gathering, like, you want to ask a question, okay, we want to ask there if there is a need for this, and if there is a need, what does this product look like?
+
+[Russel ABM Russel] 10:24:52
+Uh, so rather than… as a developer, we are coming up with the feature, we ask them, what do you like to have there? And not… not really an evaluation, it's more about, uh, gathering requirements.
+
+[Russel ABM Russel] 10:25:06
+If you think that's required, then you must do it as soon as possible.
+
+[Russel ABM Russel] 10:25:13
+Uh, but I'm thinking more about, we build that, and then we ask them for evaluation.
+
+[Russel ABM Russel] 10:25:19
+The next semester.
+
+[Russel ABM Russel] 10:25:20
+So in that case, I would say before your submission, whenever you're ready, it's not rushed, because it needs to be defined, they will ask all the research questions, they will ask for the link to the actual prototype, and maybe simple user guide, what the…
+
+[Russel ABM Russel] 10:25:37
+participants will do, and ethics is more about, um, you know, the participants, uh, whether it is anything harm for them when they're using the system. That's what the ethics committee is looking at, or anything.
+
+[Russel ABM Russel] 10:25:53
+you know, privacy-related issue or something like that. So, we can make this evaluation, uh, do you need identifiable data?
+
+[Russel ABM Russel] 10:26:03
+Evaluation-wise, probably no. We can just say 60% of professionals say this, that, or they agreed. So that's how we present the result, final result.
+
+[Russel ABM Russel] 10:26:14
+Requirement gathering, you might need it. So, for example, certain, um… I mean, most cases, you don't need it. Anonymous would be fine.
+
+[Russel ABM Russel] 10:26:25
+Okay, so that leads us to that, do we have similar system in the literature?
+
+[Russel ABM Russel] 10:26:34
+how you are gathering those functional requirements and non-functional requirements. You need to back up through, uh, some sort of references and so on, okay?
+
+[Russel ABM Russel] 10:26:43
+That's what I need.
+
+[Cyrus] 10:26:45
+So, in order to build the system, we need functional and non-functional requirements, and to get those requirements, we need to look at existing solutions in the literature.
+
+[Cyrus] 10:26:54
+and work off that. Okay.
+
+[Russel ABM Russel] 10:26:54
+Yeah.
+
+[Russel ABM Russel] 10:26:56
+Correct, correct. It doesn't have to be the exact product, exact solution, it could be similar, and then you back up by that, okay, this is used in similar system, that's a repeat of this. It's just a justification why you are gathering requirement, and gathering this data.
+
+[Cyrus] 10:26:57
+No.
+
+[Cyrus] 10:27:16
+Sure, sure, okay. So, on the agenda, we have the prototype, we have the actual survey questions that we're going to submit.
+
+[Russel ABM Russel] 10:27:26
+Hmm.
+
+[Cyrus] 10:27:29
+How many survey…
+
+[Russel ABM Russel] 10:27:30
+Then advertisement, uh, exploratory statement, and I put some draft there, if you… the template there. I'll start doing the drafting, I haven't… I haven't extended those.
+
+[Cyrus] 10:27:35
+Yeah.
+
+[Cyrus] 10:27:37
+I'll have a look.
+
+[Cyrus] 10:27:42
+Are there templates that we can use? Do you have templates?
+
+[Russel ABM Russel] 10:27:46
+It's in the shared drive, right? I think I added those, uh, there.
+
+[Cyrus] 10:27:47
+Okay.
+
+[Cyrus] 10:27:52
+Yeah, okay, there we go, 10 flights, yes, yes, yes, okay, thank you, sorry, I didn't see those.
+
+[Russel ABM Russel] 10:27:57
+Yeah, I didn't get a chance to work on those. We'll do that, those are fine, but you need to… those are, like, artifacts to submit to get evaluated, but focus on the project itself, because we don't have anything right now.
+
+[Cyrus] 10:27:58
+Perfect.
+
+[Russel ABM Russel] 10:28:12
+To submit for even application.
+
+[Cyrus] 10:28:14
+Sure.
+
+[Russel ABM Russel] 10:28:15
+Let's define the RQs, and, and so on. So, have you worked on the RQs there? Refined RQs, more focused?
+
+[Cyrus] 10:28:24
+I haven't written anything down, but I had to think about the actual feedback.
+
+[Russel ABM Russel] 10:28:25
+Okay.
+
+[Russel ABM Russel] 10:28:27
+Okay, yeah? So what's your view on this feedback here?
+
+[Cyrus] 10:28:29
+So the first.
+
+[Cyrus] 10:28:32
+So, and it was great feedback, actually. So, they said, first of all, it was very pointed, in the sense that we say.
+
+[Cyrus] 10:28:39
+Um, as a governance mechanism in a multi-agent ethics, how does it reduce decision makers over reliance? We could maybe change that to how does it affect?
+
+[Cyrus] 10:28:50
+Decision makers over reliance on AI advice.
+
+[Cyrus] 10:28:54
+And then we also go on to say.
+
+[Cyrus] 10:28:56
+and the quality of their decision making.
+
+[Cyrus] 10:28:59
+Maybe we can cut that back a little bit and make the question more focused on over-reliance, as opposed to just adding more.
+
+[Russel ABM Russel] 10:29:06
+Yeah, again, I want to think about now on how to measure those. When you say effect there, how to measure that?
+
+[Cyrus] 10:29:06
+Because I said do it.
+
+[Russel ABM Russel] 10:29:17
+you give this scenario to a general participant. How are you going to measure that? What are you going to ask? Start thinking about those questions right now.
+
+[Russel ABM Russel] 10:29:26
+to evaluate this research question. Everything's fine, but then the question will be, how are you going to measure that? What is the benchmark there? Do you have anything on the literature?
+
+[Cyrus] 10:29:26
+Mm-hmm.
+
+[Russel ABM Russel] 10:29:37
+And, uh, how do you calculate this?
+
+[Cyrus] 10:29:37
+Yeah, will it not be the same approach? Because effect and… so reduce is pointed, effect just says, in general, how does it…
+
+[Russel ABM Russel] 10:29:44
+I'm okay, I'm okay with both. I wanted to ask their effect and reduce.
+
+[Russel ABM Russel] 10:29:50
+Uh, so, what are you going to ask, uh, the survey participants to evaluate whether this is effective or not?
+
+[Russel ABM Russel] 10:30:00
+So you're going to ask that, uh, okay, is this effective? Have we found this effective? But that's too vague. Doesn't make sense. So, you know, to think about how we're going to get evaluated. They can say yes or no.
+
+[Cyrus] 10:30:06
+Hmmm.
+
+[Cyrus] 10:30:07
+Yes, okay.
+
+[Russel ABM Russel] 10:30:12
+Or, you can ask them…
+
+[Russel ABM Russel] 10:30:16
+Qualitative questions.
+
+[Russel ABM Russel] 10:30:19
+And then from that qualification, it derived the results there. The 10 people said something.
+
+[Russel ABM Russel] 10:30:28
+Uh, and other people said something, and then it did a common theme from there. So that's another approach, the qualitative-quantitative. Think about quantitative-wise, the liquid chart out of 5.
+
+[Russel ABM Russel] 10:30:41
+um, you can define that. You can say, uh, I'm just giving you pointers there, okay? So, you can say very effective, somewhat effective, not effective, or irrelevant, uh, those sort of things, okay? So, start thinking about that, whether.
+
+[Russel ABM Russel] 10:30:58
+Reduction, effect, both are fine. Anything is okay.
+
+[Russel ABM Russel] 10:31:03
+And… that's it.
+
+[Cyrus] 10:31:03
+Sure. So, I mean, that's… and just a question on that. We have one component where the user uses the system, and we observe their behavior.
+
+[Cyrus] 10:31:11
+And then another component where they then reflect on using that system. They're two separate things. Is that correct?
+
+[Russel ABM Russel] 10:31:18
+You can, you can make it separate, but I think same will be fine. So, they just go through…
+
+[Russel ABM Russel] 10:31:25
+Um, okay, so when I say two components.
+
+[Russel ABM Russel] 10:31:30
+Uh, what do you mean by that?
+
+[Russel ABM Russel] 10:31:31
+Is it one with the static and the other one is a dynamic one? Or what exactly are you referring to?
+
+[Cyrus] 10:31:31
+I mean…
+
+[Cyrus] 10:31:37
+Well…
+
+[Cyrus] 10:31:39
+They firstly go through the system, they answer the questions, they see the AI responses, they make a decision, so there's that.
+
+[Russel ABM Russel] 10:31:46
+Okay.
+
+[Cyrus] 10:31:46
+But at the end of that process, we could then give them a survey and say, did this system help you make decisions more easily?
+
+[Cyrus] 10:31:55
+Did you feel the need to change your?
+
+[Cyrus] 10:31:58
+decisions. So we're locked up.
+
+[Russel ABM Russel] 10:31:58
+Oh, yeah, yeah, yeah, definitely. One is the system, the other one is the survey. That's two different things we're talking about. One is the…
+
+[Cyrus] 10:32:02
+Yep.
+
+[Cyrus] 10:32:03
+But do they need to be on the one platform, or are they separate?
+
+[Russel ABM Russel] 10:32:06
+No, no, no, separate, absolutely separate, that's what I'm saying. Prototype is separate from the survey questionnaire.
+
+[Cyrus] 10:32:08
+Separately.
+
+[Russel ABM Russel] 10:32:13
+Different survey, because the Google form are there, and the prototype will be your prototype, and the prototype can be in a survey format, which is fine, which is like, you know, evaluating ethics and so on, scenarios.
+
+[Cyrus] 10:32:13
+Yep.
+
+[Russel ABM Russel] 10:32:27
+Uh, but survey is… is a different thing, which is for evaluation purpose. So, to come up with those questions in the survey, how… and the survey data will give you, uh, the results, you know, the results you're talking about, the preliminary results.
+
+[Russel ABM Russel] 10:32:43
+Our preliminary survey suggests this, but if you're not doing the ethics early in the semester, probably you can't include that in this particular output.
+
+[Russel ABM Russel] 10:32:54
+And the 4-page paper.
+
+[Russel ABM Russel] 10:32:56
+Does that make sense? So, come up with this, uh, some of the example questions. I will review all those, and then probably fill those, um…
+
+[Russel ABM Russel] 10:33:04
+There, okay. Um, okay, so just to remind you there, so, uh…
+
+[Russel ABM Russel] 10:33:11
+Pro… to…
+
+[Russel ABM Russel] 10:33:13
+Hi.
+
+[Russel ABM Russel] 10:33:16
+a… separate… from…
+
+[Russel ABM Russel] 10:33:25
+Yep.
+
+[Russel ABM Russel] 10:33:31
+So, survey questions should have, uh, both, um, quality…
+
+[Russel ABM Russel] 10:33:38
+And… 1, 2, 3, 4…
+
+[Russel ABM Russel] 10:33:42
+Okay, and this will give you results, uh, the survey questions, okay? Now, think about that, the prototype, how we're going to ask them to use the prototype. That could be just the, uh, general scenarios, right? So, you come, you want to make a decision.
+
+[Russel ABM Russel] 10:34:00
+You go through certain steps, and then after, at the end of that prototype step, you also give them feedback on that, because it's a learning platform, so they'll be learning something. Oh, okay, that makes sense, or it didn't make sense.
+
+[Russel ABM Russel] 10:34:16
+And I know the difference now, or something like that. And then you ask about that. Did it feel better? How did you feel that accuracy-wise? How did the relevance was, maybe? So, in the survey, I was going to find out what instruments, uh, you want to use, questionnaire instruments.
+
+[Russel ABM Russel] 10:34:35
+There are, like, hundreds of different instruments. Um, CostMin framework is a very good one. My previous group used that. Uh, it, it, it, it evaluated based on the clarity of the, you know, what they were presenting.
+
+[Russel ABM Russel] 10:34:53
+relevance and quality, those sort of things. So find out any other, uh, based on the literature. That's something maybe share the workload within YouTube, and then we can review that, whether this is the right one. We can come up with our own criteria as well, which is absolutely fine.
+
+[Russel ABM Russel] 10:35:10
+I want to think about one more item.
+
+[Russel ABM Russel] 10:35:14
+Can you gather some information within the system?
+
+[Russel ABM Russel] 10:35:23
+Within the prototype, some evaluation.
+
+[Russel ABM Russel] 10:35:27
+Is this worth considering? I'll just keep it external to the system. They use…
+
+[Cyrus] 10:35:31
+What do you mean by that?
+
+[Russel ABM Russel] 10:35:33
+So, uh, when they are making some decision, and you observe something, and you automatically capture those information for this…
+
+[Cyrus] 10:35:40
+Mmhm.
+
+[Cyrus] 10:35:42
+And use that as preliminary results.
+
+[Russel ABM Russel] 10:35:44
+Yeah.
+
+[Russel ABM Russel] 10:35:45
+Could be, could be, and we found that majority are going into selecting.
+
+[Cyrus] 10:35:45
+Becca?
+
+[Russel ABM Russel] 10:35:52
+certain rules. You know, the one case we were discussing, um, uh…
+
+[Russel ABM Russel] 10:35:58
+Couple of weeks earlier, like, giving user to, um, in a select…
+
+[Russel ABM Russel] 10:36:06
+the roles.
+
+[Russel ABM Russel] 10:36:07
+Right? So we have a set of roles there, and we ask them to select only 3 roles relevant to this, their need. It's like you're hiring, uh, experts, or agents, or consultants, right?
+
+[Russel ABM Russel] 10:36:21
+So, maybe this can come… okay, we noticed that, uh…
+
+[Russel ABM Russel] 10:36:27
+Student participants selected these top three agent roles.
+
+[Russel ABM Russel] 10:36:31
+Out of 10 different roles. And, uh, professional participants selected.
+
+[Russel ABM Russel] 10:36:38
+these top three roles. So, I wanted to think and think ahead, and how we're going to present those findings.
+
+[Russel ABM Russel] 10:36:46
+and Darba.
+
+[Russel ABM Russel] 10:36:47
+Right, so that… then that part could be… you don't need to ask explicitly in the survey, separate survey.
+
+[Russel ABM Russel] 10:36:55
+you… because it is part of the system, and you capture those logs, and so on, that, okay, we noticed that Participant 1, who selected as a professional, who chose these top 3 roles.
+
+[Russel ABM Russel] 10:37:09
+Does that make sense? What is your thinking, Ricard, if you can capture something within the system while they are participating in the survey?
+
+[Cyrus] 10:37:10
+Right.
+
+[Russel ABM Russel] 10:37:20
+In-system data collection.
+
+[Cyrus] 10:37:21
+Yep, that would be very helpful and very easy to do, because they're doing the actions anyway, so you just have to log the actions. So I think that's a good idea.
+
+[Russel ABM Russel] 10:37:26
+COVID.
+
+[Russel ABM Russel] 10:37:27
+Okay.
+
+[Russel ABM Russel] 10:37:29
+Correct. So, uh, log the action. Yeah, there.
+
+[Russel ABM Russel] 10:37:36
+Yeah, and then you can get some… so think about this type of cases, like, I'm just giving one example of that, because we… I think we discussed once, uh, you know, uh, rather than…
+
+[Russel ABM Russel] 10:37:48
+One of them will be all the… selected all the agents available.
+
+[Russel ABM Russel] 10:37:55
+And…
+
+[Russel ABM Russel] 10:37:56
+Other option was, like, you select a subset of the agents, right? Agent skills, right? So that's something, like, we're giving them flexibility of selection, and then we evaluate whether it is changing any, uh, different, you know, any difference in their decision making or not.
+
+[Russel ABM Russel] 10:38:15
+Does that make sense? Okay, any other questions? A bit of a task to do. We've got a rough idea week by week, so…
+
+[Cyrus] 10:38:16
+Understood. Yeah, of course.
+
+[Russel ABM Russel] 10:38:24
+Uh, so this one, and then plus to work on…
+
+[Russel ABM Russel] 10:38:28
+So welcome
+
+[Russel ABM Russel] 10:38:36
+What else I need? Uh, that's one thing, um…
+
+[Russel ABM Russel] 10:38:41
+Uh, yeah, just focus on this one, start working on the prototype there, we'll just deploy a version, and if it is suitable, we'll just submit it this semester. And then during the break, I mean, there's a big break here, which is a good thing, but once we submit it, once we get approval, then it's a matter of gathering data collection, that means just keep doing the survey.
+
+[Russel ABM Russel] 10:39:02
+300, 400 people, and so on.
+
+[Russel ABM Russel] 10:39:05
+I'll continuously do that. The more time you have, the better it is.
+
+[Russel ABM Russel] 10:39:09
+And sometimes it takes up to 2 weeks to 2 months, but this should be fine. If you're not collecting personal data, they are normally okay, yeah. And my previous group got approval, the ethics group. So they did the same thing, they built a simple prototype.
+
+[Russel ABM Russel] 10:39:28
+I mean, even it is not a product, it's more of a static site there with the scenarios and the questionnaires, and they're selecting and getting response from there. Um…
+
+[Russel ABM Russel] 10:39:38
+So they were actually looking at published, uh, ethics scenarios compared with, uh, LLM-enhanced ethics scenarios. Obviously, LLM is much more better, and they evaluate based on the relevance, clarity, and so on.
+
+[Russel ABM Russel] 10:39:52
+And they had a separate survey, and so on. Okay?
+
+[Cyrus] 10:39:55
+Sure.
+
+[Cyrus] 10:39:57
+So, by next week's meeting, I'll have a prototype ready, and we'll… Abad and I will work on the introduction and background, and…
+
+[Russel ABM Russel] 10:39:57
+Okay, anything else? Yeah.
+
+[Russel ABM Russel] 10:40:00
+Correct.
+
+[Russel ABM Russel] 10:40:06
+That's the main target, because that background in literature review… I mean, preliminary literature review will continue. That… these two sections include…
+
+[Cyrus] 10:40:06
+Yeah, that's a paper. Yep.
+
+[Russel ABM Russel] 10:40:18
+your RQs.
+
+[Russel ABM Russel] 10:40:20
+Okay, then you jump into the methodology. So, that's why I'm stopping there.
+
+[Russel ABM Russel] 10:40:29
+Okay, anything else? I'll just write it down, including…
+
+[Russel ABM Russel] 10:40:36
+to find new IQs, specific one
+
+[Russel ABM Russel] 10:40:40
+Yeah, let's focus on this week, and then we can continue on this. Anything else I need to discuss
+

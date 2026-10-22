@@ -1,0 +1,3711 @@
+[Russel ABM Russel] 10:14:15
+So we're talking about the technical and ethical decision where the risk we identified is these three major areas.
+
+[Russel ABM Russel] 10:14:26
+But it doesn't tell me about the importance of ethical decision.
+
+[Russel ABM Russel] 10:14:33
+What do you mean by technical decision?
+
+[Russel ABM Russel] 10:14:37
+Do you want to say ethical decision in technical context, or business context?
+
+[Cyrus] 10:14:38
+Well…
+
+[Cyrus] 10:14:44
+Well, it could be artists or any ethical decision, and it can't be necessarily separate. So there are decisions.
+
+[Cyrus] 10:14:52
+That are good for technical aspects, but they're not good for ethical.
+
+[Cyrus] 10:14:56
+aspects.
+
+[Russel ABM Russel] 10:14:57
+Yeah.
+
+[Cyrus] 10:14:58
+Or they're good for technical and business, but they're not good for other things.
+
+[Russel ABM Russel] 10:15:02
+Both.
+
+[Cyrus] 10:15:03
+You know.
+
+[Russel ABM Russel] 10:15:04
+Okay, then you might need to, um…
+
+[Cyrus] 10:15:05
+So it could.
+
+[Russel ABM Russel] 10:15:10
+You might need to break this into two points.
+
+[Cyrus] 10:15:13
+Mm-hmm.
+
+[Russel ABM Russel] 10:15:15
+So, you can say that AI is using…
+
+[Russel ABM Russel] 10:15:20
+increasingly in technical decision making.
+
+[Russel ABM Russel] 10:15:25
+Okay, so you start with that, technical decision making.
+
+[Russel ABM Russel] 10:15:31
+Right? And then you say that often, these technical decisions involve.
+
+[Cyrus] 10:15:31
+Mm-hmm.
+
+[Russel ABM Russel] 10:15:39
+Ethics. Ethical…
+
+[Russel ABM Russel] 10:15:42
+Ethical risk and so on.
+
+[Russel ABM Russel] 10:15:45
+Right?
+
+[Russel ABM Russel] 10:15:45
+So I'm trying to frame that background. What is the issue? Like, a bigger issue there, then we narrow it down. So we start, like, a bigger picture, narrow it down, and then we'll go to the solution domain.
+
+[Russel ABM Russel] 10:15:59
+Okay, so that's how it works. So you go for the bigger picture to down. Okay, so what is the bigger picture? The bigger picture is that, yeah, increasingly with the search in AI.
+
+[Russel ABM Russel] 10:16:11
+We are just relying on AI. The key message is we're relying on AI for any kind of technical decision, right?
+
+[Cyrus] 10:16:21
+Mm-hmm.
+
+[Russel ABM Russel] 10:16:23
+Yeah. Maybe then the question is, can we give some example? What type of technical decisions such as blah, blah, blah?
+
+[Russel ABM Russel] 10:16:33
+So, otherwise, it's too… too broad and vague, right?
+
+[Russel ABM Russel] 10:16:38
+So this is missing. Who are the stakeholders?
+
+[Russel ABM Russel] 10:16:44
+And what types of decision they're making?
+
+[Russel ABM Russel] 10:16:48
+Okay?
+
+[Russel ABM Russel] 10:16:51
+So, are you talking about the software engineers
+
+[Russel ABM Russel] 10:16:55
+In what?
+
+[Cyrus] 10:16:55
+Likely, yeah.
+
+[Russel ABM Russel] 10:16:57
+Yes, this is such a… so you can say that software engineers
+
+[Russel ABM Russel] 10:17:02
+I'm using…
+
+[Russel ABM Russel] 10:17:05
+Um, AI…
+
+[Russel ABM Russel] 10:17:07
+for technical decision making, okay? Just to give you an idea how to frame that one, okay?
+
+[Cyrus] 10:17:10
+Yep.
+
+[Cyrus] 10:17:12
+Sure.
+
+[Russel ABM Russel] 10:17:12
+So now.
+
+[Russel ABM Russel] 10:17:14
+We observe the over-reliance.
+
+[Russel ABM Russel] 10:17:17
+Okay?
+
+[Cyrus] 10:17:21
+Now we get to the problem of reliance, which is the next.
+
+[Russel ABM Russel] 10:17:23
+That's correct, yes, that's correct. So then you go to that problem of the…
+
+[Cyrus] 10:17:24
+Slot.
+
+[Russel ABM Russel] 10:17:29
+So, you can take this out, uh…
+
+[Russel ABM Russel] 10:17:34
+And this can be down.
+
+[Russel ABM Russel] 10:17:40
+Yep.
+
+[Cyrus] 10:17:55
+Okay, so…
+
+[Russel ABM Russel] 10:17:59
+Yeah, so what is the problem of over-reliance there?
+
+[Cyrus] 10:18:00
+the problem…
+
+[Cyrus] 10:18:02
+Mm-hmm.
+
+[Russel ABM Russel] 10:18:04
+And again, this is also — you support that. Who said that? Maybe one or two references. Same text citation approach we do use on paper.
+
+[Cyrus] 10:18:11
+Sure.
+
+[Cyrus] 10:18:14
+Yep.
+
+[Russel ABM Russel] 10:18:15
+And then, what do you mean by over-reliance?
+
+[Russel ABM Russel] 10:18:19
+And then those… those key points you had before.
+
+[Cyrus] 10:18:26
+what this, or…
+
+[Russel ABM Russel] 10:18:28
+Oh, no, no, no. This is still a problem, we haven't gone to this solution.
+
+[Cyrus] 10:18:34
+So, because, like…
+
+[Cyrus] 10:18:36
+Over-reliance is defined by the studies that we've looked at, so… do I just give them a normal definition of over-reliance?
+
+[Russel ABM Russel] 10:18:43
+Yeah, you need to define that, what is the overhead lens issue.
+
+[Cyrus] 10:18:48
+Okay, so…
+
+[Russel ABM Russel] 10:18:48
+Right? What is the over-the-lens issue here? And what are the consequences?
+
+[Cyrus] 10:18:53
+So it's over reliance is.
+
+[Cyrus] 10:18:57
+The tendency to defer decisions.
+
+[Russel ABM Russel] 10:19:00
+Yep.
+
+[Cyrus] 10:19:01
+to an AI without critical thinking on your own part.
+
+[Russel ABM Russel] 10:19:04
+That's right, yeah, that's right.
+
+[Cyrus] 10:19:13
+Let's say…
+
+[Cyrus] 10:19:15
+Should I say ethical decisions or I'll just say decisions?
+
+[Russel ABM Russel] 10:19:21
+Yeah, I think it's fine. Actually, I'll get in there as well. This is the same type.
+
+[Russel ABM Russel] 10:19:27
+Okay, so…
+
+[Russel ABM Russel] 10:19:30
+Yeah, even the same, right? Yeah, that's better.
+
+[Russel ABM Russel] 10:19:34
+It is ready. Sorry, I didn't realize it was ready.
+
+[Russel ABM Russel] 10:19:38
+Yep.
+
+[Russel ABM Russel] 10:19:41
+Okay, so this one…
+
+[Russel ABM Russel] 10:19:46
+Is… you say the problem of, uh… because that's our focus, right? Problem of over-reliance, right?
+
+[Russel ABM Russel] 10:19:54
+Okay, uh, so the risk vector, I think we have discussed in the previous background, right? So what is… what are the issues?
+
+[Russel ABM Russel] 10:20:02
+Right?
+
+[Cyrus] 10:20:03
+That's just theater.
+
+[Russel ABM Russel] 10:20:03
+Yeah, so that will stay there, and then we'll talk about this over-reliance problem, and decision to introduce ethical risk there.
+
+[Russel ABM Russel] 10:20:18
+Such decisions often introduce ethical risks. What does it mean?
+
+[Cyrus] 10:20:19
+Yes.
+
+[Cyrus] 10:20:22
+Yes.
+
+[Russel ABM Russel] 10:20:23
+Why this is an ethical risk? What will be ethical risk?
+
+[Cyrus] 10:20:26
+Are you looking at my script?
+
+[Cyrus] 10:20:30
+What are you reading off?
+
+[Russel ABM Russel] 10:20:41
+Uh, the previous one, uh…
+
+[Russel ABM Russel] 10:20:54
+Yeah, I'm just thinking whether we should introduce over-reliance in this problem definition as well.
+
+[Cyrus] 10:21:03
+Yes, that's wrong.
+
+[Russel ABM Russel] 10:21:06
+Movie, go up, go up.
+
+[Cyrus] 10:21:08
+Yep.
+
+[Russel ABM Russel] 10:21:08
+Yeah, so, maybe…
+
+[Russel ABM Russel] 10:21:12
+Risk factor is there.
+
+[Russel ABM Russel] 10:21:14
+And… and… and this…
+
+[Russel ABM Russel] 10:21:18
+The outcome of this risk…
+
+[Cyrus] 10:21:19
+Oh, yeah.
+
+[Russel ABM Russel] 10:21:21
+But how you relate.
+
+[Russel ABM Russel] 10:21:25
+All this with overlay lens.
+
+[Russel ABM Russel] 10:21:28
+Maybe something in between, we need one more point.
+
+[Cyrus] 10:21:33
+Yeah, that's true.
+
+[Cyrus] 10:21:34
+So they rely on it and then it's risk. Yeah.
+
+[Russel ABM Russel] 10:21:35
+Then, go to the risk factor. So, maybe, maybe here, uh, so you just search is there, and it's also creating over…
+
+[Cyrus] 10:21:39
+Yep.
+
+[Cyrus] 10:21:50
+Let me introduce Ethel.
+
+[Russel ABM Russel] 10:21:52
+Because not… my point is, it's research. You can't just make a statement like, such decision. You're saying that it's all decision. It's not necessarily some decisions.
+
+[Russel ABM Russel] 10:22:03
+will be, um…
+
+[Russel ABM Russel] 10:22:05
+Uh, or maybe what you can do, this is one dimension, or one lens, right?
+
+[Russel ABM Russel] 10:22:11
+It has ethical risk, and also you can make that second point over reliance.
+
+[Russel ABM Russel] 10:22:18
+Right? So, over-reliance is another issue. So, two issues.
+
+[Cyrus] 10:22:19
+Alright, good to go.
+
+[Russel ABM Russel] 10:22:23
+And then…
+
+[Russel ABM Russel] 10:22:24
+From there…
+
+[Russel ABM Russel] 10:22:27
+I know you're drawing quite a lot. So, two issues, and both of them…
+
+[Russel ABM Russel] 10:22:33
+will have risk factor. Does it make sense?
+
+[Russel ABM Russel] 10:22:37
+Okay, so let's fix that, yeah, yeah.
+
+[Cyrus] 10:22:37
+Sure. So one is.
+
+[Cyrus] 10:22:41
+That, and none of them is that, and they both lead to, like, risk factors.
+
+[Russel ABM Russel] 10:22:44
+Risk factor, because both are issues with the risk vector.
+
+[Cyrus] 10:22:47
+So where do I put over-reliance in this equation then?
+
+[Russel ABM Russel] 10:22:52
+Oh, overreliance is the two issues, this one and this one.
+
+[Cyrus] 10:22:56
+Oh, okay, so do I just draw a box around them and say, over a lines, maybe?
+
+[Russel ABM Russel] 10:23:00
+Yeah, yeah, that's right.
+
+[Russel ABM Russel] 10:23:02
+And then push the — let me see if I can edit that. No, it's slow.
+
+[Russel ABM Russel] 10:23:27
+Perfect.
+
+[Russel ABM Russel] 10:23:29
+So, one thing is the search in AI technical decision, and those decision has got, uh…
+
+[Cyrus] 10:23:36
+Okay. All right, thank you. All right.
+
+[Russel ABM Russel] 10:23:39
+often introduce ethical risks.
+
+[Russel ABM Russel] 10:23:41
+And then, we also say that at the right-hand side, um, we also observed that, um, uh.
+
+[Cyrus] 10:23:42
+Thank you. Okay.
+
+[Russel ABM Russel] 10:23:51
+Yeah.
+
+[Cyrus] 10:23:52
+Yeah, yeah, yeah, yeah.
+
+[Cyrus] 10:23:59
+Yeah.
+
+[Cyrus] 10:24:03
+Uh, so, maybe I should reword it and say…
+
+[Cyrus] 10:24:09
+some decisions.
+
+[Cyrus] 10:24:13
+some decisions.
+
+[Russel ABM Russel] 10:24:14
+Yes, not all, yeah, you can't just guarantee all.
+
+[Cyrus] 10:24:16
+My oyster juice.
+
+[Cyrus] 10:24:19
+like ethical risks.
+
+[Russel ABM Russel] 10:24:20
+I think, yeah, often some decisions were made. Yeah, some decisions were made.
+
+[Cyrus] 10:24:23
+Yep.
+
+[Russel ABM Russel] 10:24:28
+Why didn't you say that?
+
+[Cyrus] 10:24:30
+Sorry?
+
+[Russel ABM Russel] 10:24:31
+Okay, yeah, that's…
+
+[Russel ABM Russel] 10:24:33
+That's right, and then…
+
+[Cyrus] 10:24:34
+Let's see if we can break these.
+
+[Russel ABM Russel] 10:24:36
+Some decisions are made.
+
+[Russel ABM Russel] 10:24:41
+Uh… the overlays part.
+
+[Cyrus] 10:24:47
+Sorry.
+
+[Cyrus] 10:24:54
+Sorry.
+
+[Cyrus] 10:24:57
+I should just title this Over Alliance, maybe.
+
+[Russel ABM Russel] 10:25:00
+Yeah, maybe just do dot points first. You can fix all these things.
+
+[Cyrus] 10:25:06
+Sure.
+
+[Russel ABM Russel] 10:25:09
+data to do dot points. What is the main point here? The main point is
+
+[Russel ABM Russel] 10:25:13
+So, Zenya uses to support technical decisions, right? That's the main point.
+
+[Cyrus] 10:25:19
+Yep.
+
+[Russel ABM Russel] 10:25:20
+Now, uh, sub-point of this is…
+
+[Russel ABM Russel] 10:25:30
+Let me see if I can review some of these.
+
+[Russel ABM Russel] 10:25:37
+And I'm there already.
+
+[Russel ABM Russel] 10:25:40
+So, subpoint will be…
+
+[Cyrus] 10:25:46
+Private, you say, exactly what we're doing.
+
+[Russel ABM Russel] 10:25:51
+Um, okay, give me one second, I'll be back soon, thank you.
+
+[Cyrus] 10:25:54
+Sure. If there's ever any evidence to .
+
+[Cyrus] 10:25:59
+What I think should be headed or do it straight away. Yeah.
+
+[Cyrus] 10:26:06
+Yeah, it…
+
+[Cyrus] 10:26:07
+Yep.
+
+[Cyrus] 10:26:13
+Yep.
+
+[Cyrus] 10:26:25
+There's too much content, so there's not enough content.
+
+[Cyrus] 10:26:32
+Okay, so
+
+[Cyrus] 10:26:37
+So.
+
+[Cyrus] 10:26:45
+So that's kind of fun.
+
+[Russel ABM Russel] 10:26:53
+Uh, sorry, yeah, let's do that now. Um, so we want to say, uh, this… the first one is, uh…
+
+[Russel ABM Russel] 10:27:17
+I'm thinking about whether we should take the risk part in the next slide, because…
+
+[Russel ABM Russel] 10:27:23
+I'm going to give a clear message. Maybe take the risk factors in the next slide. So, just copy this slide.
+
+[Russel ABM Russel] 10:27:30
+That will give you a better one. Copy the entire slide.
+
+[Cyrus] 10:27:30
+Sure.
+
+[Cyrus] 10:27:32
+Yep.
+
+[Cyrus] 10:27:35
+Sure. Yeah, yeah.
+
+[Cyrus] 10:27:38
+Move it to the problems.
+
+[Russel ABM Russel] 10:27:41
+No, no, problem is later. Risk vector, second. Another slide, correct, Eric.
+
+[Cyrus] 10:27:44
+Another slide.
+
+[Russel ABM Russel] 10:27:49
+Yeah, same thing, so copy that, and duplicate, yeah, that's right.
+
+[Cyrus] 10:27:51
+Difficult slide, yep.
+
+[Cyrus] 10:27:53
+Yep.
+
+[Russel ABM Russel] 10:27:54
+So, take the risk factor side out, from background, initial background, yeah.
+
+[Cyrus] 10:27:58
+Sorry. Risks out.
+
+[Cyrus] 10:28:03
+Yep.
+
+[Russel ABM Russel] 10:28:04
+Right, and uh… so here, in the background, we want to talk about…
+
+[Cyrus] 10:28:05
+Yeah, okay.
+
+[Cyrus] 10:28:08
+Oh, what if I'm not honest?
+
+[Russel ABM Russel] 10:28:13
+this thing, this thing, uh, go to the background, go to the background, wrong, wrong slide, yeah. So in there, we keep this, and we say that, okay, and, uh, over-reliance is a problem, okay?
+
+[Russel ABM Russel] 10:28:28
+And, uh… no, actually, don't need to initiate over-reliance. Maybe we just talk about this?
+
+[Cyrus] 10:28:35
+Tell you on a certain date right now, what do we look like?
+
+[Russel ABM Russel] 10:28:38
+I mean, you keep this as the main point, right? So this is… move it to right.
+
+[Russel ABM Russel] 10:28:44
+main point, and the next one… for some reason, it's just not updating. I don't know what's going on.
+
+[Cyrus] 10:28:52
+Great.
+
+[Russel ABM Russel] 10:28:55
+Let me check.
+
+[Russel ABM Russel] 10:29:03
+Uh, let me get that file… okay, so let's see if I can…
+
+[Russel ABM Russel] 10:29:07
+Edit the… okay, that's better. Yeah, that's better. So, this is one.
+
+[Cyrus] 10:29:12
+Alright, man.
+
+[Russel ABM Russel] 10:29:12
+Second one is this, what is the biggest issue? Leave that, and you keep this. The other issue is this, is the…
+
+[Russel ABM Russel] 10:29:24
+Over. Relax.
+
+[Cyrus] 10:29:28
+Yep. Okay, cool. That's a good one. Yep. Yeah, yeah, yeah.
+
+[Russel ABM Russel] 10:29:31
+Right? Does it make sense? The one is, some decisions may introduce ethylene, and also some decisions…
+
+[Russel ABM Russel] 10:29:39
+Uh, uh, yeah, you talk about the over-reliance issue, okay?
+
+[Cyrus] 10:29:42
+Sure.
+
+[Russel ABM Russel] 10:29:46
+Some decisions are made, however, this creates the risk here.
+
+[Russel ABM Russel] 10:29:52
+So, we take this out, take this out, take this out…
+
+[Russel ABM Russel] 10:29:57
+Take this out, and so this creates the following list, okay?
+
+[Cyrus] 10:30:03
+Thank you.
+
+[Russel ABM Russel] 10:30:03
+Mainly, you're saying that why this is risky, and there, this over-reliance, and…
+
+[Russel ABM Russel] 10:30:10
+Yes.
+
+[Russel ABM Russel] 10:30:12
+Uh, the first one, maybe, should you say, uh, something to introduce, ethical…
+
+[Russel ABM Russel] 10:30:20
+may introduce ethical risks. Rather than this, some decision…
+
+[Russel ABM Russel] 10:30:29
+Uh, I'll also add this, uh, with the…
+
+[Russel ABM Russel] 10:30:34
+Let me just do this, um… Uh…
+
+[Cyrus] 10:30:44
+Some decisions cause overreliance.
+
+[Russel ABM Russel] 10:30:47
+Pause? Uh…
+
+[Cyrus] 10:30:49
+Can calls?
+
+[Cyrus] 10:30:49
+can lead to?
+
+[Russel ABM Russel] 10:30:50
+And…
+
+[Cyrus] 10:30:51
+result in?
+
+[Russel ABM Russel] 10:30:51
+And you…
+
+[Russel ABM Russel] 10:30:53
+That's not resulting. Over the lines… what exactly you're trying to say, sir?
+
+[Russel ABM Russel] 10:31:08
+So, it hasn't…
+
+[Russel ABM Russel] 10:31:10
+There it is.
+
+[Russel ABM Russel] 10:31:12
+And we don't need to say some decision, that's it, over reliance.
+
+[Cyrus] 10:31:16
+Yep.
+
+[Russel ABM Russel] 10:31:17
+Right?
+
+[Cyrus] 10:31:18
+Yep, yep, yep.
+
+[Russel ABM Russel] 10:31:27
+In her wish.
+
+[Cyrus] 10:31:29
+Why was she not? I don't believe it.
+
+[Russel ABM Russel] 10:31:31
+Uh, okay…
+
+[Russel ABM Russel] 10:31:36
+Um, a vehicle…
+
+[Cyrus] 10:31:37
+I'm not…
+
+[Russel ABM Russel] 10:31:38
+Let's see… the… next thing…
+
+[Russel ABM Russel] 10:31:44
+And…
+
+[Russel ABM Russel] 10:31:49
+Um, maybe you can take this out. So, these are the main things we are focusing on, right? So, that's our bigger picture there, right?
+
+[Cyrus] 10:31:57
+Sure.
+
+[Russel ABM Russel] 10:31:57
+And then, then you talk about this, what are the risks, ethical risks?
+
+[Russel ABM Russel] 10:32:03
+What do you mean by risk vectors? What exactly are you referring to?
+
+[Cyrus] 10:32:07
+It's something that…
+
+[Cyrus] 10:32:11
+Introduces a risk. So bias introduces a risk. Hallucination introduces risk. Introduces risk, sorry.
+
+[Cyrus] 10:32:20
+So something that causes a risk, basically.
+
+[Cyrus] 10:32:25
+So black bias isn't always necessarily a risk, but it can cause a risk.
+
+[Cyrus] 10:32:30
+a risk of making decisions based on biased information.
+
+[Russel ABM Russel] 10:32:41
+Um, if you can just give me your PIN.
+
+[Russel ABM Russel] 10:32:46
+So, they are not over-reliance risk, right?
+
+[Cyrus] 10:32:51
+Well, if you over rely on AI.
+
+[Cyrus] 10:32:54
+there is a risk for bias, there is a risk for false positives, there is a risk for hallucination. That's why you shouldn't rely on AI, because there are these risks.
+
+[Cyrus] 10:33:05
+These are the reasons you don't want to over-rely on AI, because these are the risks if you do over-rely.
+
+[Russel ABM Russel] 10:33:05
+Yeah, so then…
+
+[Russel ABM Russel] 10:33:17
+Okay.
+
+[Russel ABM Russel] 10:33:18
+So maybe we can, uh, interrogate this. So we just mentioned this one, um…
+
+[Russel ABM Russel] 10:33:28
+We can bring the same dialogue here.
+
+[Russel ABM Russel] 10:33:57
+So you want to say analytical decision-making and over-reliance risk?
+
+[Russel ABM Russel] 10:34:03
+These are causes?
+
+[Russel ABM Russel] 10:34:06
+Our consequences.
+
+[Cyrus] 10:34:06
+Well, it doesn't, yeah, the consequences.
+
+[Cyrus] 10:34:22
+I wouldn't say consequences of unethical decision because
+
+[Russel ABM Russel] 10:34:23
+Not consequent, no, no, no. Uh, this is more about…
+
+[Russel ABM Russel] 10:34:40
+More about why, why this is an issue.
+
+[Russel ABM Russel] 10:34:48
+Something like that. Why is it like that? Because…
+
+[Cyrus] 10:34:52
+Why overreliance is an issue?
+
+[Russel ABM Russel] 10:34:56
+Yeah, I think that's better. Y over 11, right?
+
+[Russel ABM Russel] 10:35:03
+Is an issue, yeah, that's fair, because of these three major issues, major reasons there.
+
+[Cyrus] 10:35:05
+Yep.
+
+[Russel ABM Russel] 10:35:10
+So that leads us to your problem statement. Bring our main statement. What is the main statement? Thesis statement.
+
+[Russel ABM Russel] 10:35:19
+The aim, the main thing.
+
+[Cyrus] 10:35:21
+This is the home.
+
+[Russel ABM Russel] 10:35:23
+So here, uh, that's the main thing.
+
+[Russel ABM Russel] 10:35:27
+Okay, so yeah, that's the thing.
+
+[Russel ABM Russel] 10:35:31
+Do, do you need this one? Problem, uh, the problem over there, maybe?
+
+[Cyrus] 10:35:34
+I don't think we do.
+
+[Russel ABM Russel] 10:35:36
+Nope, take it out, take it out.
+
+[Russel ABM Russel] 10:35:39
+So that's the main problem here.
+
+[Russel ABM Russel] 10:35:49
+Yeah, that's the main thing, right?
+
+[Russel ABM Russel] 10:35:59
+Yeah, you define that, what do you mean by over-reliance there?
+
+[Russel ABM Russel] 10:36:04
+Okay, so that's… that's good. So this should be… lead to your hypothesis.
+
+[Russel ABM Russel] 10:36:11
+Too early, this one. So, what is the, um… what is the research questions?
+
+[Russel ABM Russel] 10:36:18
+Overarching research question. Add the research question here. We've done this. So, copy it from the ethics document.
+
+[Russel ABM Russel] 10:36:24
+Yeah, that's it. So this should be hourly.
+
+[Cyrus] 10:36:24
+No, I've got the slip.
+
+[Cyrus] 10:36:29
+Okay, okay, I see.
+
+[Russel ABM Russel] 10:36:30
+Okay, so this should be…
+
+[Cyrus] 10:36:31
+So I'll just copy that.
+
+[Russel ABM Russel] 10:36:34
+copy that into the same page. So, this is our research… the main thing. So, we want to focus on this. This is our problem, and what are you going to do? Start making AI agent disagreement visible. Listen.
+
+[Russel ABM Russel] 10:36:49
+the governance mechanism, and…
+
+[Cyrus] 10:36:56
+But our libel retains.
+
+[Cyrus] 10:37:00
+Or not.
+
+[Cyrus] 10:37:01
+Yes.
+
+[Russel ABM Russel] 10:37:02
+Yeah, that's fine, so I'm just going to bring some of the items as well. So, problem should include… first problem is the over-reliance problem, right?
+
+[Cyrus] 10:37:13
+Yep.
+
+[Russel ABM Russel] 10:37:14
+Uh, so… and the second problem is there is no…
+
+[Russel ABM Russel] 10:37:18
+There is no…
+
+[Cyrus] 10:37:18
+Okay.
+
+[Russel ABM Russel] 10:37:22
+Um, governance mechanism?
+
+[Cyrus] 10:37:29
+Well, how do we know, how do you know that's a problem?
+
+[Cyrus] 10:37:33
+Like, we don't know if a governance mechanism is even effective. How do we know that that's even a problem?
+
+[Cyrus] 10:37:41
+That's the whole point of our research.
+
+[Russel ABM Russel] 10:37:42
+It doesn't exist, right? So you have to say that this doesn't exist.
+
+[Cyrus] 10:37:46
+But why is no governance mechanism a problem? Like, we don't know that it's a problem.
+
+[Cyrus] 10:37:52
+Could be irrelevant.
+
+[Russel ABM Russel] 10:37:53
+No, no, no. You need to define the gap first, then you go to this research question, so you can't just…
+
+[Russel ABM Russel] 10:38:00
+you can build something here, so I'm not talking about this one. Um, okay, just give me one minute, thank you.
+
+[Russel ABM Russel] 10:39:03
+Okay, yeah, that's good. So now, uh, what… what we're trying to do on this slide is we identified the key problem, so this is actually problem…
+
+[Russel ABM Russel] 10:39:15
+Problem.
+
+[Russel ABM Russel] 10:39:17
+And this is the gap.
+
+[Russel ABM Russel] 10:39:21
+Does it make sense? So, we're trying to establish the gap. So, what is the gap here? The overall lens on AI or…
+
+[Russel ABM Russel] 10:39:30
+Uh, sorry, overview research single.
+
+[Russel ABM Russel] 10:39:34
+Agent…
+
+[Russel ABM Russel] 10:39:37
+AIR…
+
+[Russel ABM Russel] 10:39:42
+Or multi.
+
+[Russel ABM Russel] 10:39:47
+And then…
+
+[Russel ABM Russel] 10:39:49
+AI, right?
+
+[Russel ABM Russel] 10:39:51
+So… we are considering both, single-agent AI or multi-agent AI, right?
+
+[Russel ABM Russel] 10:40:01
+And then we found out is, uh, what is the gap here? I'm trying to look at this, so there is no government…
+
+[Russel ABM Russel] 10:40:11
+Let me zoom.
+
+[Russel ABM Russel] 10:40:14
+in a multi…
+
+[Russel ABM Russel] 10:40:17
+Exactly.
+
+[Russel ABM Russel] 10:40:18
+Yes.
+
+[Russel ABM Russel] 10:40:22
+uh, often. You don't need to get a, uh, universal statement. You say that there's some, um, some involvement.
+
+[Russel ABM Russel] 10:40:33
+some may not…
+
+[Russel ABM Russel] 10:40:38
+Governance and Community Market Agent AI. Um…
+
+[Russel ABM Russel] 10:40:43
+Does it, uh, apply to single agent AI?
+
+[Russel ABM Russel] 10:40:47
+No, right? It's mainly multi-agent AI, right?
+
+[Russel ABM Russel] 10:40:51
+So there's a gap there. Um, so over the land…
+
+[Cyrus] 10:40:51
+Yep. That's Mark.
+
+[Russel ABM Russel] 10:40:56
+Uh, okay, so we can just generalize this over reliance on AI.
+
+[Russel ABM Russel] 10:41:02
+Which is the tendency of this, that this is one of the gaps, right? So, one of the issues.
+
+[Russel ABM Russel] 10:41:09
+Um, actually, we can take this out, we can make it as a statement here. This is the problem, yeah, and why this is the issue, right? So we say…
+
+[Russel ABM Russel] 10:41:20
+Uh, sorry, what happened to this?
+
+[Russel ABM Russel] 10:41:23
+I'm just bringing it up there with some sort of black color, maybe, and fix those alignment.
+
+[Russel ABM Russel] 10:41:30
+So there, we don't need to, um, start with this statement and bring all this down.
+
+[Russel ABM Russel] 10:41:41
+Uh, how do you get this here? This one, this one, this one, this one, yeah, that's better.
+
+[Russel ABM Russel] 10:41:46
+So let's play there. So the problem we're looking at is the overlaying.
+
+[Russel ABM Russel] 10:41:51
+on AI, right?
+
+[Cyrus] 10:41:53
+Yep.
+
+[Russel ABM Russel] 10:41:53
+Okay, and then you define that why this is over-reliance, you got these issues. Then next, go to the next one. So what is the gap here? So now, over-reliance is an issue we have, um, identified.
+
+[Russel ABM Russel] 10:42:11
+identify that. What is the gap? What is the gap in the literature?
+
+[Russel ABM Russel] 10:42:17
+Backed by literature.
+
+[Russel ABM Russel] 10:42:20
+So, of course, you need to put references. Don't forget to put that. Maybe I'll just put a comment there. Include references.
+
+[Russel ABM Russel] 10:42:28
+Okay? So make sure you do that, and the first one as well, if there is any statement like this…
+
+[Cyrus] 10:42:30
+Yep.
+
+[Russel ABM Russel] 10:42:35
+And so on. Okay, so let's move on there. What is the gap here? So we don't need this?
+
+[Russel ABM Russel] 10:42:42
+Um, does the multi-agent…
+
+[Russel ABM Russel] 10:42:46
+Visible, okay, let me…
+
+[Russel ABM Russel] 10:42:49
+Okay, um…
+
+[Russel ABM Russel] 10:42:53
+Uh, how do you present this gap?
+
+[Russel ABM Russel] 10:42:57
+I mean, you have to have a good sequence there.
+
+[Cyrus] 10:43:01
+So the gap, does the gap not emerge from looking at the literature?
+
+[Russel ABM Russel] 10:43:09
+Okay.
+
+[Cyrus] 10:43:10
+So I thought we could go through the literature, construct a story about how we got to our gap based on the literature.
+
+[Russel ABM Russel] 10:43:18
+Yeah, so what is the…
+
+[Russel ABM Russel] 10:43:20
+Okay, so then, uh, we start with, uh, this one. So we start with the literature here. What is the gap?
+
+[Russel ABM Russel] 10:43:28
+The gap in ethics education. So let's bring that there. That's how we start, okay? So let's move it there. Gap in ethics education. First, we see that, okay.
+
+[Russel ABM Russel] 10:43:40
+We think that people are using, uh… over-reliance is happening due to the gap of, you know, ethics education, right? That's one thing. Then, second thing, effect of over-reliance on AI, but this is more about, um…
+
+[Russel ABM Russel] 10:43:57
+Uh, this is more about the over-realization issue, right? This reference should be there.
+
+[Russel ABM Russel] 10:44:03
+Why over-relance is an issue? If it, uh… yeah, sound… does it make sense?
+
+[Cyrus] 10:44:08
+But I mean, yeah, it does make sense to
+
+[Russel ABM Russel] 10:44:09
+So, Betty, what I'll do, I'll just add it there. So, this should be in the gap.
+
+[Russel ABM Russel] 10:44:14
+Add it to Gab.
+
+[Russel ABM Russel] 10:44:18
+And this one, effective overlay lens is added to…
+
+[Russel ABM Russel] 10:44:25
+add it to, uh…
+
+[Russel ABM Russel] 10:44:29
+Uh… problem.
+
+[Russel ABM Russel] 10:44:31
+Why this is an issue, right?
+
+[Russel ABM Russel] 10:44:33
+Uh, reducing over-reliance intensity, this is like a solution.
+
+[Cyrus] 10:44:36
+Mm-hmm.
+
+[Russel ABM Russel] 10:44:41
+Solution. Okay? Solution slide. Um, appropriate lens and a focus instead of a trust. Again, this is a solution.
+
+[Cyrus] 10:44:43
+Yep.
+
+[Russel ABM Russel] 10:44:53
+So, hourglass, we're still upper side, not bottom side. We'll come back to that. Scale of trust automated, scale of trust in autopilot system… it looks like an approach, right?
+
+[Cyrus] 10:45:06
+Yeah, sort of.
+
+[Russel ABM Russel] 10:45:07
+Uh… solution. Solution. Solution.
+
+[Russel ABM Russel] 10:45:12
+And there, uh…
+
+[Russel ABM Russel] 10:45:14
+Uh, case, uh, for generative scenarios as opposed to case studies.
+
+[Russel ABM Russel] 10:45:18
+This is a problem.
+
+[Russel ABM Russel] 10:45:21
+case of generative…
+
+[Cyrus] 10:45:22
+Well, actually, it's more of a…
+
+[Russel ABM Russel] 10:45:25
+Case for generators.
+
+[Cyrus] 10:45:25
+Is it a problem?
+
+[Russel ABM Russel] 10:45:28
+So, what does it say? The title says…
+
+[Cyrus] 10:45:28
+Like it's saying jet.
+
+[Cyrus] 10:45:32
+I'm not sure, maybe you can correct me on this, but it says that generative scenarios are better than just.
+
+[Cyrus] 10:45:39
+reading case studies from history.
+
+[Russel ABM Russel] 10:45:42
+Yeah, this is a problem. Uh, so this is the first one.
+
+[Russel ABM Russel] 10:45:46
+Okay.
+
+[Russel ABM Russel] 10:45:47
+No, this is a problem.
+
+[Cyrus] 10:45:49
+Problem? Okay.
+
+[Russel ABM Russel] 10:45:54
+Similar to this one, so this one, I said add it to GAP, and GAP Genetics Education. Uh, this one is… how did it go? This is the problem.
+
+[Russel ABM Russel] 10:46:07
+Uh, what is that? What did they add? This one, this one…
+
+[Russel ABM Russel] 10:46:12
+This one, this one… oh, this is a problem, right? So this is a problem, so this should be a problem as well.
+
+[Russel ABM Russel] 10:46:20
+Uh, if it's a water irrigation, this is actually a gap.
+
+[Russel ABM Russel] 10:46:25
+Not a problem.
+
+[Russel ABM Russel] 10:46:36
+Um, the case for generative scenarios as opposed to… Okay, so this is one of our latest…
+
+[Russel ABM Russel] 10:46:43
+Naturally, there is sales. I'm thinking this is…
+
+[Cyrus] 10:46:47
+Yeah. Okay.
+
+[Russel ABM Russel] 10:46:52
+This should be background.
+
+[Russel ABM Russel] 10:46:58
+You see the background here?
+
+[Russel ABM Russel] 10:47:01
+So, here, someone. Someone here.
+
+[Russel ABM Russel] 10:47:06
+So, we said that ethical decision, we also need one more point in her risk of potential unethical decision making. Okay, so we need one more point here.
+
+[Russel ABM Russel] 10:47:19
+This is the thing.
+
+[Russel ABM Russel] 10:47:23
+Increasing…
+
+[Russel ABM Russel] 10:47:26
+use of…
+
+[Russel ABM Russel] 10:47:30
+Uh, that is about an ethical increase in the, uh, revenue.
+
+[Russel ABM Russel] 10:47:35
+Uh, increasing use of…
+
+[Russel ABM Russel] 10:47:38
+Uh, the one you mentioned there, generative scenario, uh…
+
+[Cyrus] 10:47:41
+Yep.
+
+[Russel ABM Russel] 10:47:45
+You can have the activity.
+
+[Russel ABM Russel] 10:47:51
+Okay?
+
+[Russel ABM Russel] 10:47:52
+Then, for both cases, it has… there's no reliance there, right?
+
+[Russel ABM Russel] 10:47:59
+I mean, that's how you can frame this.
+
+[Russel ABM Russel] 10:48:02
+Then, the next one, validity and reliability of scenario-based instrument.
+
+[Cyrus] 10:48:08
+So, I've actually got an issue with the background saying increase abuse of generative scenarios, because the actual study.
+
+[Cyrus] 10:48:14
+actually finds that…
+
+[Cyrus] 10:48:16
+Generative scenarios are not common. They are very rare. They're not being used enough.
+
+[Russel ABM Russel] 10:48:22
+Okay.
+
+[Cyrus] 10:48:22
+So should we say? Because the actual findings of the study said…
+
+[Russel ABM Russel] 10:48:25
+Oh, this is not a general… okay, so this is finding it the opposite way, right? Still people are doing it. Okay, um…
+
+[Cyrus] 10:48:27
+Yeah.
+
+[Russel ABM Russel] 10:48:34
+In that case, should we add it to…
+
+[Russel ABM Russel] 10:48:38
+Because what it is…
+
+[Russel ABM Russel] 10:48:41
+So that means this one is contradictory to over-reliance. They're not over-reliant, they're not even using the generative one, right?
+
+[Russel ABM Russel] 10:48:49
+But there is a need. That's the thing.
+
+[Cyrus] 10:48:49
+Well, yeah. Well, there's a need for it. That's right. But this is specifically, so we're talking about, let's say I'm an engineer, I'm making a decision.
+
+[Russel ABM Russel] 10:48:55
+Okay, so in that case, we do keep this. Yeah, I got it, I got it. So this one, maybe in that case, we put it as a, uh, solution.
+
+[Cyrus] 10:48:57
+Then there's other worlds.
+
+[Russel ABM Russel] 10:49:09
+Okay, so we'll put it in the solution section, we'll come back to that. Then, validity of reliability, this is the… we discussed this, right? So…
+
+[Russel ABM Russel] 10:49:21
+Uh, so where did we go?
+
+[Russel ABM Russel] 10:49:23
+We have another day. So, validity of reliability of scenario-based instrument, what does it mean, validity and reliability of scenario-based instrument?
+
+[Cyrus] 10:49:31
+Basically, there's a citation for it, but basically someone made for chemical engineering and ethical.
+
+[Cyrus] 10:49:39
+and risk framework.
+
+[Russel ABM Russel] 10:49:40
+Okay.
+
+[Cyrus] 10:49:41
+And they found in their study that their framework using generative AI was valid and reliable in training people.
+
+[Russel ABM Russel] 10:49:46
+Yep.
+
+[Russel ABM Russel] 10:49:47
+Okay, this is a solution, it's another approach, right? Solution means I'm saying it is an approach to solve this problem. Optimal agent quantity and consistency, yeah, definitely solution.
+
+[Cyrus] 10:49:50
+Basically.
+
+[Russel ABM Russel] 10:49:59
+This is nothing to do, uh…
+
+[Russel ABM Russel] 10:50:03
+uh, issues, okay? And the optimization quantity, okay, it's the same thing, right? And the paper.
+
+[Cyrus] 10:50:06
+I think I was… That's a typo, sorry. Yeah, that's a…
+
+[Russel ABM Russel] 10:50:08
+Okay, so maybe take it out. Okay, so we got this one. So we got the problem, we got the gap, ethical, um, gap in ethics education, and bring the other gaps there. Let's bring that edit to gap, which one is that? This one.
+
+[Russel ABM Russel] 10:50:25
+Uh, any more gaps there? That's the only gap we have, right?
+
+[Cyrus] 10:50:29
+Yep.
+
+[Russel ABM Russel] 10:51:12
+Do you have, uh…
+
+[Cyrus] 10:51:14
+Yeah.
+
+[Russel ABM Russel] 10:51:21
+Uh, it's going a little bit here and there, like, you got gaps in ethics.
+
+[Russel ABM Russel] 10:51:25
+Education, so there's a need for a platform, right?
+
+[Russel ABM Russel] 10:51:29
+Then we build the next one, is, uh…
+
+[Russel ABM Russel] 10:51:40
+that, that, um…
+
+[Russel ABM Russel] 10:51:44
+Why do you need AI agent there?
+
+[Cyrus] 10:51:49
+Because in one of the studies they found that agents are better than.
+
+[Cyrus] 10:51:54
+One AI.
+
+[Russel ABM Russel] 10:51:56
+Okay, that's good. So, which study? Do you have it there?
+
+[Cyrus] 10:52:00
+Yeah, so it says, um…
+
+[Cyrus] 10:52:03
+Hold on, I'm sorry.
+
+[Cyrus] 10:52:08
+Optimal agent quantity and consensus.
+
+[Russel ABM Russel] 10:52:14
+Okay, so this…
+
+[Cyrus] 10:52:14
+It's a Japanese study.
+
+[Russel ABM Russel] 10:52:16
+That's alright, so anything there?
+
+[Russel ABM Russel] 10:52:20
+So, gaps in ethics, education, up to religion, transportation, those type of…
+
+[Russel ABM Russel] 10:52:28
+your system.
+
+[Cyrus] 10:52:29
+Oh.
+
+[Russel ABM Russel] 10:52:30
+If you use Agent, it is better, right?
+
+[Russel ABM Russel] 10:52:34
+And so that…
+
+[Cyrus] 10:52:34
+Yes, three agents is optimal.
+
+[Russel ABM Russel] 10:52:37
+three agents are optimal there. But before, even before that.
+
+[Cyrus] 10:52:37
+But I don't…
+
+[Russel ABM Russel] 10:52:42
+Why do you need ASIN?
+
+[Russel ABM Russel] 10:52:46
+Why do you need agent?
+
+[Cyrus] 10:52:49
+Why do you need agents?
+
+[Cyrus] 10:52:51
+Well, because there's a gap in…
+
+[Cyrus] 10:52:54
+Actual hands on scenario based AI mediated.
+
+[Cyrus] 10:52:59
+training. It's mostly just looking at examples, looking at case studies.
+
+[Russel ABM Russel] 10:53:05
+Okay, let's…
+
+[Cyrus] 10:53:05
+And that's what the GAP is, basically. That's what the GAP one says.
+
+[Russel ABM Russel] 10:53:11
+What is the gap in ethics education here? I'm going to start from beginning. So, what we're trying to say is that this problem leads us to something.
+
+[Cyrus] 10:53:18
+Cool.
+
+[Russel ABM Russel] 10:53:22
+Uh, so this problem leads us to…
+
+[Russel ABM Russel] 10:53:28
+Uh, these problems lead us to… we are missing…
+
+[Russel ABM Russel] 10:53:32
+Um, there is a need.
+
+[Cyrus] 10:53:34
+I think it was like, yeah.
+
+[Russel ABM Russel] 10:53:39
+Age of it?
+
+[Russel ABM Russel] 10:53:43
+Uh, I'm on the problem one, so there is a need to educate, uh, decision makers.
+
+[Cyrus] 10:53:56
+Okay.
+
+[Russel ABM Russel] 10:54:02
+Okay, so then we say that… once we say that, okay, there is a need to make… educate the decision maker, what do you need?
+
+[Russel ABM Russel] 10:54:13
+Uh, is the…
+
+[Russel ABM Russel] 10:54:17
+is the platform.
+
+[Cyrus] 10:54:24
+I mean, you're asking me why do we need a platform?
+
+[Russel ABM Russel] 10:54:30
+Oh, no, I'm just stating that there is a need to educate somebody using…
+
+[Russel ABM Russel] 10:54:40
+There is something missing to get directly jumping into the multi-agent, so I just wanted to say that…
+
+[Russel ABM Russel] 10:54:46
+This overreliance is an issue.
+
+[Cyrus] 10:54:50
+I mean, it's an issue, it's an issue period, doesn't matter, multi-agent, single-agent.
+
+[Russel ABM Russel] 10:54:50
+In… in a single…
+
+[Russel ABM Russel] 10:54:52
+agent…
+
+[Cyrus] 10:55:02
+of our alliance is an issue.
+
+[Ubaid Irfan] 10:55:07
+Is it multi-agent to mitigate that issue?
+
+[Ubaid Irfan] 10:55:11
+So like to improve the decision accuracy?
+
+[Cyrus] 10:55:13
+That's a good point. Yeah, that's our whole thing, actually.
+
+[Russel ABM Russel] 10:55:16
+That's a solution, good point. That's a solution, we'll come back. What I wanted to introduce here is this issue escalates.
+
+[Cyrus] 10:55:20
+Great.
+
+[Cyrus] 10:55:25
+I'm just going to get .
+
+[Russel ABM Russel] 10:55:25
+When there's a multi-agent.
+
+[Cyrus] 10:55:31
+I think it's…
+
+[Russel ABM Russel] 10:55:33
+There's a need for education…
+
+[Russel ABM Russel] 10:55:39
+Raise.
+
+[Russel ABM Russel] 10:55:41
+Uh, in heaven…
+
+[Cyrus] 10:55:44
+I'm not good. Actually, no, I didn't mute it too, because we didn't.
+
+[Russel ABM Russel] 10:55:45
+in a multi…
+
+[Russel ABM Russel] 10:55:49
+agent…
+
+[Russel ABM Russel] 10:55:51
+Environment.
+
+[Russel ABM Russel] 10:55:53
+Something like that.
+
+[Russel ABM Russel] 10:56:12
+Yeah, something like that. So, first of all, do you want to say that there's a need to educate decision makers? Right?
+
+[Russel ABM Russel] 10:56:22
+And the risk, for instance, is multi-generational environment. Um…
+
+[Cyrus] 10:56:39
+Yeah, yeah, yeah. What do you say?
+
+[Russel ABM Russel] 10:56:39
+Something, something like that. These risks are inherent in a multi-agent environment to educate decision maker.
+
+[Cyrus] 10:56:44
+Okay, so this is like.
+
+[Russel ABM Russel] 10:56:47
+How about that? So, this is still the problem. So, the conclusion of this problem is that these problems are actually coming back in the multi-agent environment to educate decision makers.
+
+[Russel ABM Russel] 10:56:57
+Then that leads us to the gap. What is multi-agent can't do?
+
+[Russel ABM Russel] 10:57:07
+Or you can just start with the gaps in ethics education, we talk… you talk about that, and then… then you go to the optimal age and quality consensus there.
+
+[Russel ABM Russel] 10:57:19
+And then you go to the research question, right?
+
+[Russel ABM Russel] 10:57:32
+So what is the… I mean, this is the reference, of course. I was able to define the gaps here.
+
+[Russel ABM Russel] 10:57:37
+So, gaps in ethics education is the reference, right? So, what is the actual gap here?
+
+[Cyrus] 10:57:43
+Oh, the actual gap is.
+
+[Russel ABM Russel] 10:57:45
+There is… yeah, there is no…
+
+[Russel ABM Russel] 10:57:48
+No…
+
+[Russel ABM Russel] 10:57:52
+multi… anything…
+
+[Cyrus] 10:57:54
+So no participatory formats.
+
+[Cyrus] 10:57:58
+And lack of focus on.
+
+[Cyrus] 10:58:02
+Bias, fairness, and governance. That's what the…
+
+[Cyrus] 10:58:06
+It's what it says, basically.
+
+[Russel ABM Russel] 10:58:13
+And what about this one? What is the gap there?
+
+[Cyrus] 10:58:21
+Well, that… that isn't necessarily a gap. Again, that study states that…
+
+[Cyrus] 10:58:24
+You can have one agent, you can have two, or three, or four. The optimal is three.
+
+[Cyrus] 10:58:32
+In terms of
+
+[Cyrus] 10:58:53
+In terms of decision accuracy, sorry.
+
+[Cyrus] 10:58:55
+Again, that's a solution. That's like…
+
+[Russel ABM Russel] 10:59:03
+Yeah, that's more about…
+
+[Russel ABM Russel] 10:59:12
+Yeah, that's more about the solution, right?
+
+[Russel ABM Russel] 10:59:15
+I mean, it can be part of the background, saying that, okay, there are some cases coming up, and there, and so on. Okay, I wanted to make this part of this, like, the gap should be identifiable.
+
+[Russel ABM Russel] 10:59:33
+So that's one, uh, sorry, that's one.
+
+[Russel ABM Russel] 10:59:37
+Number two would be… there is the… first of all, there is the multi-agent ethics platform, right?
+
+[Russel ABM Russel] 10:59:43
+That's one gap, and then the number two is, even though they exist.
+
+[Russel ABM Russel] 10:59:56
+um… misting…
+
+[Russel ABM Russel] 10:59:58
+Govern… government? Mechanism?
+
+[Cyrus] 11:00:03
+Yeah, well, uh…
+
+[Cyrus] 11:00:04
+Lack of a focus on.
+
+[Cyrus] 11:00:08
+Again, the study says lack of a focus on.
+
+[Cyrus] 11:00:14
+fairness, governance.
+
+[Cyrus] 11:00:17
+And.
+
+[Cyrus] 11:00:18
+participation.
+
+[Russel ABM Russel] 11:00:26
+Okay, so include the references, and then any more gap?
+
+[Cyrus] 11:00:29
+I'll go
+
+[Russel ABM Russel] 11:00:31
+So that's actually coming… this. This is more of a solution, the proposal you're making, and this is more of a… this student…
+
+[Russel ABM Russel] 11:00:45
+Yeah, probably students, uh, maybe make it universal.
+
+[Russel ABM Russel] 11:00:52
+Learners, right?
+
+[Cyrus] 11:00:54
+decision makers.
+
+[Russel ABM Russel] 11:00:58
+Yeah, we can say decision makers. It could be anyone. It could be, uh, yeah, decision makers. Yeah, let's pick that.
+
+[Cyrus] 11:00:59
+Engineers.
+
+[Cyrus] 11:01:02
+Yep.
+
+[Russel ABM Russel] 11:01:06
+Because the students are very narrow, then you can't tell them professionals, right? Remember we have those?
+
+[Cyrus] 11:01:11
+Yeah, that's it.
+
+[Russel ABM Russel] 11:01:18
+Yeah, decision maker should be better. Okay, so, uh, there, uh…
+
+[Cyrus] 11:01:24
+That's why it's like, oh, but it's supposed to be something outside.
+
+[Russel ABM Russel] 11:01:33
+And in terms of the solution, what we're trying to do is our…
+
+[Russel ABM Russel] 11:01:42
+In terms of the solution, overreliance is the problem, right? And the cause is risk, and in terms of the solution, what are we trying to achieve here?
+
+[Russel ABM Russel] 11:01:53
+And I want to make that as a gap, right?
+
+[Russel ABM Russel] 11:01:56
+So this is…
+
+[Russel ABM Russel] 11:01:59
+missing the governments, and there is no multi-agent system. What are the other gaps they're looking at?
+
+[Russel ABM Russel] 11:02:07
+poor quality, any other visual gap you have? I mean, two will be fine.
+
+[Russel ABM Russel] 11:02:20
+Okay, then maybe let's go back to our discussion on the measurements. What are we measuring? Then we can define that as a game, and support it with some sort of…
+
+[Russel ABM Russel] 11:02:31
+Whatever you may say.
+
+[Russel ABM Russel] 11:02:35
+What does this one add to the problem?
+
+[Russel ABM Russel] 11:02:40
+Oh, no, that's an overreliance issue.
+
+[Russel ABM Russel] 11:02:43
+I wouldn't find any other game.
+
+[Russel ABM Russel] 11:02:45
+Because one of the marking criteria is actually your, um…
+
+[Russel ABM Russel] 11:02:52
+Whether you have, um, identified the gap or not.
+
+[Cyrus] 11:02:58
+I mean, I guess, yeah.
+
+[Russel ABM Russel] 11:03:00
+Back by literature, I hope that… I mean, can you say the decent…
+
+[Cyrus] 11:03:02
+Maybe we could say there's no — sorry.
+
+[Russel ABM Russel] 11:03:04
+I mean, we have, we have the decent issue, decent issue, right?
+
+[Cyrus] 11:03:10
+Yeah, we'll do sentences.
+
+[Russel ABM Russel] 11:03:11
+Agreement, transparency, so we can put that as a lack of…
+
+[Russel ABM Russel] 11:03:16
+Lack of transparency.
+
+[Russel ABM Russel] 11:03:19
+I mean, one thing is the missing of the government and lack of transparency.
+
+[Cyrus] 11:03:36
+Maybe it's just like lack of AI transparency.
+
+[Russel ABM Russel] 11:03:39
+How? Yeah, so I'm saying to you, how is an…
+
+[Russel ABM Russel] 11:03:49
+uh… what do you call that? Um…
+
+[Cyrus] 11:03:51
+Rationalizing making decisions.
+
+[Russel ABM Russel] 11:03:54
+That's the human part itself. Uh…
+
+[Russel ABM Russel] 11:04:00
+Lack of trustworthiness.
+
+[Russel ABM Russel] 11:04:03
+Our agents, uh, what do you have to say here?
+
+[Russel ABM Russel] 11:04:07
+I'm making decisions, I'm now recommending… recommending…
+
+[Russel ABM Russel] 11:04:15
+Decisions, right?
+
+[Russel ABM Russel] 11:04:17
+So, what… is this if…
+
+[Ubaid Irfan] 11:04:18
+converging towards an optimal solution.
+
+[Cyrus] 11:04:23
+Yeah, it's absolutely possible.
+
+[Russel ABM Russel] 11:04:23
+Yeah, I mean, that's… I mean… I mean, we're talking about decisions and not solving anything.
+
+[Russel ABM Russel] 11:04:30
+And then… the decision makers are over-relying on this, because we know that, uh, what's going on.
+
+[Russel ABM Russel] 11:04:39
+Um, so this is where I'm just using those…
+
+[Cyrus] 11:04:40
+No, it's just the time I think is wrong.
+
+[Russel ABM Russel] 11:04:43
+As it is, right? So, without actually knowing that what's going on, right?
+
+[Russel ABM Russel] 11:04:48
+So, what is the reason we added this, um…
+
+[Russel ABM Russel] 11:04:53
+This statement, why do you want to make it decent visible?
+
+[Russel ABM Russel] 11:04:57
+What is the reason for that?
+
+[Cyrus] 11:04:59
+Ah, because again, the first one states there is no governance mechanism, so we thought we would add governance, but governance isn't one thing. Dissent visibility is one example of governance. There's a million different governance mechanisms.
+
+[Russel ABM Russel] 11:05:06
+Okay.
+
+[Cyrus] 11:05:14
+So that's why.
+
+[Russel ABM Russel] 11:05:15
+Yeah, I mean, we can focus on that. Do you have any literature against that?
+
+[Cyrus] 11:05:21
+We have literature saying there is no governance. We don't have literature specifically saying there is no dissent visibility specifically.
+
+[Russel ABM Russel] 11:05:30
+That's it, so add that, uh, that literature here, okay? And this is the governance one. The lack of, then, lack of transparency, how, as in, uh, um…
+
+[Cyrus] 11:05:34
+Is that gone? Yeah.
+
+[Cyrus] 11:05:44
+So, but wouldn't the governance then cover, like, if they say there is no governance, that includes all governance?
+
+[Russel ABM Russel] 11:05:44
+Visit to me.
+
+[Russel ABM Russel] 11:05:49
+No, no, no, one is the presence and absence, the second one is presence and absence, this one?
+
+[Russel ABM Russel] 11:05:55
+And this third one is that, uh… we need to add the governance here, of course. The lack of transparency, how is it disagreeing?
+
+[Cyrus] 11:05:55
+Sure.
+
+[Russel ABM Russel] 11:06:03
+Um, yeah, I think that's part of the governance, so we narrowed it down. So what we have done here, we… we have done hourglass.
+
+[Russel ABM Russel] 11:06:12
+Right? The hourglass means, uh, we do this.
+
+[Russel ABM Russel] 11:06:16
+So, it's part of the bigger problem, narrower problem, narrower problem there. So, we are now at this stage here, which is the last part, which is the transparency of the governance itself, right?
+
+[Cyrus] 11:06:20
+Sure.
+
+[Russel ABM Russel] 11:06:30
+That leads us to this research question. Um, what is this one? Optimal agent quantity and some… what is that again?
+
+[Cyrus] 11:06:39
+Again, that just says…
+
+[Cyrus] 11:06:42
+decision quality is best if you have 3 agents. After that.
+
+[Russel ABM Russel] 11:06:47
+Oh, multi-agents, okay, okay, multi-agents. So that will be your, uh, background, isn't it?
+
+[Cyrus] 11:06:56
+I don't know, I suppose. But it could be solution, it could be…
+
+[Cyrus] 11:07:00
+Background it.
+
+[Russel ABM Russel] 11:07:01
+Yeah, in the background.
+
+[Russel ABM Russel] 11:07:06
+That's it. So we said that there is a search, uh, technical decision.
+
+[Russel ABM Russel] 11:07:12
+And researchers are finding that multiple agents are actually better, right?
+
+[Russel ABM Russel] 11:07:22
+And then you said that, okay, however, there are some inherent risks of this unethical decision and over-reliance as well.
+
+[Russel ABM Russel] 11:07:30
+And these risks are actually… so believe the story. Then the risks are, you know, why over-related issue? These are the things happening.
+
+[Russel ABM Russel] 11:07:38
+And, uh, so this is more about, um, here. This is the main statement.
+
+[Cyrus] 11:07:44
+compromise.
+
+[Russel ABM Russel] 11:07:44
+And, uh, you were talking about why over-reliance is an issue.
+
+[Cyrus] 11:07:50
+We're not ready for crisis
+
+[Russel ABM Russel] 11:07:59
+Yeah.
+
+[Russel ABM Russel] 11:08:04
+I mean, I wanted to introduce the AI agents as well. Uh…
+
+[Cyrus] 11:08:04
+Go ahead and tell me
+
+[Russel ABM Russel] 11:08:12
+AI agents, or what do you call that? It's just AI, maybe. Yeah.
+
+[Russel ABM Russel] 11:08:23
+Uh, yeah, I think that's there already. Yeah, so how about that?
+
+[Russel ABM Russel] 11:08:28
+Then you said that why over-reliance is an issue, uh, because of this. Then that led to the research, so we have identified the research gap here. There is no multi-agent application in the platform.
+
+[Cyrus] 11:08:40
+That's my attention
+
+[Russel ABM Russel] 11:08:41
+then… so you need to add those, and lack of focus on fairness of the governance, and the lack of transparency there. So that leads us to formulate our research questions, so that's…
+
+[Russel ABM Russel] 11:08:52
+That's better. Now, research question. To address these research questions, we have objectives. So this should be…
+
+[Cyrus] 11:09:02
+I've already got an objectives page as well, so.
+
+[Russel ABM Russel] 11:09:04
+RRQS, yeah, so bring it here, maybe, sorry. So, you can take this out, we don't need this, right?
+
+[Russel ABM Russel] 11:09:09
+So, that reaches objectives, the ROs will be measured, definition will be… okay, that's better, which is the last point from the previous slide, right? Lack of transparency. So, you go again from the hourglass closer part to broader areas, okay?
+
+[Cyrus] 11:09:10
+Pack it up.
+
+[Cyrus] 11:09:23
+Yep.
+
+[Russel ABM Russel] 11:09:25
+And evaluate whether this will improve the accuracy. I think we discussed this one. This one is examined whether the accuracy is…
+
+[Cyrus] 11:09:26
+Sure.
+
+[Russel ABM Russel] 11:09:34
+But these are one, um…
+
+[Cyrus] 11:09:42
+I mean, how many do we need?
+
+[Russel ABM Russel] 11:09:46
+3. I mean, we got 4, uh, which is good. I think we'll keep 4. So, what are the differences? Let's just, uh, analyze this now. Okay, what are the differences here? Measure the effect of, um…
+
+[Russel ABM Russel] 11:10:00
+So, objectives are referring to how you're going to address this question, okay? The measure… research question. Measure the effect of this invisibility…
+
+[Cyrus] 11:10:02
+Well, we'll start coming up a lot.
+
+[Russel ABM Russel] 11:10:11
+Uh, a student view there. Okay, so change this to learner again, or decision maker, right? So change.
+
+[Cyrus] 11:10:16
+Yep. Yep.
+
+[Russel ABM Russel] 11:10:21
+Yep.
+
+[Russel ABM Russel] 11:10:22
+Okay, so that's better. Uh, evaluate whether different visible improved accuracy…
+
+[Russel ABM Russel] 11:10:30
+Uh, of decision. Okay, and whether it is effective decision you will offer between high, consistent, and ambiguous, uh, contested ethical scenarios?
+
+[Russel ABM Russel] 11:10:38
+Okay, that's good, and investigate whether disability will affect the decision maker's self-reported trust, any advice? Yeah, I think that's better, much better there.
+
+[Russel ABM Russel] 11:10:48
+Okay.
+
+[Cyrus] 11:10:48
+Yes.
+
+[Russel ABM Russel] 11:10:50
+Okay, let's move on. So this one is already done, so let's hide that. Okay, so this one we already… you know what to do, you need to put it in the references there. Okay, so that's our objective done.
+
+[Cyrus] 11:11:01
+Yep.
+
+[Russel ABM Russel] 11:11:03
+That's your aim. So the aim is already done, right? This is the research question you're doing, what you're trying to do. I mean, um…
+
+[Cyrus] 11:11:09
+Sure.
+
+[Russel ABM Russel] 11:11:15
+Uh, we can put the aim there. I mean, normally it's mainly the research question, main research question.
+
+[Cyrus] 11:11:21
+Honestly, yeah, maybe just get rid of it, and maybe we can just put the text somewhere if we need it.
+
+[Russel ABM Russel] 11:11:25
+This is the same thing, right? It's the same thing, exactly, yeah. I think just hide it. Keep it. And then, next thing is that this is research question, methodology. Okay, now come back to methodology. The methodology will be your how to draw those
+
+[Russel ABM Russel] 11:11:46
+being one of the examples
+
+[Russel ABM Russel] 11:11:48
+What's your methodology? What are you going to do? Step-by-step process. So maybe step-by-step-by-step process.
+
+[Russel ABM Russel] 11:11:54
+And what did he put? Oh, it's gone.
+
+[Russel ABM Russel] 11:11:57
+Okay, so there, uh…
+
+[Russel ABM Russel] 11:12:01
+Anticipated results… okay, that will later will come. Okay, so let's add, uh, that… insert…
+
+[Russel ABM Russel] 11:12:11
+What is the text there? Text box there. That's better. Okay, step by step process.
+
+[Russel ABM Russel] 11:12:21
+Okay, so what is the first step you're going to do to answer this question?
+
+[Russel ABM Russel] 11:12:29
+Alicia.
+
+[Russel ABM Russel] 11:12:31
+Metallurgy.
+
+[Russel ABM Russel] 11:12:33
+We have read so many papers.
+
+[Cyrus] 11:12:33
+Sure. It's.
+
+[Russel ABM Russel] 11:12:35
+Pick up any paper, what do they do?
+
+[Cyrus] 11:12:39
+Okay.
+
+[Cyrus] 11:12:41
+I mean, like, the actual actions, I suppose, would be to pick, like, 5 scenarios?
+
+[Russel ABM Russel] 11:12:44
+Correct. Exactly, what are we going to do?
+
+[Russel ABM Russel] 11:12:50
+what you're… what are you doing? In a software engineering, you do LDLC, right? You gather requirements, and so on. For research.
+
+[Cyrus] 11:12:53
+Yeah.
+
+[Cyrus] 11:12:56
+Yep.
+
+[Russel ABM Russel] 11:12:57
+What do you do?
+
+[Cyrus] 11:13:01
+Let's suppose you would again identify.
+
+[Russel ABM Russel] 11:13:09
+Yes, identified what?
+
+[Russel ABM Russel] 11:13:12
+We just did it.
+
+[Cyrus] 11:13:16
+Like functional requirements?
+
+[Cyrus] 11:13:17
+I don't know.
+
+[Russel ABM Russel] 11:13:18
+Nope.
+
+[Russel ABM Russel] 11:13:20
+That's part of the prototype. Okay, so that will come. So let's put it there. Somewhere you'll have it.
+
+[Cyrus] 11:13:21
+Yeah.
+
+[Russel ABM Russel] 11:13:29
+Okay, the prototype, uh, development, development, right? So that will have your…
+
+[Russel ABM Russel] 11:13:39
+Functional…
+
+[Russel ABM Russel] 11:13:41
+Requirement…
+
+[Russel ABM Russel] 11:13:43
+Love.
+
+[Russel ABM Russel] 11:13:44
+Non-consumable liquor moves, right? Okay, that's one thing.
+
+[Russel ABM Russel] 11:13:50
+But in the research, what do you do? Think like a researcher.
+
+[Russel ABM Russel] 11:13:58
+What's your reservation for today?
+
+[Ubaid Irfan] 11:13:59
+Analyze all the existing data.
+
+[Russel ABM Russel] 11:14:05
+Mm-hmm. Try again. Analyze existing data… okay, wait a second, wait a second, so…
+
+[Ubaid Irfan] 11:14:07
+Identify gaps.
+
+[Russel ABM Russel] 11:14:10
+Tell me, I'm just training you to think about research, and the software engineering is straightforward. So, uh, where the rate mission analyze…
+
+[Cyrus] 11:14:13
+Sure.
+
+[Russel ABM Russel] 11:14:20
+Data. What data?
+
+[Cyrus] 11:14:24
+Yeah. The data we've gathered.
+
+[Russel ABM Russel] 11:14:26
+Okay, so let's say, how are you gathering data? Gather data. How did you gather the data?
+
+[Ubaid Irfan] 11:14:32
+Survey responses…
+
+[Russel ABM Russel] 11:14:35
+Okay…
+
+[Russel ABM Russel] 11:14:36
+That's good. So, survey, respond.
+
+[Russel ABM Russel] 11:14:41
+This. Good job. Glass?
+
+[Russel ABM Russel] 11:14:45
+Anything else? Any other source to analyze the data?
+
+[Cyrus] 11:14:48
+Just going out to like people.
+
+[Russel ABM Russel] 11:14:52
+Yeah, that's part of the survey in Dada.
+
+[Russel ABM Russel] 11:14:56
+Alright, responses from participants.
+
+[Russel ABM Russel] 11:15:02
+Any other data, you'll be…
+
+[Russel ABM Russel] 11:15:08
+Any other data sources?
+
+[Russel ABM Russel] 11:15:11
+Come on, think about the research. This unit is all about building, becoming a researcher.
+
+[Russel ABM Russel] 11:15:18
+So, what do you think, what, what other data sources? Are you going to just, uh, ask 3 people, you build a software, just ask 3 people, okay, just do that?
+
+[Russel ABM Russel] 11:15:27
+That is a valid purpose. Okay, you guys asked that. What else you can do?
+
+[Russel ABM Russel] 11:15:37
+Okay, what is the system?
+
+[Russel ABM Russel] 11:15:41
+What is the system? We're building a platform. Say it's a website, or mobile app, or anything, you name it, a software, a desktop application.
+
+[Cyrus] 11:15:44
+Yeah.
+
+[Russel ABM Russel] 11:15:51
+The software system we're building, right?
+
+[Cyrus] 11:15:52
+Sure.
+
+[Russel ABM Russel] 11:15:53
+And how will them to evaluate that software system?
+
+[Cyrus] 11:15:58
+By looking at the metrics from the platform?
+
+[Russel ABM Russel] 11:16:02
+Correct! So, system data itself, so you might have that as a data source, right? The system data will be coming from this prototype development phase itself, so you need to do that. But how are you going to gather data from the survey? So, what do you need to do?
+
+[Cyrus] 11:16:03
+Daughter.
+
+[Cyrus] 11:16:08
+Sure. Yep.
+
+[Cyrus] 11:16:11
+They're easier.
+
+[Russel ABM Russel] 11:16:23
+What do you need to do to gather data from the survey?
+
+[Ubaid Irfan] 11:16:27
+Advertise.
+
+[Cyrus] 11:16:27
+You get people.
+
+[Cyrus] 11:16:29
+Yes.
+
+[Russel ABM Russel] 11:16:36
+You can advertise, okay, so that's, that's the Rhonda survey, okay?
+
+[Cyrus] 11:16:37
+That's not
+
+[Russel ABM Russel] 11:16:42
+Ran the…
+
+[Russel ABM Russel] 11:16:45
+Survey. What do you need to do to run the survey?
+
+[Russel ABM Russel] 11:16:49
+Conduct the survey, right? Conduct the survey. Before that, you need to do something. What do you need to do to conduct the survey?
+
+[Ubaid Irfan] 11:16:58
+Find willing and eligible participants.
+
+[Russel ABM Russel] 11:17:04
+Okay, that's good. So, find, uh, find for the…
+
+[Cyrus] 11:17:11
+Chris's scorecard on the top.
+
+[Russel ABM Russel] 11:17:12
+Participants, okay? And then when you find the participant, we'll tell them, okay, do the survey, but do the survey, you need a prototype.
+
+[Russel ABM Russel] 11:17:20
+Right?
+
+[Russel ABM Russel] 11:17:22
+Does it make sense?
+
+[Cyrus] 11:17:23
+Yep, depending on what we're doing, yeah. Awesome.
+
+[Ubaid Irfan] 11:17:23
+Yep.
+
+[Russel ABM Russel] 11:17:24
+Okay, so this is the step-by-step process, but how do you find the participant? What do you need to do?
+
+[Cyrus] 11:17:35
+Like you're advertising, you approach random people.
+
+[Cyrus] 11:17:43
+Because that's why we have a poster, right? Advertising.
+
+[Russel ABM Russel] 11:17:47
+Advertise publicly. That's what we need to do, right? Advertise publicly. Good. And then…
+
+[Russel ABM Russel] 11:17:54
+But can you do advertise publicly? Why do you need to do advertise publicly? Why can't you just get your home, you know, family members, do their thing? All the participants, really.
+
+[Ubaid Irfan] 11:18:04
+Because it's a conflict of interest, potentially. Could be biased.
+
+[Russel ABM Russel] 11:18:07
+That's very good, you need to know this. Could be bias, could be close set, and so on. So it needs to be generalized there, okay?
+
+[Russel ABM Russel] 11:18:15
+Okay, good. Advertisement. Can you do that immediately? What do you need to do?
+
+[Cyrus] 11:18:21
+Get approval.
+
+[Russel ABM Russel] 11:18:23
+approval. So, you need ethics.
+
+[Russel ABM Russel] 11:18:26
+Approval, you learned that already, right? So, ethics approval, this comes, it's mainly.
+
+[Russel ABM Russel] 11:18:35
+to contact…
+
+[Russel ABM Russel] 11:18:37
+Sir? Okay.
+
+[Russel ABM Russel] 11:18:38
+So that will require you to do… advertise publicly, find participants, conduct the survey, and of course, you said gather data, right?
+
+[Russel ABM Russel] 11:18:49
+And now, coming back to this, before the conducting, uh, you know, what is required?
+
+[Russel ABM Russel] 11:18:57
+Before even conducting the survey.
+
+[Cyrus] 11:18:59
+Oh, I'm still not being spoken to.
+
+[Russel ABM Russel] 11:19:06
+What do you need? What are you doing right now? What have you done last few weeks?
+
+[Cyrus] 11:19:11
+Background research. Background research.
+
+[Russel ABM Russel] 11:19:13
+That's it? So, background?
+
+[Russel ABM Russel] 11:19:17
+Research… we have done that.
+
+[Russel ABM Russel] 11:19:19
+contact…
+
+[Russel ABM Russel] 11:19:21
+What?
+
+[Russel ABM Russel] 11:19:24
+with, uh…
+
+[Russel ABM Russel] 11:19:28
+So, what you have done, you haven't done, actually, really a little just survey. I mean, it's just a little bit here and there.
+
+[Russel ABM Russel] 11:19:36
+I mean, we can say that it's in parallel, right?
+
+[Russel ABM Russel] 11:19:41
+Because you have done for problem identification, and you have also done for solutions. That's why I was categorizing those, okay? So, some of them are…
+
+[Cyrus] 11:19:42
+It says that. So like, yeah, let's see why.
+
+[Russel ABM Russel] 11:19:50
+background for that, or building your gaps, finding your gaps, and then some of them will be when you have your proposal ready. Okay, so background research, conduct literature survey, ethics approval to conduct a survey, uh…
+
+[Russel ABM Russel] 11:20:07
+But before this, in between, of course, this should be coming here.
+
+[Russel ABM Russel] 11:20:12
+Isn't it?
+
+[Cyrus] 11:20:15
+Yep.
+
+[Russel ABM Russel] 11:20:21
+Uh, actually, you can't do this before doing this, that needs to be there. First you build a prototype, then you do that, right? What else you need to do?
+
+[Russel ABM Russel] 11:20:34
+But can you do this, ethics approval? What else we need to do in the ethics approval process?
+
+[Russel ABM Russel] 11:20:42
+So, we identify the prototype design, maybe, that will be better.
+
+[Russel ABM Russel] 11:20:48
+And you're just doing the design, and some implementation design and development.
+
+[Russel ABM Russel] 11:20:54
+Right. What else did you do, uh, for, um, a survey? Something needs to be done. You need to actually design the survey itself, right?
+
+[Russel ABM Russel] 11:21:05
+That's what they ask you to do. Design the survey.
+
+[Cyrus] 11:21:05
+Yep.
+
+[Russel ABM Russel] 11:21:09
+So, design the survey, list something, maybe identify personas. We have done that, right?
+
+[Cyrus] 11:21:13
+Oh, perfect.
+
+[Cyrus] 11:21:17
+Yep.
+
+[Russel ABM Russel] 11:21:19
+And then you design the survey. You can't just arbitrarily design the survey and say that, okay, evaluate a prototype. So who are the personas? So we identified that there will be students, or university students, or professionals. Does that make sense?
+
+[Russel ABM Russel] 11:21:35
+Um, okay, so what else, what are the other steps?
+
+[Russel ABM Russel] 11:21:39
+So, prototype development, so that went there, actually. So, you have done the survey, and then you gather data.
+
+[Russel ABM Russel] 11:21:47
+and then analyze the data, that's very good. Um…
+
+[Russel ABM Russel] 11:21:52
+What else you need to do? What sort of analysis you do?
+
+[Russel ABM Russel] 11:21:57
+When you say analyzing data, that's when the methodology is coming. What have you read from any paper? Pick up any paper right now, see what sort of…
+
+[Russel ABM Russel] 11:22:07
+Methodology, data analysis they have done.
+
+[Russel ABM Russel] 11:22:10
+What are the different types? What have you found?
+
+[Cyrus] 11:22:19
+Like using.
+
+[Cyrus] 11:22:22
+SQL maybe, I don't know, a new one.
+
+[Cyrus] 11:22:26
+Oh, yeah, yeah, yeah.
+
+[Russel ABM Russel] 11:22:30
+Uh, I wanted to… give me one minute, uh, to take a phone call, yeah? Just coming. So, have a look what are the methodologies they have done.
+
+[Cyrus] 11:23:02
+Descriptive analysis, inferential analysis.
+
+[Russel ABM Russel] 11:23:05
+OK, so what have we found?
+
+[Russel ABM Russel] 11:23:14
+Yeah, it could be anything, but in a broader term, we'll say…
+
+[Cyrus] 11:23:17
+Predictive.
+
+[Ubaid Irfan] 11:23:19
+Quantitative and qualitative.
+
+[Cyrus] 11:23:21
+Quantitative consulting.
+
+[Russel ABM Russel] 11:23:21
+quantitative and qualitative.
+
+[Russel ABM Russel] 11:23:27
+Analysis, okay? Uh, perfect.
+
+[Cyrus] 11:23:28
+That's what I like.
+
+[Russel ABM Russel] 11:23:31
+That's what, uh… that's what we're looking at, and qualitative analysis.
+
+[Russel ABM Russel] 11:23:36
+I'll do the data analysis. That should be your tip.
+
+[Russel ABM Russel] 11:23:44
+Does it make sense? And these will be reflected through the survey
+
+[Russel ABM Russel] 11:23:48
+And so on. But that's… that's the basic process. So, once you have done the analysis, what do you do? So that's more about coming to a result.
+
+[Russel ABM Russel] 11:23:58
+Right?
+
+[Russel ABM Russel] 11:24:02
+So, this is part of the results section. This will be doing that. Then, you will be doing the discussion and the conclusion section itself.
+
+[Russel ABM Russel] 11:24:10
+Okay, so does it make sense, the basic process?
+
+[Cyrus] 11:24:14
+Sure.
+
+[Russel ABM Russel] 11:24:16
+That's what you need to do. So, background research, and conduct literature survey, you can make it as a part of it.
+
+[Ubaid Irfan] 11:24:17
+Yep.
+
+[Russel ABM Russel] 11:24:25
+Okay, so have you done the Gantt chart?
+
+[Russel ABM Russel] 11:24:29
+This one, you can actually present it in a, like, a block diagram, like, something like that you have done, the presented step-by-step. I wanted to look at a couple of example methodologies.
+
+[Cyrus] 11:24:30
+Okay.
+
+[Ubaid Irfan] 11:24:38
+I have done that below.
+
+[Russel ABM Russel] 11:24:40
+You have already done that? Okay, that's awesome.
+
+[Ubaid Irfan] 11:24:42
+In the timeline section.
+
+[Russel ABM Russel] 11:24:44
+Yeah, that's it. So, it's actually… that's what I wanted to say. This is actually reflecting your timeline. So, this… once you have done, then in the timeline, the next step will be results. So, you do analyze the result, interpret the result, then you have a discussion section as well.
+
+[Russel ABM Russel] 11:25:00
+Uh, and then future work, and so on. Okay, we'll come back to this. So, anticipated results, uh, but before that, um, we have to put… this is your methodology, but what have you done?
+
+[Cyrus] 11:25:04
+There's already 24. Yes.
+
+[Cyrus] 11:25:11
+I swear it's in the house.
+
+[Russel ABM Russel] 11:25:14
+Add a slide after methodology.
+
+[Russel ABM Russel] 11:25:17
+So…
+
+[Russel ABM Russel] 11:25:19
+What?
+
+[Ubaid Irfan] 11:25:19
+Do you mean progress so far?
+
+[Russel ABM Russel] 11:25:21
+Yes.
+
+[Russel ABM Russel] 11:25:22
+progress so far. That's… I like that idea.
+
+[Ubaid Irfan] 11:25:25
+I have made a slide for that.
+
+[Russel ABM Russel] 11:25:28
+Already. Oh, good job, that's good. So you can bring this one here, um…
+
+[Ubaid Irfan] 11:25:34
+So, we've identified NFRs and FRs, personas, preliminary mock-ups, a potential technical direction.
+
+[Ubaid Irfan] 11:25:45
+Um, Arian set up the GitHub repo.
+
+[Ubaid Irfan] 11:25:48
+And we're in the process of…
+
+[Ubaid Irfan] 11:25:51
+doing the MUHREC application.
+
+[Russel ABM Russel] 11:25:55
+Correct, that's it. And, uh, so that, uh, we need to add…
+
+[Russel ABM Russel] 11:26:01
+Okay, so this is the preliminary work, what we have done, and then we go to the details of one of them.
+
+[Russel ABM Russel] 11:26:08
+Uh, I'm just thinking, why should you put the anticipated results there?
+
+[Cyrus] 11:26:14
+Because the rubric asks for anticipated results, so I thought I'd put them in based on what we know already, just a guess.
+
+[Russel ABM Russel] 11:26:23
+I don't want to clear anything.
+
+[Russel ABM Russel] 11:26:26
+There's a plan to be presented in week 12.
+
+[Cyrus] 11:26:30
+We're not taking this anymore.
+
+[Russel ABM Russel] 11:26:32
+Yeah, so maybe this one at the end, you… you said that this is…
+
+[Russel ABM Russel] 11:26:37
+Okay, so this is more about…
+
+[Cyrus] 11:26:38
+Put the slide at the end.
+
+[Russel ABM Russel] 11:26:41
+Yes, put the slide at the end.
+
+[Russel ABM Russel] 11:26:48
+So this is more about the final report. Hope that makes sense.
+
+[Russel ABM Russel] 11:26:52
+So, by end of, you know, after the Gansha, by end of…
+
+[Russel ABM Russel] 11:26:58
+Uh, our research… this is actually S2.
+
+[Russel ABM Russel] 11:27:03
+That's it is asking you to present, okay? Not now. So, this should be at the end, last slide, maybe the slide before, okay? And then, other than that, so let's go back to this. We have methodology in Polish, that one.
+
+[Cyrus] 11:27:11
+Yep.
+
+[Russel ABM Russel] 11:27:20
+Preliminary work, so we've got the personas, uh, interactive flow, uh, you add that slide personas first. Uh, what is this? Proposed platform. Now, this is in the prototype design, so bring the persona first.
+
+[Russel ABM Russel] 11:27:32
+Yeah, that… sorry. Yeah, that's it. Personas, and then, uh, functional and non-functional requirement.
+
+[Russel ABM Russel] 11:27:46
+proposed platform, persona…
+
+[Russel ABM Russel] 11:27:49
+So, no, I think we get started with the personas, right? Then, from the personas platform, is there…
+
+[Russel ABM Russel] 11:27:59
+Want to visit any platform? Uh…
+
+[Russel ABM Russel] 11:28:06
+Purpose platform…
+
+[Russel ABM Russel] 11:28:10
+So you said that we have designed some personas, right? Two different, uh, early career, career intern, student, engineer, okay, two, two personas, that's good. And then we have a proposed platform, which is functional, non-functional. What is technical direction?
+
+[Russel ABM Russel] 11:28:30
+This is more of an implementation.
+
+[Russel ABM Russel] 11:28:33
+Alright.
+
+[Cyrus] 11:28:36
+I think that's just to say we've already decided our tech stock.
+
+[Russel ABM Russel] 11:28:40
+Yeah, probably these two will come later, not now.
+
+[Cyrus] 11:28:46
+But isn't that just to say what we've done so far?
+
+[Russel ABM Russel] 11:28:47
+Or maybe, maybe, maybe you can say, uh, so it's just a bit of, uh, out of sequence.
+
+[Russel ABM Russel] 11:28:56
+So, look at this test prototype we have done.
+
+[Russel ABM Russel] 11:29:01
+Uh, we're also missing this step of literature survey.
+
+[Russel ABM Russel] 11:29:11
+And the lead survey.
+
+[Cyrus] 11:29:13
+Okay, sure. Yeah.
+
+[Russel ABM Russel] 11:29:14
+So, so that this is, this is ongoing, of course, you have to say that. Background and literature survey, add that.
+
+[Cyrus] 11:29:19
+Yep.
+
+[Russel ABM Russel] 11:29:21
+Okay, so copy that, yeah. Background and literature survey, uh, so just follow the same steps, so you're just going now in detail, hope that makes sense.
+
+[Cyrus] 11:29:27
+Yeah. Yes. Yeah, yeah.
+
+[Russel ABM Russel] 11:29:32
+And what have you done? You haven't reached up to this point, right? So this is up to this point, and we end up with the ethical… ethics in process. So this will be the last, uh…
+
+[Russel ABM Russel] 11:29:43
+I think this will be the last, uh, bottom of the pile, right? It should be here, that one here.
+
+[Russel ABM Russel] 11:29:49
+Somewhere here
+
+[Russel ABM Russel] 11:29:52
+And… but before this, it will come… okay, hang on, literature service there, then the NFR identifi personas
+
+[Russel ABM Russel] 11:30:03
+Then
+
+[Russel ABM Russel] 11:30:06
+Personas.
+
+[Russel ABM Russel] 11:30:13
+Yeah, I think the functional requirement first, then personas, right?
+
+[Cyrus] 11:30:21
+functional climate. Maybe we get the personas first, because the personas.
+
+[Cyrus] 11:30:27
+Provide us with some information.
+
+[Russel ABM Russel] 11:30:27
+Yeah, okay. Yeah.
+
+[Russel ABM Russel] 11:30:31
+Yeah, who might need this? But again, this is my decision maker. Yeah, we can say the student is a decision maker, but context is different, of course, right? And professional is a different context with the business. Um, yeah, okay, yeah, I'm happy with that.
+
+[Cyrus] 11:30:39
+Yes.
+
+[Russel ABM Russel] 11:30:46
+So maybe in that case.
+
+[Russel ABM Russel] 11:30:49
+Hmm.
+
+[Russel ABM Russel] 11:30:50
+Should we make this?
+
+[Russel ABM Russel] 11:30:54
+Earlier.
+
+[Cyrus] 11:30:56
+I mean, we've done them early, so.
+
+[Russel ABM Russel] 11:30:59
+So, do this first.
+
+[Cyrus] 11:30:59
+You've already done that.
+
+[Russel ABM Russel] 11:31:01
+And then do this.
+
+[Russel ABM Russel] 11:31:03
+How about that?
+
+[Russel ABM Russel] 11:31:06
+That's better, then it'll make the same sequence. So, that's how we have done this.
+
+[Cyrus] 11:31:07
+But it was like.
+
+[Russel ABM Russel] 11:31:11
+This one, uh… so you swap this, so this will go first.
+
+[Russel ABM Russel] 11:31:20
+And then bring the personas down.
+
+[Russel ABM Russel] 11:31:23
+Right? Uh, yeah, I think it makes sense.
+
+[Cyrus] 11:31:26
+And I agree to that. Oh, you should understand.
+
+[Russel ABM Russel] 11:31:29
+The description, yeah.
+
+[Russel ABM Russel] 11:31:30
+I mean, you can polish all these things. So, this one, uh, you have to mention this is ongoing, right? This is not going to stop. Ongoing. That should be on your Gantt chart as well, like, the same way, right?
+
+[Russel ABM Russel] 11:31:43
+ongoing. And then personas, then the next one is, uh, the design, uh, functional and non-functional requirements, this should be.
+
+[Russel ABM Russel] 11:31:53
+below this, right? The 1, 2, 3, and then we have the, uh, prototype design, and…
+
+[Russel ABM Russel] 11:32:03
+Implementation…
+
+[Russel ABM Russel] 11:32:09
+And so these are, like, you know, um, additional thing. This is mainly the prototype design section, hope that makes sense.
+
+[Cyrus] 11:32:13
+So we should still mention that we've already done these things, though, right in the presentation.
+
+[Russel ABM Russel] 11:32:24
+Correct, so we said that from there, this one, you have done this.
+
+[Russel ABM Russel] 11:32:30
+And then you also have done this, right?
+
+[Russel ABM Russel] 11:32:34
+to work it out, so I hope that makes sense. Just put an arrow, we have done the… she said this, we have done the… this technical direction has been identified… what technical direction? Just say tech stack.
+
+[Cyrus] 11:32:43
+But I have.
+
+[Russel ABM Russel] 11:32:50
+Yeah, text tag will be this. Uh, this, this… okay, that's better. What else have we done in terms of the design and implementation? Have we done the mock-up?
+
+[Cyrus] 11:33:00
+Yeah, there's a mock-up that they'd made. Slide 11.
+
+[Ubaid Irfan] 11:33:01
+Yeah.
+
+[Russel ABM Russel] 11:33:01
+Yeah, put it there, put it there. So this is all part of this section, right?
+
+[Cyrus] 11:33:07
+Yeah.
+
+[Russel ABM Russel] 11:33:07
+Uh, this is all part of your, uh…
+
+[Ubaid Irfan] 11:33:09
+It just has a lot of text on it, so I just put it on a separate slide.
+
+[Russel ABM Russel] 11:33:14
+Of course, there will be details in the separate slide. This is highlighted. I'm just thinking whether we need, uh, these…
+
+[Russel ABM Russel] 11:33:22
+Or we can use the methodology diagram, and we just give a status.
+
+[Russel ABM Russel] 11:33:30
+initiated, completed, or in progress, or ongoing, something like that. What do you think?
+
+[Ubaid Irfan] 11:33:37
+Yeah, I think it would be good.
+
+[Russel ABM Russel] 11:33:37
+That can be done, and then it's… I think that will be better for me as well. I will understand easily, uh, that's better. So, on the methodology section, when you have a design thing, then you can… you can polish this. Hope that makes sense, right?
+
+[Ubaid Irfan] 11:33:40
+It would save time in the presentation.
+
+[Russel ABM Russel] 11:33:53
+Let's move on to the next one. You go to Persona slide, then we have your…
+
+[Ubaid Irfan] 11:33:55
+Yep.
+
+[Russel ABM Russel] 11:33:59
+Uh, control research prototype, what is this?
+
+[Russel ABM Russel] 11:34:05
+Control research prototype slide, what is that about? First one is clear, okay, this is what we have done.
+
+[Russel ABM Russel] 11:34:09
+How many personas we have developed?
+
+[Ubaid Irfan] 11:34:13
+Only two.
+
+[Russel ABM Russel] 11:34:16
+Okay.
+
+[Russel ABM Russel] 11:34:18
+That's acceptable. Um, how about the next slide? Proposed platform.
+
+[Russel ABM Russel] 11:34:25
+It is what?
+
+[Ubaid Irfan] 11:34:28
+It just goes into, um, the…
+
+[Russel ABM Russel] 11:34:29
+This is…
+
+[Russel ABM Russel] 11:34:29
+This is the mechanics of the platform itself, but before that, what do you need?
+
+[Russel ABM Russel] 11:34:36
+This slide maybe.
+
+[Russel ABM Russel] 11:34:38
+Training, multi-agent training platform.
+
+[Russel ABM Russel] 11:34:43
+But this is quite, uh, too much going on.
+
+[Russel ABM Russel] 11:34:47
+Mmm…
+
+[Russel ABM Russel] 11:34:50
+Do you have mock-ups there?
+
+[Ubaid Irfan] 11:34:53
+We do, but they're just really, like, non-readable, and they're also, like, preliminary designs.
+
+[Russel ABM Russel] 11:34:53
+And this is the overall…
+
+[Cyrus] 11:34:58
+It's a big mock-up. It's several pages. It takes you through the whole process.
+
+[Ubaid Irfan] 11:35:02
+Not final.
+
+[Russel ABM Russel] 11:35:04
+Of course. Hello.
+
+[Russel ABM Russel] 11:35:08
+Right? Yeah, I'm just thinking about…
+
+[Russel ABM Russel] 11:35:12
+to…
+
+[Russel ABM Russel] 11:35:13
+Too much going on there, you know, in terms of the functional requirements.
+
+[Cyrus] 11:35:16
+Yeah. Because if you show a mock-up, we're gonna have to show everything, right?
+
+[Cyrus] 11:35:19
+Like it's it's a long it's a big process.
+
+[Ubaid Irfan] 11:35:20
+Also, I'm explaining it, like, thoroughly in the script.
+
+[Ubaid Irfan] 11:35:27
+Like, each section of the mock-up.
+
+[Russel ABM Russel] 11:35:27
+Yeah, but… but this is still… this is showing the functional requirements, rather than actual markups.
+
+[Russel ABM Russel] 11:35:36
+I mean…
+
+[Cyrus] 11:35:37
+So you want wireframes, like a high-fidelity…
+
+[Russel ABM Russel] 11:35:41
+Yes, yes. I mean, for how many steps do you have? It's only 3 steps.
+
+[Russel ABM Russel] 11:35:47
+Four steps, right? Just four slides, that's it.
+
+[Cyrus] 11:35:48
+Sure.
+
+[Russel ABM Russel] 11:35:53
+That's it we need.
+
+[Cyrus] 11:35:53
+Yeah.
+
+[Russel ABM Russel] 11:35:55
+I mean, this… this can stay, and then after that.
+
+[Cyrus] 11:35:55
+Okay.
+
+[Russel ABM Russel] 11:36:01
+So this one shows the overall flow of the system itself. Maybe you can just take this out.
+
+[Russel ABM Russel] 11:36:08
+And, uh, what you do is keep this only.
+
+[Cyrus] 11:36:10
+Yeah. Put in mockups.
+
+[Russel ABM Russel] 11:36:14
+As a flow. So call it as the flow itself of the system.
+
+[Russel ABM Russel] 11:36:18
+And so
+
+[Russel ABM Russel] 11:36:30
+Study info? What does it mean? Uh…
+
+[Russel ABM Russel] 11:36:34
+What do you mean by studying for here?
+
+[Cyrus] 11:36:37
+Yeah, it's just about like the about what we're doing description of what we're doing to the user.
+
+[Russel ABM Russel] 11:36:38
+The first one, scenarios. Well, basically, survey model.
+
+[Russel ABM Russel] 11:36:44
+Oh, okay.
+
+[Russel ABM Russel] 11:36:45
+Okay, okay, no, no, this… this is what you… this is a part of the survey, rather than the platform.
+
+[Cyrus] 11:36:52
+So that shouldn't be on the platform, correct?
+
+[Russel ABM Russel] 11:36:56
+Yeah, so this should be the platform mock-up. What does it look like? So I'll come back to this. Personas, what does the platform look like? We need some mock-ups here.
+
+[Cyrus] 11:37:06
+Okay, we can make some mockups, some simple ones, and then figma.
+
+[Russel ABM Russel] 11:37:10
+let's make simple Figma mockups. So, what are the functional requirements? What are the functional requirements?
+
+[Russel ABM Russel] 11:37:21
+Do you have any slide on those? Because the next slide should be AFR and NFR, right?
+
+[Russel ABM Russel] 11:37:30
+We'll bring that here.
+
+[Cyrus] 11:37:33
+I don't think we do. We can add one though.
+
+[Russel ABM Russel] 11:37:37
+N. F. R. S.
+
+[Cyrus] 11:37:41
+I don't do it because I don't know.
+
+[Russel ABM Russel] 11:37:43
+You need to at least… these are the… based on the literature and based on whatever you have identified, right? So, right now, to get started with…
+
+[Russel ABM Russel] 11:37:54
+Then, um, so this will be insert…
+
+[Russel ABM Russel] 11:37:59
+QuickBooks.
+
+[Russel ABM Russel] 11:38:03
+And then the next step will be, um…
+
+[Russel ABM Russel] 11:38:11
+How does it look like, actually?
+
+[Russel ABM Russel] 11:38:13
+And it's OK, but you can make one slide for different sections and so on, which is kind of showing the main protocol.
+
+[Russel ABM Russel] 11:38:22
+getting too much.
+
+[Russel ABM Russel] 11:38:24
+One moment, okay?
+
+[Russel ABM Russel] 11:38:27
+Uh, at the beginning. And maybe just start with the main functional requirement, and then the major ones, you do put it there on the mock-ups, okay?
+
+[Russel ABM Russel] 11:38:37
+Yeah, so you got this one, okay, that's good. So, after this one, what else do you need? What have you done here?
+
+[Russel ABM Russel] 11:38:45
+And this is proposed platform control.
+
+[Russel ABM Russel] 11:38:49
+What is the name here?
+
+[Russel ABM Russel] 11:38:54
+So, this is the workflow.
+
+[Russel ABM Russel] 11:38:58
+We say something, we just prototype…
+
+[Ubaid Irfan] 11:39:04
+Proposed platform flow.
+
+[Ubaid Irfan] 11:39:08
+We could do that.
+
+[Russel ABM Russel] 11:39:08
+Yeah, that's better. Um…
+
+[Russel ABM Russel] 11:39:16
+Hello?
+
+[Russel ABM Russel] 11:39:18
+Workflow.
+
+[Cyrus] 11:39:19
+I have a month.
+
+[Ubaid Irfan] 11:39:22
+This, this one.
+
+[Russel ABM Russel] 11:39:23
+That's better. Workflow is better, right? Workflow is better, right? So this is what the scenario initiated, and that's it. So there's so many texts here, you can take it out.
+
+[Ubaid Irfan] 11:39:24
+This float.
+
+[Russel ABM Russel] 11:39:35
+Um, yeah, you don't need to put all this here, it's just the picture is perfect here, okay?
+
+[Russel ABM Russel] 11:39:43
+How does the platform work? So that's it.
+
+[Cyrus] 11:39:44
+Yeah. This is this.
+
+[Russel ABM Russel] 11:39:47
+Yeah, that's it. The feedback is in the advice you'll get. Then the Gantt chart is the second last slide. We can take this at the bottom.
+
+[Russel ABM Russel] 11:39:56
+Right, and…
+
+[Russel ABM Russel] 11:40:00
+That's it, we're looking at. Um, apart from that, um, what else we need?
+
+[Russel ABM Russel] 11:40:12
+Okay, so the Gantt chart will be coming, so now Gantt chart should be, uh, the whole year, the entire thing. Okay, that's good.
+
+[Russel ABM Russel] 11:40:20
+And you have participant data collection, analysis. Okay, that's missing. And after analysis, discussions.
+
+[Russel ABM Russel] 11:40:28
+Okay, you did all together. Yeah, I think that's fine, that should be fine.
+
+[Russel ABM Russel] 11:40:33
+Uh, participant data collection… I alert…
+
+[Ubaid Irfan] 11:40:39
+So, are we supposed to continue the literature review into FYPB as well?
+
+[Cyrus] 11:40:42
+Yeah, I want like a comprehensive class.
+
+[Russel ABM Russel] 11:40:43
+All of side, yes, correct, correct. Uh, so…
+
+[Ubaid Irfan] 11:40:45
+So I should extend this one.
+
+[Russel ABM Russel] 11:40:49
+Are you… yeah, this will be fine.
+
+[Ubaid Irfan] 11:40:51
+All throughout.
+
+[Ubaid Irfan] 11:40:52
+Or, like, here.
+
+[Russel ABM Russel] 11:40:53
+Yeah, that should be all around team deal submission, yep.
+
+[Russel ABM Russel] 11:40:57
+Sorry, we're going to the end.
+
+[Russel ABM Russel] 11:40:59
+That's an ongoing defining RQ study design. No, I think you need to define one more step, maybe.
+
+[Russel ABM Russel] 11:41:08
+I know all you're doing on this, it should be a dancer, like, microscopic energy, so that you can manage that well.
+
+[Russel ABM Russel] 11:41:16
+Or, you know, some sort of project management tool is better, right? Because it's changing in progress update and so on.
+
+[Russel ABM Russel] 11:41:23
+Okay, so maybe this first step on the Gantt chart here.
+
+[Cyrus] 11:41:24
+I don't know.
+
+[Russel ABM Russel] 11:41:29
+Dividing the two parts, keep the literature review separate.
+
+[Russel ABM Russel] 11:41:34
+So that's an ongoing deal, right?
+
+[Cyrus] 11:41:38
+Oh, I don't know.
+
+[Russel ABM Russel] 11:41:39
+Yeah, keep it separate. Risk could be like that. Okay. And this is the third one. So measure risk mitigation strategy will be coming.
+
+[Ubaid Irfan] 11:41:40
+Yep.
+
+[Russel ABM Russel] 11:41:51
+Uh… second last slide after booking, right?
+
+[Ubaid Irfan] 11:41:56
+Yeah, I haven't completed that section yet.
+
+[Cyrus] 11:41:56
+Yep, yep.
+
+[Russel ABM Russel] 11:42:00
+Yeah. So what is missing here? Workflow. And then what have you done? What have you done? Server design is missing. Step 4.
+
+[Russel ABM Russel] 11:42:11
+So we have done the prototype part. There, we need the server design.
+
+[Russel ABM Russel] 11:42:32
+Okay, so survey design will be the one you'll be doing, just a snapshot of the… what sort of questions you're asking, qualitative, quantitative, so…
+
+[Russel ABM Russel] 11:42:40
+Oh, that makes sense. So that's, that's, uh, that's all. So you have done the design part already, just waiting for the ethics approval.
+
+[Russel ABM Russel] 11:42:47
+Yep.
+
+[Cyrus] 11:42:48
+Basically what we've put into the ethics.
+
+[Russel ABM Russel] 11:42:51
+how we're going to evaluate evaluation criteria. Do you have any slide on evaluation criteria?
+
+[Russel ABM Russel] 11:42:57
+No, so that's it is important because that's how we're going to grab the data. So what sort of data server design? It could be system design as well. Like, you know, data collection process and so on. So in the server design, we'll be asking them to.
+
+[Cyrus] 11:43:00
+Okay, I'll come to take today.
+
+[Russel ABM Russel] 11:43:14
+uh… this picture, right? So… participants will be going through a scenario and so on, so it will be asking them to do what? To…
+
+[Ubaid Irfan] 11:43:24
+To make an initial decision, receive AI advice, and then…
+
+[Russel ABM Russel] 11:43:29
+How many scenarios we are going to do? One scenarios, or two scenarios?
+
+[Ubaid Irfan] 11:43:35
+12 scenarios. We haven't decided on a specific amount.
+
+[Cyrus] 11:43:38
+And then, um…
+
+[Russel ABM Russel] 11:43:40
+I think it's a research. If you're not sure, it's not good enough.
+
+[Russel ABM Russel] 11:43:44
+So one scenario. OK, one scenario. And then option A, option A, option C. Can you explain this to me?
+
+[Ubaid Irfan] 11:43:53
+It's displaying the descent between the different agents.
+
+[Cyrus] 11:43:53
+Yeah, yeah.
+
+[Russel ABM Russel] 11:43:57
+Oh, okay, it just shouldn't get overwritten.
+
+[Russel ABM Russel] 11:44:01
+Yeah, so maybe, yeah, this one is the biggest thing, so probably, yeah, put it in the mock-up there. What are you asking them to do?
+
+[Ubaid Irfan] 11:44:12
+To make an initial ethical decision on the scenario, receive advice, see the dissent, and then, um, make a revision on their initial decision if they would like to.
+
+[Cyrus] 11:44:20
+I'm like, what is that? Something else, too.
+
+[Ubaid Irfan] 11:44:25
+And then we can evaluate the…
+
+[Ubaid Irfan] 11:44:29
+decision accuracy, and other metrics.
+
+[Russel ABM Russel] 11:44:33
+Okay, let's say two steps.
+
+[Russel ABM Russel] 11:44:36
+So, first one, we'll make an initial decision.
+
+[Russel ABM Russel] 11:44:40
+Then…
+
+[Russel ABM Russel] 11:44:42
+Uh, what else do you want to do? So, first, say…
+
+[Russel ABM Russel] 11:44:49
+what they're going to do. Participants will… let's call it…
+
+[Russel ABM Russel] 11:44:55
+We'll need this in the ethics, uh, ethics, uh, application as well, what we're going to do.
+
+[Russel ABM Russel] 11:45:01
+I will give you this. Participants will…
+
+[Russel ABM Russel] 11:45:10
+Once more, what is this? Oop.
+
+[Russel ABM Russel] 11:45:15
+Wait once you…
+
+[Russel ABM Russel] 11:45:19
+Make an initial decision, then what do you do? You say…
+
+[Cyrus] 11:45:21
+He was actually .
+
+[Ubaid Irfan] 11:45:26
+Receive recommendation from the AIs.
+
+[Russel ABM Russel] 11:45:35
+Multi-agent or single agent?
+
+[Ubaid Irfan] 11:45:37
+Yeah, multi-agent.
+
+[Russel ABM Russel] 11:45:44
+So, we are not comparing any single agent, right? The reason the literature says no, we'll go ahead with the multi-agent, okay? Because the overreliance and governance control will be multi-agent. So, make an initial decision with the formation of multi-agent, then what they will do?
+
+[Ubaid Irfan] 11:46:00
+Decide on if they would like to revise the decision based on the additional context provided from the multi-agents.
+
+[Russel ABM Russel] 11:46:11
+Yeah, and then what they would do, they made the initial decision, they pointed to the multi-agent, so what is the control scenario here?
+
+[Russel ABM Russel] 11:46:26
+Did they select?
+
+[Russel ABM Russel] 11:46:29
+What is the option you're giving me?
+
+[Ubaid Irfan] 11:46:31
+What do you mean control scenario?
+
+[Russel ABM Russel] 11:46:35
+Uh, hello? How did you…
+
+[Russel ABM Russel] 11:46:39
+Next slide. This one.
+
+[Russel ABM Russel] 11:46:42
+So, option A, option A…
+
+[Russel ABM Russel] 11:46:46
+evaluate…
+
+[Russel ABM Russel] 11:46:48
+So, we'll make an initial decision with foundation from RTSL. So, are they making an initial decision?
+
+[Russel ABM Russel] 11:46:56
+Your decision only. Okay, so we are in the first, uh, first option, my left hand side.
+
+[Ubaid Irfan] 11:46:57
+Yeah
+
+[Russel ABM Russel] 11:47:01
+And then, it will, uh, review…
+
+[Russel ABM Russel] 11:47:06
+Uh, what do you call that? Review?
+
+[Russel ABM Russel] 11:47:15
+So, tell me about this initial decision. Go to the next slide.
+
+[Cyrus] 11:47:20
+That biology, like, you could actually like navigate.
+
+[Ubaid Irfan] 11:47:22
+No, so they read the scenario by themselves and then make an initial decision without any AI advice. And then later on, they receive the AI advice.
+
+[Russel ABM Russel] 11:47:23
+Go to the next…
+
+[Russel ABM Russel] 11:47:30
+That's what I'm asking. Then, then, then say it. This is without recommendation. That's better. Then, better. Then, review, uh, recommendation.
+
+[Russel ABM Russel] 11:47:43
+Recommendation based on…
+
+[Ubaid Irfan] 11:47:45
+With descent visible.
+
+[Russel ABM Russel] 11:47:48
+Wait, wait, based on multi-agents, right? That's the other option for me.
+
+[Russel ABM Russel] 11:48:01
+And this review one, we have two steps processed.
+
+[Russel ABM Russel] 11:48:11
+Right?
+
+[Russel ABM Russel] 11:48:13
+The first step will be without descent, right?
+
+[Russel ABM Russel] 11:48:26
+Is this correct?
+
+[Cyrus] 11:48:30
+Yeah, we can do that.
+
+[Ubaid Irfan] 11:48:30
+I think that's a good idea, yeah.
+
+[Russel ABM Russel] 11:48:32
+What are you asking them to do? If I'm a participant, what I'm going to do? I'm going to create a scenario, and I'll make my own decision. Then I'll open up to the next step and say that, OK, AI will provide some recommendation. So that recommendation, I'm in the middle section AI advisory panel.
+
+[Cyrus] 11:48:43
+So all that I've asked.
+
+[Russel ABM Russel] 11:48:50
+Option A, option A.
+
+[Russel ABM Russel] 11:48:52
+Option C. So…
+
+[Russel ABM Russel] 11:48:55
+It's mainly the skills, right? So, like, recommendations. Okay.
+
+[Russel ABM Russel] 11:49:00
+And… well, we don't give any without or anything, it's just the main thing, right?
+
+[Russel ABM Russel] 11:49:07
+It's really decent.
+
+[Cyrus] 11:49:08
+I mean that we can do that so that that mock-up is just one example with.
+
+[Cyrus] 11:49:13
+Do you think it would be good for us to do?
+
+[Russel ABM Russel] 11:49:13
+That's my point. It's not clear enough. It is super confusing and ambiguous, right? So that's why I'm trying to write it down. How do you want to do that? So how would it evolve, whether it's effective or not? So you have to make sure the participants get it.
+
+[Ubaid Irfan] 11:49:23
+I think…
+
+[Russel ABM Russel] 11:49:30
+Without the agent?
+
+[Russel ABM Russel] 11:49:31
+And so we hide them. So let's mention the hidden, not the hidden.
+
+[Ubaid Irfan] 11:49:33
+Yeah.
+
+[Russel ABM Russel] 11:49:36
+And the transparent.
+
+[Russel ABM Russel] 11:49:39
+So, transparency, we show them in the mock-up, next slide mock-up, we show them there at Advisory Panel.
+
+[Russel ABM Russel] 11:49:49
+means… to…
+
+[Russel ABM Russel] 11:49:53
+Uh, AI, and then…
+
+[Russel ABM Russel] 11:50:03
+And hidden means…
+
+[Russel ABM Russel] 11:50:05
+Do not show.
+
+[Russel ABM Russel] 11:50:08
+Advisory panel. We just give them directly the recommendation.
+
+[Russel ABM Russel] 11:50:14
+And that's where we're going to measure it, where… then you make a final decision or something like that, right? So this will be… next step will be what you're asking them to do.
+
+[Russel ABM Russel] 11:50:27
+is…
+
+[Russel ABM Russel] 11:50:29
+Okay, this is… so this will be Eva… Eva Newick?
+
+[Russel ABM Russel] 11:50:40
+Does it make sense?
+
+[Russel ABM Russel] 11:50:43
+So, you have… I have my own individual decision.
+
+[Russel ABM Russel] 11:50:48
+And I have done something in between, okay? And then I evaluate my decision. Okay, I found out AI generated.
+
+[Russel ABM Russel] 11:50:57
+Initially, without recommendation from, uh…
+
+[Russel ABM Russel] 11:51:01
+Monty is in, so this is actually the next…
+
+[Russel ABM Russel] 11:51:06
+review…
+
+[Russel ABM Russel] 11:51:08
+review AI…
+
+[Russel ABM Russel] 11:51:13
+generated…
+
+[Russel ABM Russel] 11:51:15
+decision, right?
+
+[Russel ABM Russel] 11:51:18
+Okay, and that will be two-step process. So, we need to find out how they do that and ask if you wish to change their decision. Okay, yeah, that's a good one. That's a good — that's a server design. That's what we're asking them to do.
+
+[Russel ABM Russel] 11:51:32
+Okay, I think that's good enough. That needs to be there, what the participants do. And that's our collecting data there, so it's a controlled environment. Um, maybe, um…
+
+[Russel ABM Russel] 11:51:45
+Yeah, maybe you need to think about this next slide, the advisory panel, you hide it. I think we discussed this one, right? So it's something like we do not show them how they come up with this and we show them as well. So maybe look at that now quickly.
+
+[Cyrus] 11:52:01
+No, it is not. It is not bad. That's what it is.
+
+[Russel ABM Russel] 11:52:04
+Um, you know, the anticipation… anticipated result, that will give you an idea. So, can you get this result? They're asking participants to do something.
+
+[Russel ABM Russel] 11:52:17
+To show a lower ratio than a no decent condition.
+
+[Russel ABM Russel] 11:52:25
+Do you think that this question can be answered?
+
+[Russel ABM Russel] 11:52:30
+Are you doing that step? Are you gathering enough data to prove that?
+
+[Cyrus] 11:52:36
+Yeah, I mean, of course, like if we have.
+
+[Cyrus] 11:52:40
+It's like 10 people and they all show less reliance.
+
+[Russel ABM Russel] 11:52:43
+Yeah. So maybe — yeah. Another thing we're looking at, one is the hidden one and the transparent one. And the other one is — remember we discussed this. I don't know whether it's still in the scope or not, the number of agents.
+
+[Cyrus] 11:52:44
+Monica.
+
+[Russel ABM Russel] 11:52:58
+There will be minimum 3, then are you giving them more flexibility of choosing number of agents?
+
+[Russel ABM Russel] 11:53:04
+We still have that in the functioning requirement.
+
+[Cyrus] 11:53:08
+What would be… what are we trying to achieve by giving them that ability?
+
+[Russel ABM Russel] 11:53:12
+Because if you look at that, uh…
+
+[Russel ABM Russel] 11:53:15
+AI reduce, confirm it…
+
+[Russel ABM Russel] 11:53:17
+Confirmity.
+
+[Russel ABM Russel] 11:53:20
+Pressure itself…
+
+[Russel ABM Russel] 11:53:24
+So, anything to do with the over-reliance, with the number of agencies you have?
+
+[Russel ABM Russel] 11:53:31
+But it doesn't matter.
+
+[Russel ABM Russel] 11:53:37
+Okay, that's one thing, okay? We can still answer this currently by hiding and transferring, okay? That makes sense.
+
+[Russel ABM Russel] 11:53:44
+And also, we're going from manual, your own decision, and the AI-generated decision to showing and comparing them. How about the next one, accuracy?
+
+[Russel ABM Russel] 11:53:56
+Yeah, it's the decision.
+
+[Russel ABM Russel] 11:54:06
+So, how we want to reduce overall length?
+
+[Russel ABM Russel] 11:54:10
+And how are you going to measure it?
+
+[Russel ABM Russel] 11:54:12
+What are you going to do to reduce the over-reliance?
+
+[Cyrus] 11:54:15
+Again, we'll measure the ratio of.
+
+[Cyrus] 11:54:23
+when the…
+
+[Cyrus] 11:54:24
+User was incorrect.
+
+[Cyrus] 11:54:27
+And yeah, I was incorrect. It's a fraction. We've got it in the figures.
+
+[Russel ABM Russel] 11:54:30
+OK, so we need to show them evaluate decision asking to do assistance and show them and they will see.
+
+[Russel ABM Russel] 11:54:41
+View.
+
+[Russel ABM Russel] 11:54:43
+accuracy.
+
+[Russel ABM Russel] 11:54:47
+Factor percentage.
+
+[Russel ABM Russel] 11:54:49
+of the air.
+
+[Russel ABM Russel] 11:54:51
+Big session, right?
+
+[Russel ABM Russel] 11:54:57
+It can be — how am I going to show that? This is another bigger research area. You can use a traffic light.
+
+[Russel ABM Russel] 11:55:05
+Okay.
+
+[Russel ABM Russel] 11:55:06
+So you don't actually give them 70%, 80% because you can't measure that. We can put a traffic light system, maybe say that red means you are quite far away from the reality. Or green means, yeah, you're within the tolerance level or something. Think about that.
+
+[Russel ABM Russel] 11:55:24
+Remember, we were talking about the maths behind that. Maybe you need to include that maths there, the equation, how we're getting that accuracy percentage.
+
+[Cyrus] 11:55:33
+In the survey design, where do we include the equation?
+
+[Russel ABM Russel] 11:55:36
+No, no, no, we tell them that we'll be showing that, but we never talked about that somewhere, right?
+
+[Russel ABM Russel] 11:55:43
+So feedback, it's part of the feedback itself, right? How are you going to show the feedback? What is the mechanics behind that?
+
+[Russel ABM Russel] 11:55:51
+So, maybe you need to add that as well. So, how we're getting… giving the feedback?
+
+[Russel ABM Russel] 11:55:58
+So workflow is all good. Scenario initial, those are final design. But when you give the feedback.
+
+[Russel ABM Russel] 11:56:03
+What feedback you get, and that will relate back to our…
+
+[Russel ABM Russel] 11:56:09
+the study design as well. Okay.
+
+[Russel ABM Russel] 11:56:13
+So, this is the last step of that, how you're going to show that. I'm just putting my idea there, you can change it, of course, so think about that accuracy of the decision, or how I'm going to code that I'm doing the right thing, right?
+
+[Russel ABM Russel] 11:56:26
+Or you can just give them what they have selected and what AI selected. That's it, just display those. Don't… don't want to do this.
+
+[Russel ABM Russel] 11:56:37
+But… but it's… it's in your, uh, measurements, right? So you can say that, uh, accuracy versus expect…
+
+[Russel ABM Russel] 11:56:45
+Expert ground truth, right?
+
+[Russel ABM Russel] 11:56:54
+Uh, you're mute, mute, you're mute.
+
+[Cyrus] 11:56:56
+Sorry, I think it's better to show…
+
+[Cyrus] 11:57:01
+Some sort of, you said, like, the traffic light, because if you just show what they said and what the AI said, it's just a bit…
+
+[Russel ABM Russel] 11:57:04
+I'm just giving an idea. I don't have to solve everything for you. I don't think I would like a researcher, you know, what sort of questions will be asked by panel. And remember, this is a hard end. If they think there is no research, it's just say implementing a system out of the blue as a prototype.
+
+[Russel ABM Russel] 11:57:21
+it's not going to go… it's not good enough. They might just fail you. That's the thing. I want to make sure that it's getting ticked there, and you can work on it, refine it further, but it should be some sort of ground behind them.
+
+[Russel ABM Russel] 11:57:33
+And then ambiguous and high consistency scenario. What does it mean? I mean, that can be controlled, right? We can give them into the scenario. Selection will produce that. Trust and behavioral relevance. Rub down visibility. Yeah, this is the thing we are talking about, the hiding and transparency. This is all good, but this one is a little bit weak. We didn't actually talk about that.
+
+[Russel ABM Russel] 11:57:55
+Accuracy and export versus export ground to how we're going to measure that. And I want to show that. Think about that. Maybe percentage.
+
+[Russel ABM Russel] 11:58:05
+Or how do you define the ground truth as well? This is the tricky one.
+
+[Cyrus] 11:58:08
+Yeah.
+
+[Cyrus] 11:58:09
+Well, that one, I thought we'd just ask, like, a bunch of experts. Like, you're an expert, for example.
+
+[Cyrus] 11:58:15
+So that's one. So we just we give the expert the scenario.
+
+[Russel ABM Russel] 11:58:20
+Okay, okay.
+
+[Cyrus] 11:58:20
+And what are the expert size gifts?
+
+[Russel ABM Russel] 11:58:24
+Okay, that's — I agree with that. That's fine. So the human expert, right?
+
+[Russel ABM Russel] 11:58:31
+It's a ground truth, uh, from…
+
+[Russel ABM Russel] 11:58:34
+Human.
+
+[Russel ABM Russel] 11:58:36
+Expo.
+
+[Russel ABM Russel] 11:58:37
+How about that?
+
+[Russel ABM Russel] 11:58:39
+Yep. That's what I'm saying. Yep.
+
+[Russel ABM Russel] 11:58:44
+Expert, they're already there. Human expert ground truth or ground truth from a human expert. That's better, not the AI you are talking about.
+
+[Russel ABM Russel] 11:58:52
+Okay, that… that's… that should be fine, and then we think about this traffic light system, and then a little bit of elaboration in the next slide, you know, to put it there. What does it mean? How are we going to do that? Okay?
+
+[Russel ABM Russel] 11:59:05
+Uh, rest of the parts are quite straightforward. Add a screenshot of that qualitative data and quantitative data, some questionnaires, right? You have done it already, probably, I'll review those.
+
+[Russel ABM Russel] 11:59:15
+Uh, for the ethics approval process. Uh, have you designed the survey? I'm not here.
+
+[Cyrus] 11:59:20
+Not yet.
+
+[Russel ABM Russel] 11:59:21
+So add the form under ethics folder, and then you can do those, okay? Anything else you need from me?
+
+[Russel ABM Russel] 11:59:29
+You can do that work, and if needed, I can catch up one more time before the… when is the presentation? This Friday, right?
+
+[Cyrus] 11:59:35
+Friday the 4th, sorry, Friday 4pm.
+
+[Russel ABM Russel] 11:59:37
+I mean, Thursday, I can give you half an hour. Maybe you can just quickly review the overall presentation. And if you have any questions, you can do asynchronously.
+
+[Russel ABM Russel] 11:59:45
+I think now it is getting better. We might need to — yeah, just a little bit polish that one. That's good enough for 10 minutes presentation. Good content you have there.
+
+[Cyrus] 11:59:48
+Yeah.
+
+[Russel ABM Russel] 11:59:56
+And some of them will be, of course.
+

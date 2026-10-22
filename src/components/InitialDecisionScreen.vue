@@ -1,7 +1,7 @@
 <script setup>
 import { ref, computed } from 'vue'
 
-const props = defineProps({
+defineProps({
   scenario: { type: Object, required: true },
 })
 const emit = defineEmits(['submit'])
@@ -13,21 +13,23 @@ const canSubmit = computed(() => selectedOption.value !== null && reasoning.valu
 
 function submit() {
   if (!canSubmit.value) return
-  emit('submit', { option: selectedOption.value, reasoning: reasoning.value.trim() })
+  emit('submit', { option: selectedOption.value, reasoning: reasoning.value })
 }
 </script>
 
 <template>
-  <section class="screen">
-    <h1>What would you do?</h1>
+  <section class="screen stage-panel">
+    <h1 tabindex="-1" data-stage-heading>What would you do?</h1>
     <p class="description">Pick an option and briefly explain your reasoning.</p>
 
-    <div class="option-list">
+    <form @submit.prevent="submit">
+    <fieldset class="option-list">
+      <legend>Your initial decision</legend>
       <label v-for="opt in scenario.options" :key="opt.id" class="option-row">
         <input type="radio" name="initial-option" :value="opt.id" v-model="selectedOption" />
         <span><strong>{{ opt.id }}.</strong> {{ opt.label }}</span>
       </label>
-    </div>
+    </fieldset>
 
     <label class="field-label" for="initial-reasoning">Your reasoning</label>
     <textarea
@@ -35,8 +37,11 @@ function submit() {
       v-model="reasoning"
       rows="4"
       placeholder="Why did you choose this option?"
+      required
     ></textarea>
 
-    <button :disabled="!canSubmit" @click="submit">Submit initial decision</button>
+    <p class="help-text">You cannot change this initial response after submitting it.</p>
+    <button type="submit" :disabled="!canSubmit">Submit initial decision</button>
+    </form>
   </section>
 </template>

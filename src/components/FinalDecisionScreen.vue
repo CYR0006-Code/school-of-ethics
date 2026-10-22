@@ -14,24 +14,27 @@ const canSubmit = computed(() => selectedOption.value !== null && reasoning.valu
 
 function submit() {
   if (!canSubmit.value) return
-  emit('submit', { option: selectedOption.value, reasoning: reasoning.value.trim() })
+  emit('submit', { option: selectedOption.value, reasoning: reasoning.value })
 }
 </script>
 
 <template>
-  <section class="screen">
-    <h1>Final decision</h1>
+  <section class="screen stage-panel">
+    <h1 tabindex="-1" data-stage-heading>Final decision</h1>
     <p class="description">
       Your initial choice was <strong>{{ initialDecision.option }}</strong>. After seeing the AI
       panel's advice, confirm or change your decision and explain why.
     </p>
+    <p class="help-text">Your initial choice is preselected. Confirm it or choose a different option, then enter your final reasoning.</p>
 
-    <div class="option-list">
+    <form @submit.prevent="submit">
+    <fieldset class="option-list">
+      <legend>Your final decision</legend>
       <label v-for="opt in scenario.options" :key="opt.id" class="option-row">
         <input type="radio" name="final-option" :value="opt.id" v-model="selectedOption" />
         <span><strong>{{ opt.id }}.</strong> {{ opt.label }}</span>
       </label>
-    </div>
+    </fieldset>
 
     <label class="field-label" for="final-reasoning">Your reasoning</label>
     <textarea
@@ -39,8 +42,11 @@ function submit() {
       v-model="reasoning"
       rows="4"
       placeholder="Did the AI advice change your mind? Why or why not?"
+      required
     ></textarea>
 
-    <button :disabled="!canSubmit" @click="submit">Confirm final decision</button>
+    <p class="help-text">You cannot change this final response after submitting it.</p>
+    <button type="submit" :disabled="!canSubmit">Confirm final decision</button>
+    </form>
   </section>
 </template>
