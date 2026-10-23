@@ -1,43 +1,79 @@
 # Handover — School of Ethics
 
-_Last updated: 2026-10-22_
+_Last updated: 2026-10-23_
 
 ## Where things stand
 
-- **Platform**: Vue 3 proof-of-concept, live at **https://schoolofethics-73280.web.app**. Implements the full participant flow (scenario → initial decision → AI advice → final decision → complete) for the platform's 2 embedded scenarios (`src/data/scenario.js`): *The Confidential Design Disclosure* (contested) and *The Community Grid Deployment* (high-consensus). Dissent condition set via `?dissent=visible` / `?dissent=hidden`.
-- **Ethics approval**: MUHREC Project ID 53838 — approval still pending (see `docs/ENG_FIT_4701_2.tex`, Section III-A). No participant data has been collected yet.
-- **Paper**: `docs/ENG_FIT_4701_2.tex` (IEEEtran). Stages 1–4 of the development process (requirements, personas, prototype design, prototype implementation) are marked complete in the paper; stage 5 (survey design) is drafted; stages 6–8 (ethics approval, running the study, analysis) are outstanding.
+- **Platform**: Vue 3 proof-of-concept on branch `latex-refinement` (last commit `389332f`, one file still uncommitted — see below). Participant flow: Google Form (info + consent) → platform (scenario choice → two scenarios, each with initial decision → AI advice → final decision → in-platform expert-reference feedback) → back to the same Google Form for the post-task survey (demographics, Jian et al. trust scale, reflection, scenario-quality ratings).
+- **Dissent-visibility design**: now a **randomised, counterbalanced within-subjects** manipulation (`src/App.vue`, `assignConditionOrder()`/`conditionForPosition()`). Every participant gets one scenario dissent-hidden and one dissent-visible; which scenario gets which is a coin flip at session start, independent of which scenario content they choose to start with. There is **no participant-facing toggle** — the old "choose whether to view perspectives" opt-in mechanic was removed this session (it would have broken the causal comparison via self-selection).
+- **Mock advice data**: `src/data/agentResponses.js` was fixed this session — the contested scenario's Safety and Risk + Professional Ethics agents now converge on a genuinely _incorrect_ option (D), with Stakeholder Impact dissenting to an acceptable one (B). Before this fix, both scenarios' "overall" AI recommendation was already inside the acceptable range, so RO1 (over-reliance on incorrect advice) was **silently unmeasurable** in the build — this was caught by an adversarial fact-check, not visible from reading the paper alone.
+- **Trust scale (RO4)**: dropped as a formal research objective. The Jian et al. 12-item scale is **not** in the platform and **not** in the local `docs/all google docs/GoogleForm.js` script — you added it directly to the **live** Google Form through the Forms UI. ⚠️ **Operational risk**: if `createSchoolOfEthicsForm()` in that script is ever re-run, it will generate a fresh form _without_ the trust scale, since the script was never updated to match. Either update the script to match the live form, or make a note never to re-run it.
+- **Deployment**: the live site (https://schoolofethics-73280.web.app) has **not** been redeployed since today's `App.vue`/`AdviceScreen.vue`/`agentResponses.js`/`InstructionsScreen.vue` changes. Redeploy with `npm run build && npx firebase-tools deploy --only hosting` before relying on the live URL for anything (demos, the MUHREC advertisement's QR code, piloting).
+- **Ethics approval**: MUHREC Project ID 53838, still pending. You've recently updated the advertisement (now correctly says "2" scenarios), the explanatory statement (Supabase/Firestore contradiction resolved — now consistently "Firestore," though that storage layer isn't actually built in `src/firebase/firebase.js` yet), and moved/renamed several files in `docs/all google docs/.../Ethics and templates/`.
+- **Paper**: `docs/ENG_FIT_4701_2 (1).tex` — note the filename still has the `(1)` suffix from however it got here (likely an Overleaf re-download). **This should be renamed back to `docs/ENG_FIT_4701_2.tex` before final submission** — nothing depends on the exact name functionally, but it's a loose end worth closing. One edit (today's redundancy trims, see below) is uncommitted on disk.
 
-## What happened this session
+## What happened this session (2026-10-23)
 
-1. Built out a 10-case external ethics scenario bank (`ideas/Our Scenario Bank (formatted).docx`) — 6 existing + 4 new NSPE cases, all reformatted to a consistent Source/Context/Dilemma/Options/Ethical Decision structure. **Not yet wired into the platform** — `src/data/scenario.js` still only has the original 2 scenarios.
-2. Identified the 5 source orgs used across that bank: ACS/CSIRO, Royal Academy of Engineering, Online Ethics Center (UVA), NSPE, Engineers Australia.
-3. Built a Google Apps Script (given to you in-chat, not committed to the repo) that generates a draft participant consent + reflection Google Form. You ran it from a **personal** Google account (school account had permission issues) and copied it into your Monash Drive manually.
-   - **Outstanding**: the form is still full of `[PLACEHOLDER]` text (researcher names, MUHREC approval number, platform URL, timing estimates) — not ready to send to anyone yet. Also worth checking against the official MUHREC consent/explanatory-statement templates already sitting in `docs/all google docs/.../Ethics and templates/Templates/` — your custom form may need to match that structure for ethics approval.
-4. Set up Firebase Hosting (`firebase.json`, `.firebaserc`) and deployed the platform to https://schoolofethics-73280.web.app. Redeploy with `npm run build && npx firebase-tools deploy --only hosting`.
-5. Updated `README.md` with the deployment section and current project structure.
+1. Replaced the old self-selected "view AI perspectives or skip" dissent mechanic with randomised, counterbalanced within-subjects assignment — fixed a real confound (self-selection breaks the causal comparison the paper's RQ depends on).
+2. Moved RO4/the trust-in-automation scale fully off the platform and onto the external Google Form; updated every paper section that referenced it (Methodology, Results, Conclusion) to describe the _actual_ location and sequencing (platform feedback happens first, survey — including trust scale — happens after, on return to the form).
+3. Resolved four `[REF]` placeholders and wove five previously-uncited `.bib` entries into the literature review; added two new real citations (Ji et al. 2023 on hallucination, the NSPE Board of Ethical Review page) and two more (Dawson et al. 2019 CSIRO/Data61, Royal Academy of Engineering 2011) to correct an inaccurate "grounded only in Engineers Australia" framing in the lit review.
+4. Ran three independent background audits against the paper: rubric compliance, adversarial fact-check vs. the actual codebase/docs, and citation accuracy. Findings and fixes:
+   - **Critical bug found and fixed**: mock advice data meant RO1 was unmeasurable (see above).
+   - **Citation error found and fixed**: `klingbeil2024trustreliance` was cited for trust/reliance _divergence_; the actual paper found they _correlate_. Reworded the claim.
+   - Fixed a real contradiction between Section II ("was validated against" the external scenario bank) and Section III-C ("remains subject to formal validation").
+   - Removed unused `natbib` package and an orphan, never-cited bib entry (`mitnews2026ainews`).
+   - Fixed `InstructionsScreen.vue`'s stale copy describing the old opt-in mechanic.
+5. Trimmed redundant prose for the 4-page limit (which, per the teaching team via the forum, **includes the bibliography** — not excluded as the rubric PDF's wording suggested). Defined "the EA Code" short form, cut several sentences that were pure restatements of earlier ones, and compressed Section IV-A's re-derivation of logic already covered in III-C. **Not yet re-verified against an actual compile** — last known count before this trim pass was "just over 4 pages, with bib entries 7–16 spilling onto page 5."
 
-## Likely next steps
+## Final sweep checklist
 
-- Fill in the Google Form placeholders and reconcile it with the MUHREC templates in `docs/`.
-- Decide whether/how the 10-case external scenario bank feeds into the platform (it's currently just a reference document, not loaded by the app).
-- Continue chasing MUHREC approval (Project ID 53838) — everything else (survey piloting, recruitment, data analysis) is blocked on this per the paper's Section V.
-- LaTeX paper: see starter prompt below.
+- [ ] **Recompile in Overleaf and confirm the page count.** If still over 4 pages (bibliography included), the next place to cut is the Section III-A development-stage list — it's the most itemized/verbose block left untouched. Don't cut Section III-E (Experimental Controls and Risks) — it's doing real work for the Methodology rubric score.
+- [ ] **Rename `docs/ENG_FIT_4701_2 (1).tex` back to `docs/ENG_FIT_4701_2.tex`** (and the corresponding `git mv`).
+- [ ] Only _after_ the page count is confirmed under budget: decide whether there's room for one compact **table** (not a diagram — diagrams cost more space than they're worth right now) — e.g. a scenario × role × recommendation table could replace some existing prose rather than purely add to it.
+- [ ] Reconcile remaining cross-document inconsistencies in the MUHREC materials (none of these affect the paper directly, but worth closing before submission):
+  - Eligibility: advertisement excludes "NOT a Malaysian citizen"; explanatory statement excludes "Malaysian or Indonesian citizenship."
+  - Timing: advertisement says "10 Minutes"; explanatory statement says "approximately 15 minutes."
+  - Author affiliation: paper says "Department of Software Engineering"; MUHREC documents list "Department of Human Centred Computing" — confirm which is correct and make them consistent.
+- [ ] Independently confirm the real MUHREC application status before the paper calls it "in the final stages" (III-A) — a supervision transcript suggested the Chief Investigator was only starting the application as of 2026-10-20; worth a quick check that this phrase is still accurate.
+- [ ] `README.md` is stale (still describes "no backend... hardcoded mock data," predates expert-reference feedback, randomised condition assignment, and JSON session logging). Not paper-critical, but worth a pass since it's the project's front door.
+- [ ] A separate, diverged copy of the paper exists at `docs/docs/ENG_FIT_4701_2.tex` on branch `feature/ROfulfilment` (which also has an unmerged trust-scale implementation and the earlier non-counterbalanced randomization). Not urgent, but don't accidentally edit or review that copy instead of this one.
 
-## Starter prompt for next LaTeX session
+## Starter prompts for the final-sweep session
+
+**Prompt 1 — compile-and-trim loop:**
 
 ```
-I'm working on docs/ENG_FIT_4701_2.tex for my FIT4701/2 project (multi-agent AI
-ethics-training platform studying dissent visibility and over-reliance). Read the
-current draft and docs/ENG_FIT_4701_2.bib first.
+I'm doing the final sweep on docs/ENG_FIT_4701_2.tex for my FIT4701/2 Initial
+Paper before submission. Read docs/HANDOVER.md first for full context. I need
+to confirm the paper is within the 4-page limit, which includes the
+bibliography (confirmed by the teaching team, overriding the rubric PDF's
+ambiguous wording).
+```
 
-Context: MUHREC ethics approval (Project ID 53838) is still pending, so no
-participant data exists yet — the paper currently reports completed design/
-build artifacts (requirements, personas, prototype, 2-scenario bank) rather than
-results. There are a few [REF] placeholders still in the text that need real
-citations.
+**Prompt 2 — final consistency + rubric re-check:**
 
-What I want to work on today: <fill in — e.g. "find citations for the [REF]
-placeholders in the Introduction", "tighten Section IV", "draft the Semester 2
-timeline for Section V">
+```
+Read docs/HANDOVER.md for context, then docs/ENG_FIT_4701_2.tex,
+docs/ENG_FIT_4701_2.bib, and the rubric at
+docs/all google docs/ENG4701 Week 12 Initial Paper Rubric (1).pdf.
+
+This paper went through a heavy edit pass today (see HANDOVER.md "What
+happened this session") fixing a real bug in the mock advice data, a citation
+pointing the wrong direction, several cross-section contradictions, and a page-
+budget trim. Before I submit: re-check the paper is internally consistent
+(no leftover references to the old dissent-selection mechanic, no duplicate
+content from the trim pass reading awkwardly, all \ref/\label/\cite still
+resolve) and re-score it against the rubric one more time. Flag anything that
+looks like it regressed from a previous fix, and give a final go/no-go
+recommendation for submission.
+```
+
+**Prompt 3 — MUHREC cross-document check (optional, lower priority):**
+
+```
+Read docs/HANDOVER.md, then compare docs/ENG_FIT_4701_2.tex against the
+current MUHREC advertisement, explanatory statement, and consent form under
+docs/all google docs/.../Ethics and templates/. Check the open items listed
+under HANDOVER.md's "Final sweep checklist" (eligibility, timing, author
+affiliation) and tell me exactly what needs to change and where.
 ```
