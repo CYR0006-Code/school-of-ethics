@@ -4,21 +4,21 @@ export const adviceVersion = 'static-advice-1'
 export const agentResponses = {
   'confidential-design-disclosure': {
     overall: {
-      recommends: 'A',
-      reasoning: 'Use the internal review and seek a controlled independent assessment. The thermal issue remains uncertain, and a review is offered in one week. This approach investigates possible harm while protecting confidential design information, although the community receives less immediate information.',
+      recommends: 'D',
+      reasoning: 'Keep the matter internal and pause further discussion until the thermal issue is reproduced. The test results remain inconsistent, and a formal internal review is already scheduled within the week. Treating an unreproduced signal as confirmed risks acting on a testing artifact, and releasing design information now would expose confidential material over an issue that has not yet been established.',
     },
     agents: [
       {
         id: 'safety',
         name: 'Safety and Risk',
-        recommends: 'A',
-        reasoning: 'The tests have not consistently reproduced the thermal issue, so its severity remains uncertain. A controlled independent assessment can examine that uncertainty without publishing all design files. The review should address the concern promptly; confidentiality should not become a reason to leave it unexamined.',
+        recommends: 'D',
+        reasoning: 'The thermal signal has not been consistently reproduced across tests, so there is not yet a verified safety issue to act on. Escalating or disclosing before reproduction risks responding to noise rather than a confirmed hazard, and the scheduled internal review is the appropriate venue to resolve that uncertainty first.',
       },
       {
         id: 'ethics',
         name: 'Professional Ethics',
-        recommends: 'A',
-        reasoning: 'The decision involves both responsible investigation and confidentiality. Internal review combined with independent assessment provides a way to examine the concern while protecting sensitive information. Its limitation is that the community must wait for more information.',
+        recommends: 'D',
+        reasoning: 'Commercial confidentiality obligations and professional diligence both support resolving the technical uncertainty internally before any external communication. Acting on an unreproduced signal, or disclosing confidential design detail in response to it, would not be a proportionate step given what is currently known.',
       },
       {
         id: 'stakeholder',

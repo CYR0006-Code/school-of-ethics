@@ -1,0 +1,162 @@
+\documentclass[conference]{IEEEtran}
+
+% All these packages you need, if you need any others you can add them here.
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{booktabs}
+\usepackage{hyperref}
+
+
+% Reduce hyphenation while keeping inter-word spacing tight.
+\pretolerance=2000
+\hyphenpenalty=800
+\exhyphenpenalty=500
+\emergencystretch=1em
+
+% Do not change the bibliography style.
+\bibliographystyle{IEEEtran}
+
+% ── Project Data ──────────────────────────────────────────────────────────────
+\title{Designing a Multi-Agent AI Ethics Training Platform to Study Dissent Visibility and Over-Reliance}
+
+\author{
+  \IEEEauthorblockN{Aryan Cyrus and Ubaid Irfan}
+  \IEEEauthorblockA{Department of Software Engineering}
+}
+% ─────────────────────────────────────────────────────────────────────────────
+
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+Engineering decisions increasingly involve artificial intelligence (AI) advice, creating risks of over-reliance when recommendations are incorrect or inappropriate. Although previous research has examined reliance on AI and conformity to multi-agent advice, the influence of visible AI-agent disagreement on engineering ethics decisions remains underexplored. This project develops a multi-agent ethics-training platform to investigate whether showing disagreement between AI agents affects participants' reliance on advice and alignment with expert-reviewed ethical decisions. An experiment is proposed in which participants complete two engineering ethics scenarios, recording a decision before and after receiving advice from an AI panel whose disagreement is either shown or hidden. Outcomes include agreement with incorrect AI advice and selection of expert-acceptable decisions. The research design, requirements, and a working proof-of-concept platform implementing the full manipulation and data-logging pipeline have been developed. Expert validation and participant recruitment remain planned, subject to ethics approval.\end{abstract}
+
+\section{Introduction}
+Artificial intelligence (AI) systems are increasingly consulted by engineering students and professionals, not only for technical work but also for decisions with ethical consequences \cite{landes2026defermoraladvice}. Such advice can improve decision accuracy, but AI systems can also hallucinate, reproduce bias, or be confidently wrong, and their errors are presented as fluently as their correct answers \cite{ji2023hallucination}. Distinguishing sound advice is made even more difficult under the pressures under which engineers commonly work.
+
+The resulting risk is over-reliance: the acceptance of AI advice even when it is incorrect \cite{bucinca2021trustorthink}, a pattern already linked to negative learning outcomes among students \cite{abubakar2025overreliance}. In engineering practice, where decisions affect public safety and are made under time and commercial pressure, over-reliance transfers judgment from an accountable professional to a system that carries no accountability. Ethics education is intended to develop the independent judgement that over-reliance erodes, yet AI ethics education research has concentrated on bias, fairness, and privacy, and has rarely measured what students do when given AI advice \cite{hillis2026aiethics}.
+
+Advice is increasingly drawn from several AI agents rather than one. A panel of agents that appears unanimous may strengthen conformity pressure, whereas a visible dissenting agent has been shown to weaken it in low-stakes scenarios \cite{tsuchiya2026multiaiadvice}. Whether agent disagreement is shown to the user is therefore a design choice with governance consequences, referred to here as dissent visibility. Its effect on ethical decisions, as opposed to simple prediction tasks, has not been tested. This motivates evaluating how dissent visibility influences behavioural reliance and alignment with expert-reviewed ethical decisions, with implications for the responsible design of multi-agent AI systems.
+
+The aim of this project is to investigate how the visibility of disagreement among AI agents affects users' behavioural reliance on AI advice when making engineering ethics decisions. The primary research question is:
+
+\textit{RQ: How does visible versus hidden disagreement among AI agents affect users' over-reliance on AI advice in engineering ethics scenarios?}
+
+This paper presents the design of a multi-agent ethics-training platform and an experiment that tests whether dissent visibility affects over-reliance and affects the quality of students' ethical decisions. Section II reviews the relevant literature and defines the research objectives that operationalise RQ, Section III describes the study and platform design, Section IV presents the preliminary artifacts and anticipated results, and Section V concludes with the plan for the remainder of the project.
+\section{Project Background}
+\label{sec:oth_imp}
+
+\subsection{Literature Review}
+AI ethics education is expanding, but its coverage is uneven. A scoping review of 43 studies found that bias, fairness, and privacy dominate the field, whereas governance, explainability, and trust are comparatively under-studied, and that outcomes are assessed mostly through self-report rather than observed behaviour \cite{hillis2026aiethics}, even as generative AI is itself increasingly used to build ethics-education content \cite{grey2025ethicalreasoning}. What students do when given AI advice is therefore rarely measured.
+
+Research on human-AI decision making supplies the behavioural measures that this field lacks. Over-reliance is operationalised as the rate at which incorrect AI advice is accepted \cite{bucinca2021trustorthink}, and reliance can be measured relative to a decision recorded before the advice is shown, which separates appropriate reliance from over-reliance \cite{schemmer2023appropriatereliance}. Self-reported trust is measured with the trust-in-automation scale \cite{jian2000trustautomation}. Trust and reliance are related but conceptually distinct constructs: self-reported trust has been shown to correlate with, but not fully determine, behavioural reliance \cite{klingbeil2024trustreliance}, so both are measured independently rather than one being inferred from the other.
+
+Engineering ethics is commonly taught through case-based reasoning \cite{hillis2026aiethics, bairaktarova2015engineeringethics}, and professional bodies across several jurisdictions publish ethics opinions with documented expert judgement, including the US National Society of Professional Engineers (NSPE) Board of Ethical Review \cite{nspe2026ber}, the UK Royal Academy of Engineering \cite{raeng2011ethicsguide}, and Australia's CSIRO/Data61 AI-ethics case studies \cite{dawson2019aiethicsframework}. 
+
+This project's candidate-scenario research was informed by and cross-checked against this wider case bank. The platform's two engineering ethics scenarios and provisional reference answers are grounded in the Engineers Australia Code of Ethics and Guidelines on Professional Conduct \cite{engineersaustralia2022code}, which provides a framework for professional ethical judgement.
+
+When advice is given by a panel of AI agents, a single dissenting agent has been shown to reduce conformity pressure \cite{tsuchiya2026multiaiadvice}. That evidence comes from simplified, low-stakes prediction tasks, with no validated measure of moral reasoning comparable to existing domain-specific engineering-ethics instruments \cite{stransky2023processsafety}.
+
+\subsection{Research Objectives}
+
+Three research objectives operationalise the research question, examining behavioural over-reliance, expert-reference decision alignment, and exploratory differences between scenarios. Their corresponding measures are presented in Table~\ref{tab:ros}.
+
+\begin{table}[h]
+\begin{center}
+\caption{Research objectives and their measures.}
+\label{tab:ros}
+\begin{tabular}{p{0.06\linewidth}p{0.42\linewidth}p{0.38\linewidth}}
+\hline
+RO & Objective & Measure
+\\
+\hline
+RO1 & Measure the effect of dissent visibility on decision makers' behavioural over-reliance on incorrect AI advice. & Wrong-advice agreement rate, compared between participants randomly assigned to visible or hidden dissent for the incorrect-advice scenario.
+\\
+RO2 & Evaluate whether dissent visibility improves the accuracy of decision makers' final ethical decisions relative to expert-validated ground truth. & Proportion of final decisions within the expert-acceptable response range, compared across dissent conditions while accounting for scenario differences.
+\\
+RO3 & Explore whether the effect of dissent visibility on expert-reference decision alignment differs between scenarios. & Scenario-specific comparison of expert-reference decision alignment, interpreted as exploratory.
+\\
+\hline
+\end{tabular}
+\end{center}
+\end{table}
+
+\section{Methodology}
+
+\subsection{Development Process}
+
+The platform and study were developed through the following sequence of stages:
+
+\begin{enumerate}
+    \item \textit{Requirements from literature.} Functional and non-functional requirements (Section~III) were derived from the human-AI reliance and AI-ethics-education literature reviewed in Section~II.
+    \item \textit{Persona design.} Representative participant personas (e.g. engineering student, early-career engineer) were developed to ground the requirements and scenario design in realistic users.
+    \item \textit{Prototype design.} Interface mockups were produced for each screen; candidate scenarios were generated and shortlisted (Section~III-C); scenario wording, options and consensus classification were mapped against expert sources for validation; and the three fixed AI roles (Safety and Risk, Professional Ethics, Stakeholder Impact) were defined, including the agreement/dissent pattern each role produces per scenario (Section~III-C).
+    \item \textit{Prototype implementation.} The design was implemented as a working proof-of-concept covering the full participant flow, condition and scenario-order assignment, and structured session logging (Section~IV-A).
+    \item \textit{Survey design.} An evaluation survey was designed to assess the prototype, specifying both the task participants complete on the platform (the two scenarios) and the post-task Google Form questions completed afterward (demographic items, the trust scale, reflection and scenario-quality items).
+    \item \textit{Ethics approval.} Ethics approval is being sought from the Monash University Human Research Ethics Committee (MUHREC, Project ID 53838) before any participant data is collected.
+    \item \textit{Conduct survey.} Once approved, the study will be run with eligible participants under the visible- and hidden-dissent conditions.
+    \item \textit{Data analysis.} Collected quantitative data (decisions and timings) will be analysed against RO1--RO3, and qualitative data (participants' written reasoning and open-ended survey responses) will be analysed thematically. Trust-scale responses are retained but not analysed against RO1--RO3.
+\end{enumerate}
+
+Stages 1--5 are complete; stage 6 is in the final stages, pending approval; stages 7--8 remain to be carried out in Semester 2, as set out in Section~V.
+
+\subsection{Study Design and Procedure}
+
+A randomised within-subjects experiment is planned in which each eligible adult engineering student or practitioner completes both the visible-dissent and hidden-dissent conditions, one per scenario, rather than being assigned to a single condition for the whole session. Each participant completes two engineering ethics scenarios, one provisionally high-consensus and one provisionally contested, and chooses which to start with. Independently of that choice, the platform randomly assigns either visible or hidden dissent to the first scenario, with the opposite condition automatically assigned to the second. This randomises condition order while preserving participant choice of scenario order. For each scenario, the participant records an initial decision and brief reasoning before receiving AI advice, then records a final decision and reasoning after viewing the advice. Recruitment will run as a convenience sample through Monash engineering course channels and professional networks, admitting as many eligible participants as feasible during FYP-B; no a priori sample-size or power calculation has been performed given the exploratory scope of this initial phase.
+
+The hidden-dissent condition presents an aggregate AI recommendation and summary. The visible-dissent condition presents the same aggregate recommendation while additionally exposing the three agent-level recommendations and rationales. This design holds the scenario, controlled recommendation targets, aggregate advice and surrounding interaction constant where practicable, while manipulating whether disagreement between agents is visible.
+
+Participants begin on a Google Form that presents the project information and consent question, then links out to the platform to complete both scenarios. The platform itself shows expert-reference feedback and a debrief immediately after the second scenario; no survey content is administered within the platform. Participants then return to the same Google Form to complete the post-task survey: demographic items, the trust-in-automation scale, open-ended reflection questions on dissent and trust, and scenario-quality ratings.
+
+\subsection{Scenario and Agent Design}
+
+Candidate scenarios were generated with AI assistance, prompted to produce highly ambiguous engineering-ethics dilemmas spanning general engineering and software-engineering-specific situations, then narrowed by the research team to the two scenarios used in the platform: \textit{The Confidential Design Disclosure} (provisionally contested) and \textit{The Community Grid Deployment} (provisionally high-consensus). Each scenario presents a four-option forced choice and is mapped to specific clauses of the Engineers Australia Code of Ethics and Guidelines on Professional Conduct \cite{engineersaustralia2022code}, with an authored acceptable-option set, rationale, and per-option feedback. A scenario will be classified as high-consensus when at least 80\% of consulted experts agree on the preferred decision, and contested otherwise. The scenario wording, answer mapping, and consensus classifications remain subject to formal human expert validation before participant research begins.
+
+The platform uses three AI roles: Safety and Risk, Professional Ethics, and Stakeholder Impact. Standardised role-specific recommendations are designed to produce controlled agreement and dissent. For the planned incorrect-advice scenario, the aggregate recommendation falls outside the authored acceptable range, while a dissenting agent supports an acceptable option. The second scenario presents disagreement between acceptable alternatives. Advice is pre-generated and fixed to ensure consistency between participants, with the condition and displayed advice recorded for subsequent analysis.
+
+\subsection{Measures}
+
+The primary behavioural measure (RO1) is \textit{wrong-advice agreement}: the proportion of participants whose final decision matches an incorrect aggregate AI recommendation. With the current two-scenario design, this outcome is evaluated for the incorrect-advice scenario by comparing participants randomly assigned to visible versus hidden dissent for that scenario. Initial decisions are retained to distinguish \textit{harmful switching} from simple agreement with AI advice.
+
+RO2 measures whether final decisions fall within the expert-acceptable response range, comparing outcomes between dissent conditions across both scenarios. Results will be examined by scenario and analysed using methods accounting for repeated observations and scenario differences. RO3 will explore differences in expert-reference alignment between the two scenarios, without attributing these differences solely to expert-consensus level. Qualitative reasoning will be analysed thematically, while structured session logs record scenario, condition, initial and final decisions, and advice exposure.
+
+\subsection{Experimental Controls and Risks}
+
+The principal methodological risks are uncontrolled variation in AI output, weak scenario ground truth, contamination between experimental conditions, and premature collection of participant data. Because each participant completes both conditions, the platform randomly assigns dissent visibility independently of the participant's chosen scenario order, with both assignments and order recorded for analysis. For the current proof-of-concept, AI-output variation is eliminated through pre-generated, fixed advice; if live generation is introduced, controlled prompts, model versioning, and pilot testing will be used to assess remaining variability. Expert review of scenario wording and reference answers will address ground-truth uncertainty. Because the visible-dissent condition provides additional agent explanations, observed effects may reflect both disagreement and increased information. Because expert-reference feedback is shown on the platform immediately after the second scenario, the open-ended reflection and trust-scale responses collected afterward in the post-task survey may be coloured by participants already knowing whether their decisions were expert-acceptable; this is accepted given self-reported trust is no longer tied to a formal research objective (Section~II). Participation will be voluntary and preceded by informed consent under the explanatory statement lodged with MUHREC. No participant research will commence before ethics approval, and exported session records will be de-identified and managed according to the approved data-management plan.
+
+
+
+
+
+\section{Preliminary Artifacts and Anticipated Results}
+
+No participant data has been collected, as ethics approval remains pending. The completed prototype artifacts demonstrate initial feasibility, while experimental outcomes remain anticipated.
+
+\subsection{Completed Artifacts}
+
+Requirements, personas and mockups were produced during the first half of the project to drive the platform design: a functional/non-functional requirements specification covering the pre-, during- and post-decision stages of a trial (condition assignment, multi-agent advice generation, dissent surfacing/suppression, decision capture, trust survey and data export, among others), together with representative student and early-career-engineer personas and interface mockups for each screen in the participant flow.
+
+A working proof-of-concept implements that design end-to-end: instructions, scenario selection, an initial decision with reasoning, condition-dependent AI advice, a final decision with reasoning, the second scenario, expert-reference feedback and a session-complete screen. Scenario and condition assignment, scenario order and the dissent-visibility manipulation all function as specified in Section III, and every session exports a structured JSON record so this prototype itself already produces data shaped for RO1--RO3 analysis once run with real participants.
+
+The scenario bank for the prototype is drafted and loaded into the platform: \textit{The Confidential Design Disclosure} (contested) and \textit{The Community Grid Deployment} (high-consensus), each with four options, an authored acceptable-option set and rationale, per-option feedback text, and citations to specific clauses of the Engineers Australia Code of Ethics and Guidelines on Professional Conduct. As described in Section III-B, the contested scenario's agents are configured so that the majority recommendation is incorrect while one agent dissents toward an acceptable option, giving the behavioural over-reliance measure in RO1 a trial on which it can actually be observed; the high-consensus scenario instead varies which acceptable option a dissenting agent proposes. This confirms that the manipulation required for RO1--RO3 is realisable in the platform as built, ahead of formal expert sign-off on the scenario wording and answer keys.
+
+A post-task evaluation survey has been drafted as a separate Google Form, administered after participants complete both scenarios and receive expert-reference feedback on the platform. It collects demographic items, the Jian et al. (2000) 12-item trust-in-automation scale (including reverse-scoring of the five distrust-worded items and computation of a single composite trust score per participant), open-ended reflection questions on dissent and trust, and scenario-quality ratings. Self-reported trust was originally intended to support a fourth objective, which has since been dropped from the scope of this project (Section~II); the scale is retained in this external survey rather than built into the platform itself, so trust data can still be collected for possible future analysis without further platform development.
+
+\subsection{Anticipated Results}
+Visible AI-agent dissent is hypothesised to reduce acceptance of incorrect advice relative to hidden dissent, consistent with previous findings on conformity \cite{tsuchiya2026multiaiadvice}. It may also improve alignment with expert-acceptable decisions. However, exposing additional perspectives could introduce uncertainty or cognitive load, potentially reducing these benefits. The study is expected to provide preliminary evidence about these effects in engineering ethics scenarios, rather than establish generalisable conclusions from the limited scenario bank.
+
+\section{Conclusion and future works}
+
+This paper has set out three research objectives examining whether dissent visibility among AI agents affects engineering students' over-reliance on incorrect advice and the accuracy of their ethical decisions, and whether these effects differ between high-consensus and contested scenarios. A fourth objective, on self-reported trust and its alignment with behavioural reliance, has been dropped from the scope of this project; the Jian et al. trust-in-automation scale is still administered via the external post-task survey, so the data remains available for exploratory or future analysis without being built into the platform itself. The requirements, personas, mockups, a working proof-of-concept platform, and a drafted two-scenario bank grounded in the Engineers Australia Code of Ethics are complete, demonstrating that the planned manipulation and measures are implementable.
+
+The remaining work for FYP-B is to: obtain MUHREC ethics approval; complete formal expert review and sign-off of the scenario wording, answer keys and consensus classification; finalise and pilot the post-task evaluation survey; replace the frozen mock advice with version-pinned live AI generation and re-verify the agreement/dissent patterns required by the design; recruit and run participants under both conditions; and analyse the resulting data against RO1--RO3, with self-reported trust considered for future analysis. The experimental evaluation, analysis, and final reporting are planned for FYP-B.
+
+\section{Acknowledgments}
+
+AI assistance (a large language model) was used to generate candidate engineering-ethics scenarios during platform development, as described in Section~III-C, and to assist with refining the wording of this paper; the research team subsequently narrowed the scenarios and reviewed them for consistency with the Engineers Australia Code of Ethics and Guidelines on Professional Conduct. All research design and analysis were conducted by the authors.
+
+\bibliography{ENG_FIT_4701_2.bib}
+ 
+\end{document}
